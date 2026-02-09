@@ -1199,7 +1199,207 @@
       "created_at": 1770468819,
       "num_comments": 5,
       "hn_url": "https://news.ycombinator.com/item?id=46923463"
+    },
+    {
+      "id": "46930961",
+      "title": "Vouch",
+      "url": "https://github.com/mitchellh/vouch",
+      "points": 756,
+      "author": "chwtutha",
+      "created_at": 1770520168,
+      "num_comments": 345,
+      "hn_url": "https://news.ycombinator.com/item?id=46930961"
+    },
+    {
+      "id": "46934404",
+      "title": "AI fatigue is real and nobody talks about it",
+      "url": "https://siddhantkhare.com/writing/ai-fatigue-is-real",
+      "points": 414,
+      "author": "sidk24",
+      "created_at": 1770560372,
+      "num_comments": 287,
+      "hn_url": "https://news.ycombinator.com/item?id=46934404"
+    },
+    {
+      "id": "46932192",
+      "title": "DoNotNotify is now Open Source",
+      "url": "https://donotnotify.com/opensource.html",
+      "points": 383,
+      "author": "awaaz",
+      "created_at": 1770536389,
+      "num_comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=46932192"
+    },
+    {
+      "id": "46934344",
+      "title": "I am happier writing code by hand",
+      "url": "https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/",
+      "points": 363,
+      "author": "lazyfolder",
+      "created_at": 1770559938,
+      "num_comments": 296,
+      "hn_url": "https://news.ycombinator.com/item?id=46934344"
+    },
+    {
+      "id": "46933067",
+      "title": "Slop Terrifies Me",
+      "url": "https://ezhik.jp/ai-slop-terrifies-me/",
+      "points": 350,
+      "author": "Ezhik",
+      "created_at": 1770546695,
+      "num_comments": 304,
+      "hn_url": "https://news.ycombinator.com/item?id=46933067"
+    },
+    {
+      "id": "46930391",
+      "title": "Show HN: LocalGPT \u2013 A local-first AI assistant in Rust with persistent memory",
+      "url": "https://github.com/localgpt-app/localgpt",
+      "points": 319,
+      "author": "yi_wang",
+      "created_at": 1770513998,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=46930391"
+    },
+    {
+      "id": "46935791",
+      "title": "I put a real-time 3D shader on the Game Boy Color",
+      "url": "https://blog.otterstack.com/posts/202512-gbshader/",
+      "points": 290,
+      "author": "adunk",
+      "created_at": 1770568131,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=46935791"
+    },
+    {
+      "id": "46931805",
+      "title": "OpenClaw is changing my life",
+      "url": "https://reorx.com/blog/openclaw-is-changing-my-life/",
+      "points": 279,
+      "author": "novoreorx",
+      "created_at": 1770531687,
+      "num_comments": 439,
+      "hn_url": "https://news.ycombinator.com/item?id=46931805"
+    },
+    {
+      "id": "46935991",
+      "title": "Omega-3 is inversely related to risk of early-onset dementia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41506004/",
+      "points": 264,
+      "author": "brandonb",
+      "created_at": 1770569228,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=46935991"
+    },
+    {
+      "id": "46931948",
+      "title": "The world heard JD Vance being booed at the Olympics. Except for viewers in USA",
+      "url": "https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics",
+      "points": 256,
+      "author": "treetalker",
+      "created_at": 1770534040,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=46931948"
+    },
+    {
+      "id": "46930565",
+      "title": "Beyond agentic coding",
+      "url": "https://haskellforall.com/2026/02/beyond-agentic-coding",
+      "points": 253,
+      "author": "RebelPotato",
+      "created_at": 1770515709,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=46930565"
+    },
+    {
+      "id": "46933365",
+      "title": "Why E cores make Apple silicon fast",
+      "url": "https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/",
+      "points": 251,
+      "author": "ingve",
+      "created_at": 1770550309,
+      "num_comments": 234,
+      "hn_url": "https://news.ycombinator.com/item?id=46933365"
+    },
+    {
+      "id": "46939593",
+      "title": "AI makes the easy part easier and the hard part harder",
+      "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+      "points": 242,
+      "author": "weaksauce",
+      "created_at": 1770592414,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=46939593"
+    },
+    {
+      "id": "46934107",
+      "title": "GitHub Agentic Workflows",
+      "url": "https://github.github.io/gh-aw/",
+      "points": 238,
+      "author": "mooreds",
+      "created_at": 1770558056,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=46934107"
+    },
+    {
+      "id": "46933401",
+      "title": "Dave Farber has died",
+      "url": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/",
+      "points": 236,
+      "author": "vitplister",
+      "created_at": 1770550737,
+      "num_comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=46933401"
+    },
+    {
+      "id": "46936105",
+      "title": "Billing can be bypassed using a combo of subagents with an agent definition",
+      "url": "https://github.com/microsoft/vscode/issues/292452",
+      "points": 200,
+      "author": "napolux",
+      "created_at": 1770569768,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=46936105"
+    },
+    {
+      "id": "46938511",
+      "title": "Art of Roads in Games",
+      "url": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
+      "points": 186,
+      "author": "linolevan",
+      "created_at": 1770584724,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=46938511"
+    },
+    {
+      "id": "46935980",
+      "title": "Vouch",
+      "url": "https://github.com/mitchellh/vouch",
+      "points": 181,
+      "author": "dboon",
+      "created_at": 1770569149,
+      "num_comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=46935980"
+    },
+    {
+      "id": "46936237",
+      "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson\u2019s Mars books",
+      "url": "https://underhillgame.com/",
+      "points": 179,
+      "author": "ariaalam",
+      "created_at": 1770570510,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=46936237"
+    },
+    {
+      "id": "46932985",
+      "title": "Curating a Show on My Ineffable Mother, Ursula K. Le Guin",
+      "url": "https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/",
+      "points": 174,
+      "author": "bryanrasmussen",
+      "created_at": 1770545580,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=46932985"
     }
   ],
-  "last_updated": "2026-02-08T06:43:49.932775+00:00"
+  "last_updated": "2026-02-09T06:59:48.829731+00:00"
 }

@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Feb 2026 06:43:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 06:59:48 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[242 pts] AI makes the easy part easier and the hard part harder</title>
+      <link>https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder</link>
+      <description>&lt;p&gt;&lt;strong&gt;242 points&lt;/strong&gt; by weaksauce | &lt;strong&gt;196 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46939593&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46939593</guid>
+      <pubDate>Sun, 08 Feb 2026 23:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[186 pts] Art of Roads in Games</title>
+      <link>https://sandboxspirit.com/blog/art-of-roads-in-games/</link>
+      <description>&lt;p&gt;&lt;strong&gt;186 points&lt;/strong&gt; by linolevan | &lt;strong&gt;55 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46938511&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46938511</guid>
+      <pubDate>Sun, 08 Feb 2026 21:05:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[179 pts] Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books</title>
+      <link>https://underhillgame.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;179 points&lt;/strong&gt; by ariaalam | &lt;strong&gt;59 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46936237&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46936237</guid>
+      <pubDate>Sun, 08 Feb 2026 17:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[200 pts] Billing can be bypassed using a combo of subagents with an agent definition</title>
+      <link>https://github.com/microsoft/vscode/issues/292452</link>
+      <description>&lt;p&gt;&lt;strong&gt;200 points&lt;/strong&gt; by napolux | &lt;strong&gt;102 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46936105&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46936105</guid>
+      <pubDate>Sun, 08 Feb 2026 16:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[264 pts] Omega-3 is inversely related to risk of early-onset dementia</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/41506004/</link>
+      <description>&lt;p&gt;&lt;strong&gt;264 points&lt;/strong&gt; by brandonb | &lt;strong&gt;155 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46935991&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46935991</guid>
+      <pubDate>Sun, 08 Feb 2026 16:47:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[181 pts] Vouch</title>
+      <link>https://github.com/mitchellh/vouch</link>
+      <description>&lt;p&gt;&lt;strong&gt;181 points&lt;/strong&gt; by dboon | &lt;strong&gt;7 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46935980&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46935980</guid>
+      <pubDate>Sun, 08 Feb 2026 16:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[290 pts] I put a real-time 3D shader on the Game Boy Color</title>
+      <link>https://blog.otterstack.com/posts/202512-gbshader/</link>
+      <description>&lt;p&gt;&lt;strong&gt;290 points&lt;/strong&gt; by adunk | &lt;strong&gt;39 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46935791&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46935791</guid>
+      <pubDate>Sun, 08 Feb 2026 16:28:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[414 pts] AI fatigue is real and nobody talks about it</title>
+      <link>https://siddhantkhare.com/writing/ai-fatigue-is-real</link>
+      <description>&lt;p&gt;&lt;strong&gt;414 points&lt;/strong&gt; by sidk24 | &lt;strong&gt;287 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46934404&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46934404</guid>
+      <pubDate>Sun, 08 Feb 2026 14:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[363 pts] I am happier writing code by hand</title>
+      <link>https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/</link>
+      <description>&lt;p&gt;&lt;strong&gt;363 points&lt;/strong&gt; by lazyfolder | &lt;strong&gt;296 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46934344&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46934344</guid>
+      <pubDate>Sun, 08 Feb 2026 14:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[238 pts] GitHub Agentic Workflows</title>
+      <link>https://github.github.io/gh-aw/</link>
+      <description>&lt;p&gt;&lt;strong&gt;238 points&lt;/strong&gt; by mooreds | &lt;strong&gt;117 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46934107&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46934107</guid>
+      <pubDate>Sun, 08 Feb 2026 13:40:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[236 pts] Dave Farber has died</title>
+      <link>https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/</link>
+      <description>&lt;p&gt;&lt;strong&gt;236 points&lt;/strong&gt; by vitplister | &lt;strong&gt;39 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46933401&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46933401</guid>
+      <pubDate>Sun, 08 Feb 2026 11:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[251 pts] Why E cores make Apple silicon fast</title>
+      <link>https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/</link>
+      <description>&lt;p&gt;&lt;strong&gt;251 points&lt;/strong&gt; by ingve | &lt;strong&gt;234 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46933365&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46933365</guid>
+      <pubDate>Sun, 08 Feb 2026 11:31:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[350 pts] Slop Terrifies Me</title>
+      <link>https://ezhik.jp/ai-slop-terrifies-me/</link>
+      <description>&lt;p&gt;&lt;strong&gt;350 points&lt;/strong&gt; by Ezhik | &lt;strong&gt;304 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46933067&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46933067</guid>
+      <pubDate>Sun, 08 Feb 2026 10:31:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[174 pts] Curating a Show on My Ineffable Mother, Ursula K. Le Guin</title>
+      <link>https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/</link>
+      <description>&lt;p&gt;&lt;strong&gt;174 points&lt;/strong&gt; by bryanrasmussen | &lt;strong&gt;65 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46932985&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46932985</guid>
+      <pubDate>Sun, 08 Feb 2026 10:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[383 pts] DoNotNotify is now Open Source</title>
+      <link>https://donotnotify.com/opensource.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;383 points&lt;/strong&gt; by awaaz | &lt;strong&gt;47 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46932192&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46932192</guid>
+      <pubDate>Sun, 08 Feb 2026 07:39:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[256 pts] The world heard JD Vance being booed at the Olympics. Except for viewers in USA</title>
+      <link>https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics</link>
+      <description>&lt;p&gt;&lt;strong&gt;256 points&lt;/strong&gt; by treetalker | &lt;strong&gt;104 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46931948&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46931948</guid>
+      <pubDate>Sun, 08 Feb 2026 07:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[279 pts] OpenClaw is changing my life</title>
+      <link>https://reorx.com/blog/openclaw-is-changing-my-life/</link>
+      <description>&lt;p&gt;&lt;strong&gt;279 points&lt;/strong&gt; by novoreorx | &lt;strong&gt;439 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46931805&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46931805</guid>
+      <pubDate>Sun, 08 Feb 2026 06:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[756 pts] Vouch</title>
+      <link>https://github.com/mitchellh/vouch</link>
+      <description>&lt;p&gt;&lt;strong&gt;756 points&lt;/strong&gt; by chwtutha | &lt;strong&gt;345 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46930961&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46930961</guid>
+      <pubDate>Sun, 08 Feb 2026 03:09:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[253 pts] Beyond agentic coding</title>
+      <link>https://haskellforall.com/2026/02/beyond-agentic-coding</link>
+      <description>&lt;p&gt;&lt;strong&gt;253 points&lt;/strong&gt; by RebelPotato | &lt;strong&gt;86 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46930565&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46930565</guid>
+      <pubDate>Sun, 08 Feb 2026 01:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[319 pts] Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory</title>
+      <link>https://github.com/localgpt-app/localgpt</link>
+      <description>&lt;p&gt;&lt;strong&gt;319 points&lt;/strong&gt; by yi_wang | &lt;strong&gt;148 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=46930391&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=46930391</guid>
+      <pubDate>Sun, 08 Feb 2026 01:26:38 +0000</pubDate>
+    </item>
     <item>
       <title>[149 pts] Tiny C Compiler</title>
       <link>https://bellard.org/tcc/</link>
