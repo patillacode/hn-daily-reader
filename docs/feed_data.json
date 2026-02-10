@@ -1399,7 +1399,207 @@
       "created_at": 1770545580,
       "num_comments": 65,
       "hn_url": "https://news.ycombinator.com/item?id=46932985"
+    },
+    {
+      "id": "46945663",
+      "title": "Discord will require a face scan or ID for full access next month",
+      "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+      "points": 1513,
+      "author": "x01",
+      "created_at": 1770647858,
+      "num_comments": 1461,
+      "hn_url": "https://news.ycombinator.com/item?id=46945663"
+    },
+    {
+      "id": "46946401",
+      "title": "Why is the sky blue?",
+      "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
+      "points": 509,
+      "author": "udit99",
+      "created_at": 1770651591,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=46946401"
+    },
+    {
+      "id": "46946827",
+      "title": "GitHub is down again",
+      "url": "https://www.githubstatus.com/incidents/54hndjxft5bx",
+      "points": 492,
+      "author": "MattIPv4",
+      "created_at": 1770653539,
+      "num_comments": 386,
+      "hn_url": "https://news.ycombinator.com/item?id=46946827"
+    },
+    {
+      "id": "46947096",
+      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+      "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+      "points": 460,
+      "author": "tokyobreakfast",
+      "created_at": 1770654391,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=46947096"
+    },
+    {
+      "id": "46943568",
+      "title": "Show HN: Algorithmically finding the longest line of sight on Earth",
+      "url": "https://alltheviews.world",
+      "points": 385,
+      "author": "tombh",
+      "created_at": 1770631555,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=46943568"
+    },
+    {
+      "id": "46941603",
+      "title": "Claude\u2019s C Compiler vs. GCC",
+      "url": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+      "points": 341,
+      "author": "unchar1",
+      "created_at": 1770611438,
+      "num_comments": 344,
+      "hn_url": "https://news.ycombinator.com/item?id=46941603"
+    },
+    {
+      "id": "46949452",
+      "title": "Another GitHub outage in the same day",
+      "url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
+      "points": 308,
+      "author": "Nezteb",
+      "created_at": 1770664045,
+      "num_comments": 223,
+      "hn_url": "https://news.ycombinator.com/item?id=46949452"
+    },
+    {
+      "id": "46941882",
+      "title": "Nobody knows how the whole system works",
+      "url": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
+      "points": 306,
+      "author": "azhenley",
+      "created_at": 1770614895,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=46941882"
+    },
+    {
+      "id": "46945497",
+      "title": "AT&T, Verizon blocking release of Salt Typhoon security assessment reports",
+      "url": "https://www.reuters.com/business/media-telecom/senator-says-att-verizon-blocking-release-salt-typhoon-security-assessment-2026-02-03/",
+      "points": 285,
+      "author": "redman25",
+      "created_at": 1770646932,
+      "num_comments": 76,
+      "hn_url": "https://news.ycombinator.com/item?id=46945497"
+    },
+    {
+      "id": "46946872",
+      "title": "GitHub Is Down",
+      "url": "https://github.com/",
+      "points": 261,
+      "author": "albelfio",
+      "created_at": 1770653716,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=46946872"
+    },
+    {
+      "id": "46947777",
+      "title": "Hard-braking events as indicators of road segment crash risk",
+      "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+      "points": 254,
+      "author": "aleyan",
+      "created_at": 1770656977,
+      "num_comments": 376,
+      "hn_url": "https://news.ycombinator.com/item?id=46947777"
+    },
+    {
+      "id": "46948923",
+      "title": "Irish man with valid US work permit held in ICE detention for five months",
+      "url": "https://www.theguardian.com/us-news/2026/feb/09/irish-man-seamus-culleton-ice-detention",
+      "points": 253,
+      "author": "n1b0m",
+      "created_at": 1770661777,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=46948923"
+    },
+    {
+      "id": "46946308",
+      "title": "Sandboxels",
+      "url": "https://neal.fun/sandboxels/",
+      "points": 239,
+      "author": "2sf5",
+      "created_at": 1770651069,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=46946308"
+    },
+    {
+      "id": "46941640",
+      "title": "TSMC to make advanced AI semiconductors in Japan",
+      "url": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
+      "points": 237,
+      "author": "dev_tty01",
+      "created_at": 1770611894,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=46941640"
+    },
+    {
+      "id": "46949401",
+      "title": "Testing Ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt/",
+      "points": 228,
+      "author": "davidbarker",
+      "created_at": 1770663856,
+      "num_comments": 309,
+      "hn_url": "https://news.ycombinator.com/item?id=46949401"
+    },
+    {
+      "id": "46944245",
+      "title": "Matrix messaging gaining ground in government IT",
+      "url": "https://www.theregister.com/2026/02/09/matrix_element_secure_chat/",
+      "points": 217,
+      "author": "rbanffy",
+      "created_at": 1770637993,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=46944245"
+    },
+    {
+      "id": "46945235",
+      "title": "Thoughts on Generating C",
+      "url": "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c",
+      "points": 216,
+      "author": "ingve",
+      "created_at": 1770645288,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=46945235"
+    },
+    {
+      "id": "46945348",
+      "title": "UEFI Bindings for JavaScript",
+      "url": "https://codeberg.org/smnx/promethee",
+      "points": 210,
+      "author": "ananas-dev",
+      "created_at": 1770646056,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=46945348"
+    },
+    {
+      "id": "46946248",
+      "title": "Hong Kong pro-democracy tycoon Jimmy Lai gets 20 years' jail",
+      "url": "https://www.bbc.com/news/articles/c8d5pl34vv0o",
+      "points": 205,
+      "author": "tartoran",
+      "created_at": 1770650707,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=46946248"
+    },
+    {
+      "id": "46945755",
+      "title": "AI Doesn't Reduce Work\u2013It Intensifies It",
+      "url": "https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it",
+      "points": 199,
+      "author": "swolpers",
+      "created_at": 1770648270,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=46945755"
     }
   ],
-  "last_updated": "2026-02-09T06:59:48.829731+00:00"
+  "last_updated": "2026-02-10T06:59:25.630392+00:00"
 }
