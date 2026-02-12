@@ -1799,7 +1799,207 @@
       "created_at": 1770734969,
       "num_comments": 156,
       "hn_url": "https://news.ycombinator.com/item?id=46960392"
+    },
+    {
+      "id": "46978710",
+      "title": "Claude Code is being dumbed down?",
+      "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+      "points": 863,
+      "author": "WXLCKNO",
+      "created_at": 1770834219,
+      "num_comments": 565,
+      "hn_url": "https://news.ycombinator.com/item?id=46978710"
+    },
+    {
+      "id": "46971516",
+      "title": "Windows Notepad App Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+      "points": 768,
+      "author": "riffraff",
+      "created_at": 1770790533,
+      "num_comments": 476,
+      "hn_url": "https://news.ycombinator.com/item?id=46971516"
+    },
+    {
+      "id": "46982421",
+      "title": "Discord/Twitch/Snapchat age verification bypass",
+      "url": "https://age-verifier.kibty.town/",
+      "points": 604,
+      "author": "JustSkyfall",
+      "created_at": 1770850601,
+      "num_comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=46982421"
+    },
+    {
+      "id": "46978966",
+      "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
+      "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
+      "points": 528,
+      "author": "jedberg",
+      "created_at": 1770835381,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=46978966"
+    },
+    {
+      "id": "46976911",
+      "title": "Fluorite \u2013 A console-grade game engine fully integrated with Flutter",
+      "url": "https://fluorite.game/",
+      "points": 451,
+      "author": "bsimpson",
+      "created_at": 1770826870,
+      "num_comments": 256,
+      "hn_url": "https://news.ycombinator.com/item?id=46976911"
+    },
+    {
+      "id": "46973083",
+      "title": "Chrome extensions spying on users' browsing data",
+      "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
+      "points": 448,
+      "author": "qcontinuum1",
+      "created_at": 1770804056,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=46973083"
+    },
+    {
+      "id": "46977210",
+      "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "url": "https://z.ai/blog/glm-5",
+      "points": 372,
+      "author": "meetpateltech",
+      "created_at": 1770828093,
+      "num_comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=46977210"
+    },
+    {
+      "id": "46976443",
+      "title": "Why vampires live forever",
+      "url": "https://machielreyneke.com/blog/vampires-longevity/",
+      "points": 363,
+      "author": "machielrey",
+      "created_at": 1770825004,
+      "num_comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=46976443"
+    },
+    {
+      "id": "46972610",
+      "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
+      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+      "points": 352,
+      "author": "edward",
+      "created_at": 1770800640,
+      "num_comments": 551,
+      "hn_url": "https://news.ycombinator.com/item?id=46972610"
+    },
+    {
+      "id": "46974853",
+      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+      "url": "https://z.ai/blog/glm-5",
+      "points": 335,
+      "author": "CuriouslyC",
+      "created_at": 1770817336,
+      "num_comments": 423,
+      "hn_url": "https://news.ycombinator.com/item?id=46974853"
+    },
+    {
+      "id": "46973647",
+      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
+      "url": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+      "points": 332,
+      "author": "EwanG",
+      "created_at": 1770809258,
+      "num_comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=46973647"
+    },
+    {
+      "id": "46979562",
+      "title": "The risk of a hothouse Earth trajectory",
+      "url": "https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4",
+      "points": 321,
+      "author": "Archelaos",
+      "created_at": 1770837918,
+      "num_comments": 356,
+      "hn_url": "https://news.ycombinator.com/item?id=46979562"
+    },
+    {
+      "id": "46978490",
+      "title": "NetNewsWire Turns 23",
+      "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+      "points": 270,
+      "author": "robin_reala",
+      "created_at": 1770833171,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=46978490"
+    },
+    {
+      "id": "46969751",
+      "title": "End of an era for me: no more self-hosted git",
+      "url": "https://www.kraxel.org/blog/2026/01/thank-you-ai/",
+      "points": 261,
+      "author": "dzulp0d",
+      "created_at": 1770774644,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=46969751"
+    },
+    {
+      "id": "46980591",
+      "title": "Y Combinator CEO Garry Tan launches dark-money group to influence CA politics",
+      "url": "https://missionlocal.org/2026/02/sf-garry-tan-california-politics-garrys-list/",
+      "points": 260,
+      "author": "computerliker",
+      "created_at": 1770842402,
+      "num_comments": 278,
+      "hn_url": "https://news.ycombinator.com/item?id=46980591"
+    },
+    {
+      "id": "46982792",
+      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+      "points": 233,
+      "author": "droidjj",
+      "created_at": 1770853031,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=46982792"
+    },
+    {
+      "id": "46977175",
+      "title": "Ireland rolls out basic income scheme for artists",
+      "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
+      "points": 228,
+      "author": "abe94",
+      "created_at": 1770827951,
+      "num_comments": 230,
+      "hn_url": "https://news.ycombinator.com/item?id=46977175"
+    },
+    {
+      "id": "46972056",
+      "title": "Communities are not fungible",
+      "url": "https://www.joanwestenberg.com/communities-are-not-fungible/",
+      "points": 220,
+      "author": "tardibear",
+      "created_at": 1770795777,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=46972056"
+    },
+    {
+      "id": "46973355",
+      "title": "Do not apologize for replying late to my email",
+      "url": "https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html",
+      "points": 208,
+      "author": "validatori",
+      "created_at": 1770806335,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=46973355"
+    },
+    {
+      "id": "46976751",
+      "title": "U.S. had almost no job growth in 2025",
+      "url": "https://www.nbcnews.com/business/economy/january-jobs-revisions-trump-rcna258398",
+      "points": 186,
+      "author": "ceejayoz",
+      "created_at": 1770826279,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=46976751"
     }
   ],
-  "last_updated": "2026-02-11T06:57:02.952248+00:00"
+  "last_updated": "2026-02-12T06:57:24.971229+00:00"
 }
