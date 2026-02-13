@@ -1999,7 +1999,207 @@
       "created_at": 1770826279,
       "num_comments": 182,
       "hn_url": "https://news.ycombinator.com/item?id=46976751"
+    },
+    {
+      "id": "46990729",
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "points": 1662,
+      "author": "scottshambaugh",
+      "created_at": 1770913404,
+      "num_comments": 693,
+      "hn_url": "https://news.ycombinator.com/item?id=46990729"
+    },
+    {
+      "id": "46985151",
+      "title": "Warcraft III Peon Voice Notifications for Claude Code",
+      "url": "https://github.com/tonyyont/peon-ping",
+      "points": 949,
+      "author": "doppp",
+      "created_at": 1770873529,
+      "num_comments": 289,
+      "hn_url": "https://news.ycombinator.com/item?id=46985151"
+    },
+    {
+      "id": "46987559",
+      "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+      "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+      "points": 879,
+      "author": "wrxd",
+      "created_at": 1770896761,
+      "num_comments": 688,
+      "hn_url": "https://news.ycombinator.com/item?id=46987559"
+    },
+    {
+      "id": "46991240",
+      "title": "Gemini 3 Deep Think",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "points": 784,
+      "author": "tosh",
+      "created_at": 1770915350,
+      "num_comments": 497,
+      "hn_url": "https://news.ycombinator.com/item?id=46991240"
+    },
+    {
+      "id": "46992553",
+      "title": "GPT\u20115.3\u2011Codex\u2011Spark",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "points": 658,
+      "author": "meetpateltech",
+      "created_at": 1770919569,
+      "num_comments": 267,
+      "hn_url": "https://news.ycombinator.com/item?id=46992553"
+    },
+    {
+      "id": "46988596",
+      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+      "points": 626,
+      "author": "kachapopopow",
+      "created_at": 1770903020,
+      "num_comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=46988596"
+    },
+    {
+      "id": "46991394",
+      "title": "ai;dr",
+      "url": "https://www.0xsid.com/blog/aidr",
+      "points": 623,
+      "author": "ssiddharth",
+      "created_at": 1770915810,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=46991394"
+    },
+    {
+      "id": "46989217",
+      "title": "Major European payment processor can't send email to Google Workspace users",
+      "url": "https://atha.io/blog/2026-02-12-viva",
+      "points": 486,
+      "author": "thatha7777",
+      "created_at": 1770906255,
+      "num_comments": 324,
+      "hn_url": "https://news.ycombinator.com/item?id=46989217"
+    },
+    {
+      "id": "46997008",
+      "title": "Resizing windows on macOS Tahoe \u2013 the saga continues",
+      "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+      "points": 381,
+      "author": "erickhill",
+      "created_at": 1770940344,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=46997008"
+    },
+    {
+      "id": "46990056",
+      "title": "US businesses and consumers pay 90% of tariff costs, New York Fed says",
+      "url": "https://www.ft.com/content/c4f886a1-1633-418c-b6b5-16f700f8bb0d",
+      "points": 347,
+      "author": "mraniki",
+      "created_at": 1770910338,
+      "num_comments": 303,
+      "hn_url": "https://news.ycombinator.com/item?id=46990056"
+    },
+    {
+      "id": "46996999",
+      "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
+      "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
+      "points": 342,
+      "author": "c420",
+      "created_at": 1770940276,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=46996999"
+    },
+    {
+      "id": "46993345",
+      "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "points": 327,
+      "author": "ryanhn",
+      "created_at": 1770922736,
+      "num_comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=46993345"
+    },
+    {
+      "id": "46995046",
+      "title": "Welcoming Discord users amidst the challenge of Age Verification",
+      "url": "https://matrix.org/blog/2026/02/welcome-discord/",
+      "points": 267,
+      "author": "foresto",
+      "created_at": 1770929853,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=46995046"
+    },
+    {
+      "id": "46989107",
+      "title": "Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware",
+      "url": "https://www.theregister.com/2026/02/12/apple_ios_263/",
+      "points": 252,
+      "author": "beardyw",
+      "created_at": 1770905770,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=46989107"
+    },
+    {
+      "id": "46984735",
+      "title": "How to make a living as an artist",
+      "url": "https://essays.fnnch.com/make-a-living",
+      "points": 250,
+      "author": "gwintrob",
+      "created_at": 1770868586,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=46984735"
+    },
+    {
+      "id": "46992815",
+      "title": "Polis: Open-source platform for large-scale civic deliberation",
+      "url": "https://pol.is/home2",
+      "points": 227,
+      "author": "mefengl",
+      "created_at": 1770920600,
+      "num_comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=46992815"
+    },
+    {
+      "id": "46988438",
+      "title": "Apache Arrow is 10 years old",
+      "url": "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/",
+      "points": 208,
+      "author": "tosh",
+      "created_at": 1770902010,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=46988438"
+    },
+    {
+      "id": "46985609",
+      "title": "Carl Sagan's Baloney Detection Kit: Tools for Thinking Critically (2025)",
+      "url": "https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html",
+      "points": 198,
+      "author": "nobody9999",
+      "created_at": 1770879279,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=46985609"
+    },
+    {
+      "id": "46990578",
+      "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
+      "url": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
+      "points": 190,
+      "author": "ra7",
+      "created_at": 1770912629,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=46990578"
+    },
+    {
+      "id": "46995001",
+      "title": "ICE, CBP Knew Facial Recognition App Couldn't Do What DHS Says It Could",
+      "url": "https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/",
+      "points": 188,
+      "author": "cdrnsf",
+      "created_at": 1770929610,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=46995001"
     }
   ],
-  "last_updated": "2026-02-12T06:57:24.971229+00:00"
+  "last_updated": "2026-02-13T06:55:00.142085+00:00"
 }
