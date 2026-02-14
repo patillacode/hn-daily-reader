@@ -2199,7 +2199,207 @@
       "created_at": 1770929610,
       "num_comments": 53,
       "hn_url": "https://news.ycombinator.com/item?id=46995001"
+    },
+    {
+      "id": "47003064",
+      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to\u00a0Android",
+      "url": "https://ios-countdown.win/",
+      "points": 1382,
+      "author": "ozzyphantom",
+      "created_at": 1770992461,
+      "num_comments": 687,
+      "hn_url": "https://news.ycombinator.com/item?id=47003064"
+    },
+    {
+      "id": "47001871",
+      "title": "Monosketch",
+      "url": "https://monosketch.io/",
+      "points": 751,
+      "author": "penguin_booze",
+      "created_at": 1770985085,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=47001871"
+    },
+    {
+      "id": "47007656",
+      "title": "The EU moves to kill infinite scrolling",
+      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+      "points": 475,
+      "author": "danso",
+      "created_at": 1771015931,
+      "num_comments": 484,
+      "hn_url": "https://news.ycombinator.com/item?id=47007656"
+    },
+    {
+      "id": "47000041",
+      "title": "MinIO repository is no longer maintained",
+      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+      "points": 465,
+      "author": "psvmcc",
+      "created_at": 1770968763,
+      "num_comments": 343,
+      "hn_url": "https://news.ycombinator.com/item?id=47000041"
+    },
+    {
+      "id": "47008560",
+      "title": "OpenAI has deleted the word 'safely' from its mission",
+      "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+      "points": 463,
+      "author": "DamnInteresting",
+      "created_at": 1771021026,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=47008560"
+    },
+    {
+      "id": "46997519",
+      "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+      "url": "https://skipthe.tips/",
+      "points": 457,
+      "author": "randycupertino",
+      "created_at": 1770944091,
+      "num_comments": 398,
+      "hn_url": "https://news.ycombinator.com/item?id=46997519"
+    },
+    {
+      "id": "47006594",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "points": 443,
+      "author": "davidbarker",
+      "created_at": 1771010412,
+      "num_comments": 301,
+      "hn_url": "https://news.ycombinator.com/item?id=47006594"
+    },
+    {
+      "id": "46999545",
+      "title": "Ring owners are returning their cameras",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
+      "points": 389,
+      "author": "c420",
+      "created_at": 1770963806,
+      "num_comments": 276,
+      "hn_url": "https://news.ycombinator.com/item?id=46999545"
+    },
+    {
+      "id": "46999224",
+      "title": "Lena by qntm (2021)",
+      "url": "https://qntm.org/mmacevedo",
+      "points": 323,
+      "author": "stickynotememo",
+      "created_at": 1770960280,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=46999224"
+    },
+    {
+      "id": "46997133",
+      "title": "AWS Adds support for nested virtualization",
+      "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+      "points": 295,
+      "author": "sitole",
+      "created_at": 1770941277,
+      "num_comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=46997133"
+    },
+    {
+      "id": "47002825",
+      "title": "Zed editor switching graphics lib from blade to wgpu",
+      "url": "https://github.com/zed-industries/zed/pull/46758",
+      "points": 293,
+      "author": "jpeeler",
+      "created_at": 1770991394,
+      "num_comments": 271,
+      "hn_url": "https://news.ycombinator.com/item?id=47002825"
+    },
+    {
+      "id": "47005081",
+      "title": "CBP signs Clearview AI deal to use face recognition for 'tactical targeting'",
+      "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+      "points": 263,
+      "author": "cdrnsf",
+      "created_at": 1771002781,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=47005081"
+    },
+    {
+      "id": "47006513",
+      "title": "I'm not worried about AI job loss",
+      "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
+      "points": 229,
+      "author": "ezekg",
+      "created_at": 1771009984,
+      "num_comments": 383,
+      "hn_url": "https://news.ycombinator.com/item?id=47006513"
+    },
+    {
+      "id": "47003219",
+      "title": "Open source is not about you (2018)",
+      "url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
+      "points": 212,
+      "author": "doubleg",
+      "created_at": 1770993388,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=47003219"
+    },
+    {
+      "id": "47006843",
+      "title": "The \"AI agent hit piece\" situation clarifies how dumb we are acting",
+      "url": "https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/",
+      "points": 212,
+      "author": "darccio",
+      "created_at": 1771011702,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=47006843"
+    },
+    {
+      "id": "47005509",
+      "title": "Building a TUI is easy now",
+      "url": "https://hatchet.run/blog/tuis-are-easy-now",
+      "points": 190,
+      "author": "abelanger",
+      "created_at": 1771005054,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=47005509"
+    },
+    {
+      "id": "47001865",
+      "title": "US repeals EPA endangerment finding for greenhouse gases",
+      "url": "https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding",
+      "points": 157,
+      "author": "heresie-dabord",
+      "created_at": 1770985024,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=47001865"
+    },
+    {
+      "id": "47000164",
+      "title": "CSS-Doodle",
+      "url": "https://css-doodle.com/",
+      "points": 147,
+      "author": "dsego",
+      "created_at": 1770969743,
+      "num_comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=47000164"
+    },
+    {
+      "id": "47004312",
+      "title": "IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes",
+      "url": "https://github.com/nearai/ironclaw",
+      "points": 143,
+      "author": "dawg91",
+      "created_at": 1770999007,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=47004312"
+    },
+    {
+      "id": "47006316",
+      "title": "Age of Empires: 25 years of pathfinding problems with C++ [video]",
+      "url": "https://www.youtube.com/watch?v=lEBQveBCtKY",
+      "points": 130,
+      "author": "CharlesW",
+      "created_at": 1771008998,
+      "num_comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=47006316"
     }
   ],
-  "last_updated": "2026-02-13T06:55:00.142085+00:00"
+  "last_updated": "2026-02-14T06:39:20.535553+00:00"
 }
