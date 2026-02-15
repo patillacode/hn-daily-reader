@@ -2399,7 +2399,207 @@
       "created_at": 1771008998,
       "num_comments": 23,
       "hn_url": "https://news.ycombinator.com/item?id=47006316"
+    },
+    {
+      "id": "47016443",
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "points": 764,
+      "author": "i5heu",
+      "created_at": 1771090605,
+      "num_comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=47016443"
+    },
+    {
+      "id": "47009949",
+      "title": "An AI agent published a hit piece on me \u2013 more things have happened",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+      "points": 667,
+      "author": "scottshambaugh",
+      "created_at": 1771029473,
+      "num_comments": 564,
+      "hn_url": "https://news.ycombinator.com/item?id=47009949"
+    },
+    {
+      "id": "47013059",
+      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+      "points": 538,
+      "author": "robin_reala",
+      "created_at": 1771061325,
+      "num_comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=47013059"
+    },
+    {
+      "id": "47014449",
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "url": "https://ooh.directory/",
+      "points": 483,
+      "author": "hisamafahri",
+      "created_at": 1771076420,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=47014449"
+    },
+    {
+      "id": "47017138",
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "points": 458,
+      "author": "ninjagoo",
+      "created_at": 1771094792,
+      "num_comments": 296,
+      "hn_url": "https://news.ycombinator.com/item?id=47017138"
+    },
+    {
+      "id": "47015294",
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "points": 395,
+      "author": "minimalthinker",
+      "created_at": 1771083347,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=47015294"
+    },
+    {
+      "id": "47015330",
+      "title": "Vim 9.2",
+      "url": "https://www.vim.org/vim-9.2-released.php",
+      "points": 373,
+      "author": "tapanjk",
+      "created_at": 1771083583,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=47015330"
+    },
+    {
+      "id": "47012717",
+      "title": "Zig \u2013 io_uring and Grand Central Dispatch std.Io implementations landed",
+      "url": "https://ziglang.org/devlog/2026/#2026-02-13",
+      "points": 353,
+      "author": "Retro_Dev",
+      "created_at": 1771057331,
+      "num_comments": 265,
+      "hn_url": "https://news.ycombinator.com/item?id=47012717"
+    },
+    {
+      "id": "47009582",
+      "title": "Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts",
+      "url": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
+      "points": 336,
+      "author": "jjwiseman",
+      "created_at": 1771027258,
+      "num_comments": 215,
+      "hn_url": "https://news.ycombinator.com/item?id=47009582"
+    },
+    {
+      "id": "47015406",
+      "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
+      "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
+      "points": 272,
+      "author": "pjmlp",
+      "created_at": 1771084196,
+      "num_comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=47015406"
+    },
+    {
+      "id": "47011567",
+      "title": "Show HN: SQL-tap \u2013 Real-time SQL traffic viewer for PostgreSQL and MySQL",
+      "url": "https://github.com/mickamy/sql-tap",
+      "points": 220,
+      "author": "mickamy",
+      "created_at": 1771043255,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=47011567"
+    },
+    {
+      "id": "47011346",
+      "title": "Oh, good: Discord's age verification rollout has ties to Palantir co-founder",
+      "url": "https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/",
+      "points": 218,
+      "author": "absqueued",
+      "created_at": 1771040958,
+      "num_comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=47011346"
+    },
+    {
+      "id": "47014500",
+      "title": "Show HN: Sameshi \u2013 a ~1200 Elo chess engine that fits within 2KB",
+      "url": "https://github.com/datavorous/sameshi",
+      "points": 210,
+      "author": "datavorous_",
+      "created_at": 1771076864,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=47014500"
+    },
+    {
+      "id": "47017545",
+      "title": "Descent, ported to the web",
+      "url": "https://mrdoob.github.io/three-descent/",
+      "points": 198,
+      "author": "memalign",
+      "created_at": 1771097604,
+      "num_comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=47017545"
+    },
+    {
+      "id": "47012964",
+      "title": "YouTube as Storage",
+      "url": "https://github.com/PulseBeat02/yt-media-storage",
+      "points": 190,
+      "author": "saswatms",
+      "created_at": 1771060215,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=47012964"
+    },
+    {
+      "id": "47017727",
+      "title": "You can't trust the internet anymore",
+      "url": "https://nicole.express/2026/not-my-casual-hobby.html",
+      "points": 180,
+      "author": "panic",
+      "created_at": 1771098685,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=47017727"
+    },
+    {
+      "id": "47014995",
+      "title": "7zip.com Is Serving Malware",
+      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
+      "points": 164,
+      "author": "Alifatisk",
+      "created_at": 1771081109,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=47014995"
+    },
+    {
+      "id": "47011602",
+      "title": "Backblaze Drive Stats for 2025",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+      "points": 156,
+      "author": "Brajeshwar",
+      "created_at": 1771043701,
+      "num_comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=47011602"
+    },
+    {
+      "id": "47010823",
+      "title": "NPMX \u2013 a fast, modern browser for the NPM registry",
+      "url": "https://npmx.dev",
+      "points": 146,
+      "author": "slymax",
+      "created_at": 1771035274,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=47010823"
+    },
+    {
+      "id": "47012553",
+      "title": "OpenAI should build Slack",
+      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+      "points": 133,
+      "author": "swyx",
+      "created_at": 1771055413,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=47012553"
     }
   ],
-  "last_updated": "2026-02-14T06:39:20.535553+00:00"
+  "last_updated": "2026-02-15T06:46:30.093779+00:00"
 }

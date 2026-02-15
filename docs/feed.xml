@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Feb 2026 06:39:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 06:46:30 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[180 pts] You can't trust the internet anymore</title>
+      <link>https://nicole.express/2026/not-my-casual-hobby.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;180 points&lt;/strong&gt; by panic | &lt;strong&gt;132 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47017727&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47017727</guid>
+      <pubDate>Sat, 14 Feb 2026 19:51:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[198 pts] Descent, ported to the web</title>
+      <link>https://mrdoob.github.io/three-descent/</link>
+      <description>&lt;p&gt;&lt;strong&gt;198 points&lt;/strong&gt; by memalign | &lt;strong&gt;43 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47017545&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47017545</guid>
+      <pubDate>Sat, 14 Feb 2026 19:33:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[458 pts] News publishers limit Internet Archive access due to AI scraping concerns</title>
+      <link>https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/</link>
+      <description>&lt;p&gt;&lt;strong&gt;458 points&lt;/strong&gt; by ninjagoo | &lt;strong&gt;296 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47017138&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47017138</guid>
+      <pubDate>Sat, 14 Feb 2026 18:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[764 pts] uBlock filter list to hide all YouTube Shorts</title>
+      <link>https://github.com/i5heu/ublock-hide-yt-shorts/</link>
+      <description>&lt;p&gt;&lt;strong&gt;764 points&lt;/strong&gt; by i5heu | &lt;strong&gt;253 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47016443&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47016443</guid>
+      <pubDate>Sat, 14 Feb 2026 17:36:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[272 pts] Platforms bend over backward to help DHS censor ICE critics, advocates say</title>
+      <link>https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/</link>
+      <description>&lt;p&gt;&lt;strong&gt;272 points&lt;/strong&gt; by pjmlp | &lt;strong&gt;164 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47015406&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47015406</guid>
+      <pubDate>Sat, 14 Feb 2026 15:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[373 pts] Vim 9.2</title>
+      <link>https://www.vim.org/vim-9.2-released.php</link>
+      <description>&lt;p&gt;&lt;strong&gt;373 points&lt;/strong&gt; by tapanjk | &lt;strong&gt;154 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47015330&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47015330</guid>
+      <pubDate>Sat, 14 Feb 2026 15:39:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[395 pts] My smart sleep mask broadcasts users' brainwaves to an open MQTT broker</title>
+      <link>https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/</link>
+      <description>&lt;p&gt;&lt;strong&gt;395 points&lt;/strong&gt; by minimalthinker | &lt;strong&gt;189 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47015294&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47015294</guid>
+      <pubDate>Sat, 14 Feb 2026 15:35:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[164 pts] 7zip.com Is Serving Malware</title>
+      <link>https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes</link>
+      <description>&lt;p&gt;&lt;strong&gt;164 points&lt;/strong&gt; by Alifatisk | &lt;strong&gt;83 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47014995&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47014995</guid>
+      <pubDate>Sat, 14 Feb 2026 14:58:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[210 pts] Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB</title>
+      <link>https://github.com/datavorous/sameshi</link>
+      <description>&lt;p&gt;&lt;strong&gt;210 points&lt;/strong&gt; by datavorous_ | &lt;strong&gt;64 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47014500&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47014500</guid>
+      <pubDate>Sat, 14 Feb 2026 13:47:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[483 pts] Ooh.directory: a place to find good blogs that interest you</title>
+      <link>https://ooh.directory/</link>
+      <description>&lt;p&gt;&lt;strong&gt;483 points&lt;/strong&gt; by hisamafahri | &lt;strong&gt;123 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47014449&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47014449</guid>
+      <pubDate>Sat, 14 Feb 2026 13:40:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[538 pts] Ars Technica makes up quotes from Matplotlib maintainer; pulls story</title>
+      <link>https://infosec.exchange/@mttaggart/116065340523529645</link>
+      <description>&lt;p&gt;&lt;strong&gt;538 points&lt;/strong&gt; by robin_reala | &lt;strong&gt;6 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47013059&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47013059</guid>
+      <pubDate>Sat, 14 Feb 2026 09:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[190 pts] YouTube as Storage</title>
+      <link>https://github.com/PulseBeat02/yt-media-storage</link>
+      <description>&lt;p&gt;&lt;strong&gt;190 points&lt;/strong&gt; by saswatms | &lt;strong&gt;140 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47012964&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47012964</guid>
+      <pubDate>Sat, 14 Feb 2026 09:10:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[353 pts] Zig – io_uring and Grand Central Dispatch std.Io implementations landed</title>
+      <link>https://ziglang.org/devlog/2026/#2026-02-13</link>
+      <description>&lt;p&gt;&lt;strong&gt;353 points&lt;/strong&gt; by Retro_Dev | &lt;strong&gt;265 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47012717&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47012717</guid>
+      <pubDate>Sat, 14 Feb 2026 08:22:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[133 pts] OpenAI should build Slack</title>
+      <link>https://www.latent.space/p/ainews-why-openai-should-build-slack</link>
+      <description>&lt;p&gt;&lt;strong&gt;133 points&lt;/strong&gt; by swyx | &lt;strong&gt;136 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47012553&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47012553</guid>
+      <pubDate>Sat, 14 Feb 2026 07:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[156 pts] Backblaze Drive Stats for 2025</title>
+      <link>https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/</link>
+      <description>&lt;p&gt;&lt;strong&gt;156 points&lt;/strong&gt; by Brajeshwar | &lt;strong&gt;37 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47011602&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47011602</guid>
+      <pubDate>Sat, 14 Feb 2026 04:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[220 pts] Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL</title>
+      <link>https://github.com/mickamy/sql-tap</link>
+      <description>&lt;p&gt;&lt;strong&gt;220 points&lt;/strong&gt; by mickamy | &lt;strong&gt;41 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47011567&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47011567</guid>
+      <pubDate>Sat, 14 Feb 2026 04:27:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[218 pts] Oh, good: Discord's age verification rollout has ties to Palantir co-founder</title>
+      <link>https://www.pcgamer.com/software/platforms/oh-good-discords-age-verification-rollout-has-ties-to-palantir-co-founder-and-panopticon-architect-peter-thiel/</link>
+      <description>&lt;p&gt;&lt;strong&gt;218 points&lt;/strong&gt; by absqueued | &lt;strong&gt;33 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47011346&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47011346</guid>
+      <pubDate>Sat, 14 Feb 2026 03:49:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[146 pts] NPMX – a fast, modern browser for the NPM registry</title>
+      <link>https://npmx.dev</link>
+      <description>&lt;p&gt;&lt;strong&gt;146 points&lt;/strong&gt; by slymax | &lt;strong&gt;63 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47010823&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47010823</guid>
+      <pubDate>Sat, 14 Feb 2026 02:14:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[667 pts] An AI agent published a hit piece on me – more things have happened</title>
+      <link>https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/</link>
+      <description>&lt;p&gt;&lt;strong&gt;667 points&lt;/strong&gt; by scottshambaugh | &lt;strong&gt;564 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47009949&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47009949</guid>
+      <pubDate>Sat, 14 Feb 2026 00:37:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[336 pts] Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts</title>
+      <link>https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;336 points&lt;/strong&gt; by jjwiseman | &lt;strong&gt;215 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47009582&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47009582</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:58 +0000</pubDate>
+    </item>
     <item>
       <title>[463 pts] OpenAI has deleted the word 'safely' from its mission</title>
       <link>https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467</link>
