@@ -2599,7 +2599,207 @@
       "created_at": 1771055413,
       "num_comments": 136,
       "hn_url": "https://news.ycombinator.com/item?id=47012553"
+    },
+    {
+      "id": "47020191",
+      "title": "I love the work of the ArchWiki maintainers",
+      "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+      "points": 889,
+      "author": "panic",
+      "created_at": 1771118458,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=47020191"
+    },
+    {
+      "id": "47025378",
+      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+      "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+      "points": 876,
+      "author": "giuliomagnifico",
+      "created_at": 1771175418,
+      "num_comments": 612,
+      "hn_url": "https://news.ycombinator.com/item?id=47025378"
+    },
+    {
+      "id": "47028013",
+      "title": "I\u2019m joining OpenAI",
+      "url": "https://steipete.me/posts/2026/openclaw",
+      "points": 862,
+      "author": "mfiguiere",
+      "created_at": 1771192455,
+      "num_comments": 590,
+      "hn_url": "https://news.ycombinator.com/item?id=47028013"
+    },
+    {
+      "id": "47023238",
+      "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
+      "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+      "points": 784,
+      "author": "mikece",
+      "created_at": 1771159337,
+      "num_comments": 568,
+      "hn_url": "https://news.ycombinator.com/item?id=47023238"
+    },
+    {
+      "id": "47022891",
+      "title": "I fixed Windows native development",
+      "url": "https://marler8997.github.io/blog/fixed-windows/",
+      "points": 716,
+      "author": "deevus",
+      "created_at": 1771154726,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=47022891"
+    },
+    {
+      "id": "47021980",
+      "title": "Oat \u2013\u00a0Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
+      "url": "https://oat.ink/",
+      "points": 491,
+      "author": "twapi",
+      "created_at": 1771143425,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=47021980"
+    },
+    {
+      "id": "47024907",
+      "title": "Hideki Sato, designer of all Sega's consoles, has died",
+      "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
+      "points": 389,
+      "author": "magoghm",
+      "created_at": 1771172391,
+      "num_comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=47024907"
+    },
+    {
+      "id": "47025851",
+      "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+      "url": "https://modern-css.com",
+      "points": 354,
+      "author": "eustoria",
+      "created_at": 1771178650,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=47025851"
+    },
+    {
+      "id": "47025399",
+      "title": "LT6502: A 6502-based homebrew laptop",
+      "url": "https://github.com/TechPaula/LT6502",
+      "points": 337,
+      "author": "classichasclass",
+      "created_at": 1771175555,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=47025399"
+    },
+    {
+      "id": "47021354",
+      "title": "Flashpoint Archive \u2013 Over 200k web games and animations preserved",
+      "url": "https://flashpointarchive.org",
+      "points": 332,
+      "author": "helloplanets",
+      "created_at": 1771134239,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=47021354"
+    },
+    {
+      "id": "47020218",
+      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
+      "url": "https://newpipe.net/",
+      "points": 330,
+      "author": "nvader",
+      "created_at": 1771118656,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=47020218"
+    },
+    {
+      "id": "47025624",
+      "title": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
+      "url": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
+      "points": 274,
+      "author": "cdrnsf",
+      "created_at": 1771177030,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=47025624"
+    },
+    {
+      "id": "47028227",
+      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "points": 230,
+      "author": "prophylaxis",
+      "created_at": 1771193830,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=47028227"
+    },
+    {
+      "id": "47025188",
+      "title": "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
+      "url": "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html",
+      "points": 219,
+      "author": "cdrnsf",
+      "created_at": 1771174277,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=47025188"
+    },
+    {
+      "id": "47026071",
+      "title": "Editor's Note: Retraction of article containing fabricated quotations",
+      "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+      "points": 216,
+      "author": "bikenaga",
+      "created_at": 1771180194,
+      "num_comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=47026071"
+    },
+    {
+      "id": "47024506",
+      "title": "Gwtar: A static efficient single-file HTML format",
+      "url": "https://gwern.net/gwtar",
+      "points": 213,
+      "author": "theblazehen",
+      "created_at": 1771169826,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=47024506"
+    },
+    {
+      "id": "47021421",
+      "title": "Discord distances from age verification firm after ties to Peter Thiel surface",
+      "url": "https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951",
+      "points": 212,
+      "author": "thisislife2",
+      "created_at": 1771135242,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=47021421"
+    },
+    {
+      "id": "47022329",
+      "title": "Two different tricks for fast LLM inference",
+      "url": "https://www.seangoedecke.com/fast-llm-inference/",
+      "points": 184,
+      "author": "swah",
+      "created_at": 1771147653,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=47022329"
+    },
+    {
+      "id": "47026186",
+      "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
+      "url": "https://microgpt.boratto.ca",
+      "points": 160,
+      "author": "b44",
+      "created_at": 1771180835,
+      "num_comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=47026186"
+    },
+    {
+      "id": "47025864",
+      "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
+      "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
+      "points": 143,
+      "author": "mikhael",
+      "created_at": 1771178724,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=47025864"
     }
   ],
-  "last_updated": "2026-02-15T06:46:30.093779+00:00"
+  "last_updated": "2026-02-16T06:58:36.615494+00:00"
 }

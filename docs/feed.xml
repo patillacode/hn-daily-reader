@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Feb 2026 06:46:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 06:58:36 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[230 pts] Magnus Carlsen Wins the Freestyle (Chess960) World Championship</title>
+      <link>https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/</link>
+      <description>&lt;p&gt;&lt;strong&gt;230 points&lt;/strong&gt; by prophylaxis | &lt;strong&gt;134 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47028227&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47028227</guid>
+      <pubDate>Sun, 15 Feb 2026 22:17:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[862 pts] I’m joining OpenAI</title>
+      <link>https://steipete.me/posts/2026/openclaw</link>
+      <description>&lt;p&gt;&lt;strong&gt;862 points&lt;/strong&gt; by mfiguiere | &lt;strong&gt;590 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47028013&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47028013</guid>
+      <pubDate>Sun, 15 Feb 2026 21:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[160 pts] Show HN: Microgpt is a GPT you can visualize in the browser</title>
+      <link>https://microgpt.boratto.ca</link>
+      <description>&lt;p&gt;&lt;strong&gt;160 points&lt;/strong&gt; by b44 | &lt;strong&gt;13 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47026186&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47026186</guid>
+      <pubDate>Sun, 15 Feb 2026 18:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[216 pts] Editor's Note: Retraction of article containing fabricated quotations</title>
+      <link>https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/</link>
+      <description>&lt;p&gt;&lt;strong&gt;216 points&lt;/strong&gt; by bikenaga | &lt;strong&gt;155 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47026071&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47026071</guid>
+      <pubDate>Sun, 15 Feb 2026 18:29:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[143 pts] Radio host David Greene says Google's NotebookLM tool stole his voice</title>
+      <link>https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/</link>
+      <description>&lt;p&gt;&lt;strong&gt;143 points&lt;/strong&gt; by mikhael | &lt;strong&gt;82 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47025864&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47025864</guid>
+      <pubDate>Sun, 15 Feb 2026 18:05:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[354 pts] Modern CSS Code Snippets: Stop writing CSS like it's 2015</title>
+      <link>https://modern-css.com</link>
+      <description>&lt;p&gt;&lt;strong&gt;354 points&lt;/strong&gt; by eustoria | &lt;strong&gt;137 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47025851&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47025851</guid>
+      <pubDate>Sun, 15 Feb 2026 18:04:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[274 pts] Palantir Gets Millions of Dollars from New York City's Public Hospitals</title>
+      <link>https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/</link>
+      <description>&lt;p&gt;&lt;strong&gt;274 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;102 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47025624&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47025624</guid>
+      <pubDate>Sun, 15 Feb 2026 17:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[337 pts] LT6502: A 6502-based homebrew laptop</title>
+      <link>https://github.com/TechPaula/LT6502</link>
+      <description>&lt;p&gt;&lt;strong&gt;337 points&lt;/strong&gt; by classichasclass | &lt;strong&gt;152 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47025399&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47025399</guid>
+      <pubDate>Sun, 15 Feb 2026 17:12:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[876 pts] EU bans the destruction of unsold apparel, clothing, accessories and footwear</title>
+      <link>https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en</link>
+      <description>&lt;p&gt;&lt;strong&gt;876 points&lt;/strong&gt; by giuliomagnifico | &lt;strong&gt;612 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47025378&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47025378</guid>
+      <pubDate>Sun, 15 Feb 2026 17:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[219 pts] Palantir vs. the &quot;Republik&quot;: US analytics firm takes magazine to court</title>
+      <link>https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;219 points&lt;/strong&gt; by cdrnsf | &lt;strong&gt;59 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47025188&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47025188</guid>
+      <pubDate>Sun, 15 Feb 2026 16:51:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[389 pts] Hideki Sato, designer of all Sega's consoles, has died</title>
+      <link>https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/</link>
+      <description>&lt;p&gt;&lt;strong&gt;389 points&lt;/strong&gt; by magoghm | &lt;strong&gt;38 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47024907&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47024907</guid>
+      <pubDate>Sun, 15 Feb 2026 16:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[213 pts] Gwtar: A static efficient single-file HTML format</title>
+      <link>https://gwern.net/gwtar</link>
+      <description>&lt;p&gt;&lt;strong&gt;213 points&lt;/strong&gt; by theblazehen | &lt;strong&gt;70 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47024506&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47024506</guid>
+      <pubDate>Sun, 15 Feb 2026 15:37:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[784 pts] Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state</title>
+      <link>https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly</link>
+      <description>&lt;p&gt;&lt;strong&gt;784 points&lt;/strong&gt; by mikece | &lt;strong&gt;568 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47023238&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47023238</guid>
+      <pubDate>Sun, 15 Feb 2026 12:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[716 pts] I fixed Windows native development</title>
+      <link>https://marler8997.github.io/blog/fixed-windows/</link>
+      <description>&lt;p&gt;&lt;strong&gt;716 points&lt;/strong&gt; by deevus | &lt;strong&gt;340 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47022891&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47022891</guid>
+      <pubDate>Sun, 15 Feb 2026 11:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[184 pts] Two different tricks for fast LLM inference</title>
+      <link>https://www.seangoedecke.com/fast-llm-inference/</link>
+      <description>&lt;p&gt;&lt;strong&gt;184 points&lt;/strong&gt; by swah | &lt;strong&gt;65 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47022329&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47022329</guid>
+      <pubDate>Sun, 15 Feb 2026 09:27:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[491 pts] Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library</title>
+      <link>https://oat.ink/</link>
+      <description>&lt;p&gt;&lt;strong&gt;491 points&lt;/strong&gt; by twapi | &lt;strong&gt;125 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47021980&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47021980</guid>
+      <pubDate>Sun, 15 Feb 2026 08:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[212 pts] Discord distances from age verification firm after ties to Peter Thiel surface</title>
+      <link>https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951</link>
+      <description>&lt;p&gt;&lt;strong&gt;212 points&lt;/strong&gt; by thisislife2 | &lt;strong&gt;115 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47021421&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47021421</guid>
+      <pubDate>Sun, 15 Feb 2026 06:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[332 pts] Flashpoint Archive – Over 200k web games and animations preserved</title>
+      <link>https://flashpointarchive.org</link>
+      <description>&lt;p&gt;&lt;strong&gt;332 points&lt;/strong&gt; by helloplanets | &lt;strong&gt;83 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47021354&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47021354</guid>
+      <pubDate>Sun, 15 Feb 2026 05:43:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[330 pts] NewPipe: YouTube client without vertical videos and algorithmic feed</title>
+      <link>https://newpipe.net/</link>
+      <description>&lt;p&gt;&lt;strong&gt;330 points&lt;/strong&gt; by nvader | &lt;strong&gt;106 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47020218&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47020218</guid>
+      <pubDate>Sun, 15 Feb 2026 01:24:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[889 pts] I love the work of the ArchWiki maintainers</title>
+      <link>https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/</link>
+      <description>&lt;p&gt;&lt;strong&gt;889 points&lt;/strong&gt; by panic | &lt;strong&gt;158 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47020191&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47020191</guid>
+      <pubDate>Sun, 15 Feb 2026 01:20:58 +0000</pubDate>
+    </item>
     <item>
       <title>[180 pts] You can't trust the internet anymore</title>
       <link>https://nicole.express/2026/not-my-casual-hobby.html</link>
