@@ -2799,7 +2799,207 @@
       "created_at": 1771178724,
       "num_comments": 82,
       "hn_url": "https://news.ycombinator.com/item?id=47025864"
+    },
+    {
+      "id": "47031580",
+      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+      "url": "https://mastodon.world/@knowmadd/116072773118828295",
+      "points": 1420,
+      "author": "novemp",
+      "created_at": 1771223508,
+      "num_comments": 890,
+      "hn_url": "https://news.ycombinator.com/item?id=47031580"
+    },
+    {
+      "id": "47038546",
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "points": 564,
+      "author": "bookofjoe",
+      "created_at": 1771267310,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=47038546"
+    },
+    {
+      "id": "47034713",
+      "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
+      "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
+      "points": 492,
+      "author": "harel",
+      "created_at": 1771248607,
+      "num_comments": 337,
+      "hn_url": "https://news.ycombinator.com/item?id=47034713"
+    },
+    {
+      "id": "47032876",
+      "title": "Qwen3.5: Towards Native Multimodal Agents",
+      "url": "https://qwen.ai/blog?id=qwen3.5",
+      "points": 407,
+      "author": "danielhanchen",
+      "created_at": 1771234341,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=47032876"
+    },
+    {
+      "id": "47035560",
+      "title": "What your Bluetooth devices reveal",
+      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+      "points": 377,
+      "author": "ssgodderidge",
+      "created_at": 1771252772,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=47035560"
+    },
+    {
+      "id": "47033622",
+      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+      "points": 372,
+      "author": "beardyw",
+      "created_at": 1771239988,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=47033622"
+    },
+    {
+      "id": "47034192",
+      "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
+      "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
+      "points": 350,
+      "author": "dClauzel",
+      "created_at": 1771244911,
+      "num_comments": 289,
+      "hn_url": "https://news.ycombinator.com/item?id=47034192"
+    },
+    {
+      "id": "47035679",
+      "title": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
+      "url": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
+      "points": 344,
+      "author": "righthand",
+      "created_at": 1771253305,
+      "num_comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=47035679"
+    },
+    {
+      "id": "47031334",
+      "title": "Show HN: Jemini \u2013 Gemini for the Epstein Files",
+      "url": "https://jmail.world/jemini",
+      "points": 327,
+      "author": "dvrp",
+      "created_at": 1771221183,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=47031334"
+    },
+    {
+      "id": "47040430",
+      "title": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
+      "url": "https://arxiv.org/abs/2602.12670",
+      "points": 325,
+      "author": "mustaphah",
+      "created_at": 1771276556,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=47040430"
+    },
+    {
+      "id": "47038588",
+      "title": "Use protocols, not services",
+      "url": "https://notnotp.com/notes/use-protocols-not-services/",
+      "points": 282,
+      "author": "enz",
+      "created_at": 1771267498,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=47038588"
+    },
+    {
+      "id": "47038125",
+      "title": "Privilege is bad grammar",
+      "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
+      "points": 270,
+      "author": "surprisetalk",
+      "created_at": 1771265132,
+      "num_comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=47038125"
+    },
+    {
+      "id": "47033976",
+      "title": "The Israeli spyware firm that accidentally just exposed itself",
+      "url": "https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally",
+      "points": 253,
+      "author": "0x54MUR41",
+      "created_at": 1771243242,
+      "num_comments": 259,
+      "hn_url": "https://news.ycombinator.com/item?id=47033976"
+    },
+    {
+      "id": "47034801",
+      "title": "Running My Own XMPP Server",
+      "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
+      "points": 218,
+      "author": "speckx",
+      "created_at": 1771249185,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=47034801"
+    },
+    {
+      "id": "47040524",
+      "title": "Rise of the Triforce",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "points": 204,
+      "author": "max-m",
+      "created_at": 1771277044,
+      "num_comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=47040524"
+    },
+    {
+      "id": "47029339",
+      "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+      "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+      "points": 164,
+      "author": "luu",
+      "created_at": 1771201583,
+      "num_comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=47029339"
+    },
+    {
+      "id": "47040375",
+      "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+      "url": "https://github.com/zachlatta/freeflow",
+      "points": 158,
+      "author": "zachlatta",
+      "created_at": 1771276244,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=47040375"
+    },
+    {
+      "id": "47035371",
+      "title": "The Sideprocalypse",
+      "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
+      "points": 152,
+      "author": "headalgorithm",
+      "created_at": 1771251999,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=47035371"
+    },
+    {
+      "id": "47033328",
+      "title": "MessageFormat: Unicode standard for localizable message strings",
+      "url": "https://github.com/unicode-org/message-format-wg",
+      "points": 151,
+      "author": "todsacerdoti",
+      "created_at": 1771237582,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=47033328"
+    },
+    {
+      "id": "47037628",
+      "title": "I guess I kinda get why people hate AI",
+      "url": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
+      "points": 148,
+      "author": "NM-Super",
+      "created_at": 1771262522,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=47037628"
     }
   ],
-  "last_updated": "2026-02-16T06:58:36.615494+00:00"
+  "last_updated": "2026-02-17T06:54:09.183593+00:00"
 }
