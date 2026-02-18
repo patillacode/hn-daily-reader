@@ -2999,7 +2999,207 @@
       "created_at": 1771262522,
       "num_comments": 238,
       "hn_url": "https://news.ycombinator.com/item?id=47037628"
+    },
+    {
+      "id": "47045612",
+      "title": "GrapheneOS \u2013 Break Free from Google and Apple",
+      "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+      "points": 1100,
+      "author": "to3k",
+      "created_at": 1771322556,
+      "num_comments": 785,
+      "hn_url": "https://news.ycombinator.com/item?id=47045612"
+    },
+    {
+      "id": "47050488",
+      "title": "Claude Sonnet 4.6",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "points": 1028,
+      "author": "adocomplete",
+      "created_at": 1771350532,
+      "num_comments": 907,
+      "hn_url": "https://news.ycombinator.com/item?id=47050488"
+    },
+    {
+      "id": "47049824",
+      "title": "Thank HN: You helped save 33k lives",
+      "url": "https://news.ycombinator.com/item?id=47049824",
+      "points": 689,
+      "author": "chaseadam17",
+      "created_at": 1771347978,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=47049824"
+    },
+    {
+      "id": "47042396",
+      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+      "points": 553,
+      "author": "colinprince",
+      "created_at": 1771290060,
+      "num_comments": 344,
+      "hn_url": "https://news.ycombinator.com/item?id=47042396"
+    },
+    {
+      "id": "47049426",
+      "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
+      "url": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
+      "points": 480,
+      "author": "theahura",
+      "created_at": 1771346261,
+      "num_comments": 221,
+      "hn_url": "https://news.ycombinator.com/item?id=47049426"
+    },
+    {
+      "id": "47045804",
+      "title": "Is Show HN dead? No, but it's drowning",
+      "url": "https://www.arthurcnops.blog/death-of-show-hn/",
+      "points": 458,
+      "author": "acnops",
+      "created_at": 1771324154,
+      "num_comments": 377,
+      "hn_url": "https://news.ycombinator.com/item?id=47045804"
+    },
+    {
+      "id": "47051546",
+      "title": "Tesla 'Robotaxi' adds 5 more crashes in Austin in a month \u2013 4x worse than humans",
+      "url": "https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/",
+      "points": 422,
+      "author": "Bender",
+      "created_at": 1771354964,
+      "num_comments": 237,
+      "hn_url": "https://news.ycombinator.com/item?id=47051546"
+    },
+    {
+      "id": "47042136",
+      "title": "AI is destroying open source, and it's not even good yet",
+      "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
+      "points": 403,
+      "author": "VorpalWay",
+      "created_at": 1771287980,
+      "num_comments": 328,
+      "hn_url": "https://news.ycombinator.com/item?id=47042136"
+    },
+    {
+      "id": "47051852",
+      "title": "Show HN: AsteroidOS 2.0 \u2013 Nobody asked, we shipped anyway",
+      "url": "https://asteroidos.org/news/2-0-release/index.html",
+      "points": 336,
+      "author": "moWerk",
+      "created_at": 1771356295,
+      "num_comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=47051852"
+    },
+    {
+      "id": "47049479",
+      "title": "Using go fix to modernize Go code",
+      "url": "https://go.dev/blog/gofix",
+      "points": 322,
+      "author": "todsacerdoti",
+      "created_at": 1771346555,
+      "num_comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=47049479"
+    },
+    {
+      "id": "47050067",
+      "title": "Gentoo on Codeberg",
+      "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+      "points": 307,
+      "author": "todsacerdoti",
+      "created_at": 1771348864,
+      "num_comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=47050067"
+    },
+    {
+      "id": "47049573",
+      "title": "HackMyClaw",
+      "url": "https://hackmyclaw.com/",
+      "points": 288,
+      "author": "hentrep",
+      "created_at": 1771346923,
+      "num_comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=47049573"
+    },
+    {
+      "id": "47052941",
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "points": 253,
+      "author": "rurban",
+      "created_at": 1771360518,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=47052941"
+    },
+    {
+      "id": "47049088",
+      "title": "Semantic ablation: Why AI writing is generic and boring",
+      "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
+      "points": 243,
+      "author": "benji8000",
+      "created_at": 1771344749,
+      "num_comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=47049088"
+    },
+    {
+      "id": "47048004",
+      "title": "I converted 2D conventional flight tracking into 3D",
+      "url": "https://aeris.edbn.me/?city=SFO",
+      "points": 239,
+      "author": "kewonit",
+      "created_at": 1771339394,
+      "num_comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=47048004"
+    },
+    {
+      "id": "47050376",
+      "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
+      "url": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
+      "points": 231,
+      "author": "thunderbong",
+      "created_at": 1771350050,
+      "num_comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=47050376"
+    },
+    {
+      "id": "47048052",
+      "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
+      "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
+      "points": 210,
+      "author": "whynotmaybe",
+      "created_at": 1771339646,
+      "num_comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=47048052"
+    },
+    {
+      "id": "47051793",
+      "title": "Stephen Colbert says CBS forbid interview of Democrat because of FCC threat",
+      "url": "https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/",
+      "points": 203,
+      "author": "voxadam",
+      "created_at": 1771356046,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=47051793"
+    },
+    {
+      "id": "47049718",
+      "title": "So you want to build a tunnel",
+      "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
+      "points": 202,
+      "author": "crescit_eundo",
+      "created_at": 1771347574,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=47049718"
+    },
+    {
+      "id": "47042895",
+      "title": "Poor Deming never stood a chance",
+      "url": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
+      "points": 192,
+      "author": "todsacerdoti",
+      "created_at": 1771294417,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=47042895"
     }
   ],
-  "last_updated": "2026-02-17T06:54:09.183593+00:00"
+  "last_updated": "2026-02-18T06:57:03.360952+00:00"
 }
