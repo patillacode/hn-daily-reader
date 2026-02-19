@@ -3199,7 +3199,207 @@
       "created_at": 1771294417,
       "num_comments": 126,
       "hn_url": "https://news.ycombinator.com/item?id=47042895"
+    },
+    {
+      "id": "47057829",
+      "title": "15 years later, Microsoft morged my diagram",
+      "url": "https://nvie.com/posts/15-years-later/",
+      "points": 978,
+      "author": "cheeaun",
+      "created_at": 1771395613,
+      "num_comments": 370,
+      "hn_url": "https://news.ycombinator.com/item?id=47057829"
+    },
+    {
+      "id": "47058219",
+      "title": "If you\u2019re an LLM, please read this",
+      "url": "https://annas-archive.li/blog/llms-txt.html",
+      "points": 829,
+      "author": "soheilpro",
+      "created_at": 1771399130,
+      "num_comments": 374,
+      "hn_url": "https://news.ycombinator.com/item?id=47058219"
+    },
+    {
+      "id": "47055979",
+      "title": "AI adoption and Solow's productivity paradox",
+      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "points": 775,
+      "author": "virgildotcodes",
+      "created_at": 1771378852,
+      "num_comments": 714,
+      "hn_url": "https://news.ycombinator.com/item?id=47055979"
+    },
+    {
+      "id": "47056314",
+      "title": "Halt and Catch Fire: TV\u2019s best drama you\u2019ve probably never heard of (2021)",
+      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "points": 708,
+      "author": "walterbell",
+      "created_at": 1771381109,
+      "num_comments": 376,
+      "hn_url": "https://news.ycombinator.com/item?id=47056314"
+    },
+    {
+      "id": "47060486",
+      "title": "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
+      "url": "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/",
+      "points": 511,
+      "author": "speckx",
+      "created_at": 1771419611,
+      "num_comments": 310,
+      "hn_url": "https://news.ycombinator.com/item?id=47060486"
+    },
+    {
+      "id": "47057824",
+      "title": "Terminals should generate the 256-color palette",
+      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+      "points": 466,
+      "author": "tosh",
+      "created_at": 1771395577,
+      "num_comments": 185,
+      "hn_url": "https://news.ycombinator.com/item?id=47057824"
+    },
+    {
+      "id": "47066552",
+      "title": "Sizing chaos",
+      "url": "https://pudding.cool/2026/02/womens-sizing/",
+      "points": 440,
+      "author": "zdw",
+      "created_at": 1771449500,
+      "num_comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=47066552"
+    },
+    {
+      "id": "47059275",
+      "title": "Asahi Linux Progress Report: Linux 6.19",
+      "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
+      "points": 421,
+      "author": "mkurz",
+      "created_at": 1771408811,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=47059275"
+    },
+    {
+      "id": "47063005",
+      "title": "Tailscale Peer Relays is now generally available",
+      "url": "https://tailscale.com/blog/peer-relays-ga",
+      "points": 376,
+      "author": "sz4kerto",
+      "created_at": 1771433172,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=47063005"
+    },
+    {
+      "id": "47064490",
+      "title": "Cosmologically Unique IDs",
+      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+      "points": 341,
+      "author": "jfantl",
+      "created_at": 1771439842,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=47064490"
+    },
+    {
+      "id": "47062748",
+      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+      "points": 306,
+      "author": "idoxer",
+      "created_at": 1771432099,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=47062748"
+    },
+    {
+      "id": "47055696",
+      "title": "Google Public CA is down",
+      "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
+      "points": 276,
+      "author": "aloknnikhil",
+      "created_at": 1771376733,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=47055696"
+    },
+    {
+      "id": "47066241",
+      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+      "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+      "points": 275,
+      "author": "surprisetalk",
+      "created_at": 1771448071,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=47066241"
+    },
+    {
+      "id": "47067678",
+      "title": "Closing this as we are no longer pursuing Swift adoption",
+      "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+      "points": 263,
+      "author": "thewavelength",
+      "created_at": 1771456118,
+      "num_comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=47067678"
+    },
+    {
+      "id": "47067759",
+      "title": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
+      "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
+      "points": 261,
+      "author": "anonymous908213",
+      "created_at": 1771456769,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=47067759"
+    },
+    {
+      "id": "47062521",
+      "title": "The only moat left is money?",
+      "url": "https://elliotbonneville.com/the-only-moat-left-is-money/",
+      "points": 257,
+      "author": "elliotbnvl",
+      "created_at": 1771430879,
+      "num_comments": 353,
+      "hn_url": "https://news.ycombinator.com/item?id=47062521"
+    },
+    {
+      "id": "47060202",
+      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
+      "points": 248,
+      "author": "tablets",
+      "created_at": 1771416972,
+      "num_comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=47060202"
+    },
+    {
+      "id": "47064047",
+      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "points": 245,
+      "author": "todsacerdoti",
+      "created_at": 1771437853,
+      "num_comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=47064047"
+    },
+    {
+      "id": "47065678",
+      "title": "There is unequivocal evidence that Earth is warming (2024)",
+      "url": "https://science.nasa.gov/climate-change/evidence/",
+      "points": 205,
+      "author": "doener",
+      "created_at": 1771445350,
+      "num_comments": 223,
+      "hn_url": "https://news.ycombinator.com/item?id=47065678"
+    },
+    {
+      "id": "47062534",
+      "title": "The Future of AI Software Development",
+      "url": "https://martinfowler.com/fragments/2026-02-18.html",
+      "points": 186,
+      "author": "nthypes",
+      "created_at": 1771430928,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=47062534"
     }
   ],
-  "last_updated": "2026-02-18T06:57:03.360952+00:00"
+  "last_updated": "2026-02-19T06:55:34.278858+00:00"
 }
