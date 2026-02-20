@@ -3399,7 +3399,207 @@
       "created_at": 1771430928,
       "num_comments": 137,
       "hn_url": "https://news.ycombinator.com/item?id=47062534"
+    },
+    {
+      "id": "47074735",
+      "title": "Gemini 3.1 Pro",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "points": 668,
+      "author": "MallocVoidstar",
+      "created_at": 1771514397,
+      "num_comments": 759,
+      "hn_url": "https://news.ycombinator.com/item?id=47074735"
+    },
+    {
+      "id": "47069299",
+      "title": "Anthropic officially bans using subscription auth for third party use",
+      "url": "https://code.claude.com/docs/en/legal-and-compliance",
+      "points": 629,
+      "author": "theahura",
+      "created_at": 1771469546,
+      "num_comments": 754,
+      "hn_url": "https://news.ycombinator.com/item?id=47069299"
+    },
+    {
+      "id": "47075318",
+      "title": "Gemini 3.1 Pro",
+      "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+      "points": 602,
+      "author": "PunchTornado",
+      "created_at": 1771517647,
+      "num_comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=47075318"
+    },
+    {
+      "id": "47076966",
+      "title": "AI makes you boring",
+      "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+      "points": 589,
+      "author": "speckx",
+      "created_at": 1771524736,
+      "num_comments": 329,
+      "hn_url": "https://news.ycombinator.com/item?id=47076966"
+    },
+    {
+      "id": "47075124",
+      "title": "Show HN: Micasa \u2013 track your house from the terminal",
+      "url": "https://micasa.dev",
+      "points": 506,
+      "author": "cpcloud",
+      "created_at": 1771516454,
+      "num_comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=47075124"
+    },
+    {
+      "id": "47079222",
+      "title": "We're no longer attracting top talent: the brain drain killing American science",
+      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+      "points": 416,
+      "author": "mitchbob",
+      "created_at": 1771534583,
+      "num_comments": 386,
+      "hn_url": "https://news.ycombinator.com/item?id=47079222"
+    },
+    {
+      "id": "47072968",
+      "title": "Paged Out Issue #8 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+      "points": 363,
+      "author": "SteveHawk27",
+      "created_at": 1771503224,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=47072968"
+    },
+    {
+      "id": "47072967",
+      "title": "DOGE Track",
+      "url": "https://dogetrack.info/",
+      "points": 331,
+      "author": "donohoe",
+      "created_at": 1771503219,
+      "num_comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=47072967"
+    },
+    {
+      "id": "47077844",
+      "title": "California's new bill requires DOJ-approved 3D printers that report themselves",
+      "url": "https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/",
+      "points": 280,
+      "author": "fortran77",
+      "created_at": 1771528572,
+      "num_comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=47077844"
+    },
+    {
+      "id": "47068948",
+      "title": "Minecraft Java is switching from OpenGL to Vulkan",
+      "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+      "points": 278,
+      "author": "tuananh",
+      "created_at": 1771466133,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=47068948"
+    },
+    {
+      "id": "47073112",
+      "title": "Pebble Production: February Update",
+      "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+      "points": 277,
+      "author": "smig0",
+      "created_at": 1771504560,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=47073112"
+    },
+    {
+      "id": "47074389",
+      "title": "America vs. Singapore: You can't save your way out of economic shocks",
+      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "points": 266,
+      "author": "guardianbob",
+      "created_at": 1771512738,
+      "num_comments": 391,
+      "hn_url": "https://news.ycombinator.com/item?id=47074389"
+    },
+    {
+      "id": "47077163",
+      "title": "South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection",
+      "url": "https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea",
+      "points": 266,
+      "author": "Geekette",
+      "created_at": 1771525604,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=47077163"
+    },
+    {
+      "id": "47070142",
+      "title": "European Tech Alternatives",
+      "url": "https://eutechmap.com/map",
+      "points": 249,
+      "author": "puppion",
+      "created_at": 1771477657,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=47070142"
+    },
+    {
+      "id": "47077849",
+      "title": "IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup",
+      "url": "https://www.theregister.com/2026/02/19/irs_job_cuts/",
+      "points": 249,
+      "author": "freitasm",
+      "created_at": 1771528593,
+      "num_comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=47077849"
+    },
+    {
+      "id": "47069179",
+      "title": "Step 3.5 Flash \u2013 Open-source foundation model, supports deep reasoning at speed",
+      "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+      "points": 218,
+      "author": "kristianp",
+      "created_at": 1771468320,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=47069179"
+    },
+    {
+      "id": "47078324",
+      "title": "AI is not a coworker, it's an exoskeleton",
+      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+      "points": 201,
+      "author": "benbeingbin",
+      "created_at": 1771530911,
+      "num_comments": 216,
+      "hn_url": "https://news.ycombinator.com/item?id=47078324"
+    },
+    {
+      "id": "47076659",
+      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+      "url": "https://github.com/Veirt/weathr",
+      "points": 201,
+      "author": "forinti",
+      "created_at": 1771523245,
+      "num_comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=47076659"
+    },
+    {
+      "id": "47068890",
+      "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+      "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+      "points": 199,
+      "author": "fp64enjoyer",
+      "created_at": 1771465567,
+      "num_comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=47068890"
+    },
+    {
+      "id": "47075245",
+      "title": "Mark Zuckerberg grilled on usage goals and underage users at California trial",
+      "url": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0",
+      "points": 190,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1771517234,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=47075245"
     }
   ],
-  "last_updated": "2026-02-19T06:55:34.278858+00:00"
+  "last_updated": "2026-02-20T06:51:03.880720+00:00"
 }
