@@ -3599,7 +3599,207 @@
       "created_at": 1771517234,
       "num_comments": 104,
       "hn_url": "https://news.ycombinator.com/item?id=47075245"
+    },
+    {
+      "id": "47089213",
+      "title": "Trump's global tariffs struck down by US Supreme Court",
+      "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
+      "points": 1342,
+      "author": "blackguardx",
+      "created_at": 1771601258,
+      "num_comments": 1091,
+      "hn_url": "https://news.ycombinator.com/item?id=47089213"
+    },
+    {
+      "id": "47091419",
+      "title": "Keep Android Open",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "points": 1300,
+      "author": "LorenDB",
+      "created_at": 1771610331,
+      "num_comments": 496,
+      "hn_url": "https://news.ycombinator.com/item?id=47091419"
+    },
+    {
+      "id": "47091748",
+      "title": "Facebook is cooked",
+      "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "points": 937,
+      "author": "npilk",
+      "created_at": 1771611907,
+      "num_comments": 531,
+      "hn_url": "https://news.ycombinator.com/item?id=47091748"
+    },
+    {
+      "id": "47088037",
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "points": 707,
+      "author": "lairv",
+      "created_at": 1771595464,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=47088037"
+    },
+    {
+      "id": "47086181",
+      "title": "The path to ubiquitous AI (17k tokens/sec)",
+      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "points": 705,
+      "author": "sidnarsipur",
+      "created_at": 1771583572,
+      "num_comments": 402,
+      "hn_url": "https://news.ycombinator.com/item?id=47086181"
+    },
+    {
+      "id": "47085483",
+      "title": "I tried building my startup entirely on European infrastructure",
+      "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+      "points": 695,
+      "author": "willy__",
+      "created_at": 1771578125,
+      "num_comments": 357,
+      "hn_url": "https://news.ycombinator.com/item?id=47085483"
+    },
+    {
+      "id": "47088181",
+      "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+      "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+      "points": 637,
+      "author": "spencerldixon",
+      "created_at": 1771596186,
+      "num_comments": 219,
+      "hn_url": "https://news.ycombinator.com/item?id=47088181"
+    },
+    {
+      "id": "47083145",
+      "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
+      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "points": 517,
+      "author": "scottshambaugh",
+      "created_at": 1771556708,
+      "num_comments": 461,
+      "hn_url": "https://news.ycombinator.com/item?id=47083145"
+    },
+    {
+      "id": "47092578",
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "points": 471,
+      "author": "toomuchtodo",
+      "created_at": 1771615198,
+      "num_comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=47092578"
+    },
+    {
+      "id": "47094192",
+      "title": "Turn Dependabot Off",
+      "url": "https://words.filippo.io/dependabot/",
+      "points": 381,
+      "author": "todsacerdoti",
+      "created_at": 1771622741,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=47094192"
+    },
+    {
+      "id": "47092006",
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "points": 377,
+      "author": "nobody9999",
+      "created_at": 1771612941,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=47092006"
+    },
+    {
+      "id": "47088685",
+      "title": "Child's Play: Tech's new generation and the end of thinking",
+      "url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
+      "points": 370,
+      "author": "ramimac",
+      "created_at": 1771598914,
+      "num_comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=47088685"
+    },
+    {
+      "id": "47082496",
+      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "points": 312,
+      "author": "interpidused",
+      "created_at": 1771550927,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=47082496"
+    },
+    {
+      "id": "47086980",
+      "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
+      "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
+      "points": 290,
+      "author": "zerosizedweasle",
+      "created_at": 1771589075,
+      "num_comments": 319,
+      "hn_url": "https://news.ycombinator.com/item?id=47086980"
+    },
+    {
+      "id": "47087719",
+      "title": "PayPal discloses data breach that exposed user info for 6 months",
+      "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
+      "points": 281,
+      "author": "el_duderino",
+      "created_at": 1771593752,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=47087719"
+    },
+    {
+      "id": "47095134",
+      "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
+      "url": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
+      "points": 268,
+      "author": "latexr",
+      "created_at": 1771627835,
+      "num_comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=47095134"
+    },
+    {
+      "id": "47083648",
+      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+      "points": 212,
+      "author": "zagwdt",
+      "created_at": 1771560958,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=47083648"
+    },
+    {
+      "id": "47085425",
+      "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
+      "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
+      "points": 211,
+      "author": "andreabergia",
+      "created_at": 1771577537,
+      "num_comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=47085425"
+    },
+    {
+      "id": "47088166",
+      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
+      "url": "https://github.com/IronsideXXVI/Hacker-News",
+      "points": 197,
+      "author": "IronsideXXVI",
+      "created_at": 1771596125,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=47088166"
+    },
+    {
+      "id": "47085370",
+      "title": "Web Components: The Framework-Free Renaissance",
+      "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
+      "points": 194,
+      "author": "mpweiher",
+      "created_at": 1771577157,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=47085370"
     }
   ],
-  "last_updated": "2026-02-20T06:51:03.880720+00:00"
+  "last_updated": "2026-02-21T06:36:39.429310+00:00"
 }
