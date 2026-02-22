@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 06:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 06:41:41 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[360 pts] Why is Claude an Electron app?</title>
+      <link>https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;360 points&lt;/strong&gt; by dbreunig | &lt;strong&gt;346 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47104973&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47104973</guid>
+      <pubDate>Sat, 21 Feb 2026 21:28:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[194 pts] Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU</title>
+      <link>https://github.com/xaskasdf/ntransformer</link>
+      <description>&lt;p&gt;&lt;strong&gt;194 points&lt;/strong&gt; by xaskasdf | &lt;strong&gt;47 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47104667&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47104667</guid>
+      <pubDate>Sat, 21 Feb 2026 20:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[170 pts] EDuke32 – Duke Nukem 3D (Open-Source)</title>
+      <link>https://www.eduke32.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;170 points&lt;/strong&gt; by reconnecting | &lt;strong&gt;62 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47104185&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47104185</guid>
+      <pubDate>Sat, 21 Feb 2026 20:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[165 pts] Parse, Don't Validate and Type-Driven Design in Rust</title>
+      <link>https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</link>
+      <description>&lt;p&gt;&lt;strong&gt;165 points&lt;/strong&gt; by todsacerdoti | &lt;strong&gt;40 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47103931&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47103931</guid>
+      <pubDate>Sat, 21 Feb 2026 19:40:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[166 pts] Cloudflare outage on February 20, 2026</title>
+      <link>https://blog.cloudflare.com/cloudflare-outage-february-20-2026/</link>
+      <description>&lt;p&gt;&lt;strong&gt;166 points&lt;/strong&gt; by nomaxx117 | &lt;strong&gt;110 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47103649&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47103649</guid>
+      <pubDate>Sat, 21 Feb 2026 19:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[203 pts] Personal Statement of a CIA Analyst</title>
+      <link>https://antipolygraph.org/statements/statement-038.shtml</link>
+      <description>&lt;p&gt;&lt;strong&gt;203 points&lt;/strong&gt; by grubbs | &lt;strong&gt;129 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47102975&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47102975</guid>
+      <pubDate>Sat, 21 Feb 2026 17:49:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[427 pts] What not to write on your security clearance form (1988)</title>
+      <link>https://milk.com/wall-o-shame/security_clearance.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;427 points&lt;/strong&gt; by wizardforhire | &lt;strong&gt;189 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47102576&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47102576</guid>
+      <pubDate>Sat, 21 Feb 2026 17:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[201 pts] macOS's Little-Known Command-Line Sandboxing Tool (2025)</title>
+      <link>https://igorstechnoclub.com/sandbox-exec/</link>
+      <description>&lt;p&gt;&lt;strong&gt;201 points&lt;/strong&gt; by Igor_Wiwi | &lt;strong&gt;81 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47101200&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47101200</guid>
+      <pubDate>Sat, 21 Feb 2026 14:34:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[188 pts] CXMT has been offering DDR4 chips at about half the prevailing market rate</title>
+      <link>https://www.koreaherald.com/article/10679206</link>
+      <description>&lt;p&gt;&lt;strong&gt;188 points&lt;/strong&gt; by phront | &lt;strong&gt;169 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47101171&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47101171</guid>
+      <pubDate>Sat, 21 Feb 2026 14:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[143 pts] zclaw: personal AI assistant in under 888 KB, running on an ESP32</title>
+      <link>https://github.com/tnm/zclaw</link>
+      <description>&lt;p&gt;&lt;strong&gt;143 points&lt;/strong&gt; by tosh | &lt;strong&gt;79 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47100232&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47100232</guid>
+      <pubDate>Sat, 21 Feb 2026 12:37:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[280 pts] Andrej Karpathy talks about &quot;Claws&quot;</title>
+      <link>https://simonwillison.net/2026/Feb/21/claws/</link>
+      <description>&lt;p&gt;&lt;strong&gt;280 points&lt;/strong&gt; by helloplanets | &lt;strong&gt;68 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47099160&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47099160</guid>
+      <pubDate>Sat, 21 Feb 2026 09:53:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[134 pts] LibreOffice blasts OnlyOffice for working with Microsoft to lock users in</title>
+      <link>https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/</link>
+      <description>&lt;p&gt;&lt;strong&gt;134 points&lt;/strong&gt; by XzetaU8 | &lt;strong&gt;109 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47098828&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47098828</guid>
+      <pubDate>Sat, 21 Feb 2026 08:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[221 pts] EU mandates replaceable batteries by 2027 (2023)</title>
+      <link>https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en</link>
+      <description>&lt;p&gt;&lt;strong&gt;221 points&lt;/strong&gt; by cyrusmg | &lt;strong&gt;176 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47098687&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47098687</guid>
+      <pubDate>Sat, 21 Feb 2026 08:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[243 pts] AI uBlock Blacklist</title>
+      <link>https://github.com/alvi-se/ai-ublock-blacklist</link>
+      <description>&lt;p&gt;&lt;strong&gt;243 points&lt;/strong&gt; by rdmuser | &lt;strong&gt;107 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47098582&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47098582</guid>
+      <pubDate>Sat, 21 Feb 2026 08:10:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[229 pts] Acme Weather</title>
+      <link>https://acmeweather.com/blog/introducing-acme-weather</link>
+      <description>&lt;p&gt;&lt;strong&gt;229 points&lt;/strong&gt; by cryptoz | &lt;strong&gt;134 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47098296&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47098296</guid>
+      <pubDate>Sat, 21 Feb 2026 07:13:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1224 pts] I verified my LinkedIn identity. Here's what I handed over</title>
+      <link>https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1224 points&lt;/strong&gt; by ColinWright | &lt;strong&gt;428 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47098245&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47098245</guid>
+      <pubDate>Sat, 21 Feb 2026 07:06:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[146 pts] Meta Deployed AI and It Is Killing Our Agency</title>
+      <link>https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/</link>
+      <description>&lt;p&gt;&lt;strong&gt;146 points&lt;/strong&gt; by zenincognito | &lt;strong&gt;105 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47097502&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47097502</guid>
+      <pubDate>Sat, 21 Feb 2026 04:29:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[211 pts] What Is OAuth?</title>
+      <link>https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b</link>
+      <description>&lt;p&gt;&lt;strong&gt;211 points&lt;/strong&gt; by cratermoon | &lt;strong&gt;77 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47096520&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47096520</guid>
+      <pubDate>Sat, 21 Feb 2026 01:33:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[148 pts] Cord: Coordinating Trees of AI Agents</title>
+      <link>https://www.june.kim/cord</link>
+      <description>&lt;p&gt;&lt;strong&gt;148 points&lt;/strong&gt; by gfortaine | &lt;strong&gt;75 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47096466&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47096466</guid>
+      <pubDate>Sat, 21 Feb 2026 01:27:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[255 pts] Claws are now a new layer on top of LLM agents</title>
+      <link>https://twitter.com/karpathy/status/2024987174077432126</link>
+      <description>&lt;p&gt;&lt;strong&gt;255 points&lt;/strong&gt; by Cyphase | &lt;strong&gt;704 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47096253&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47096253</guid>
+      <pubDate>Sat, 21 Feb 2026 00:56:29 +0000</pubDate>
+    </item>
     <item>
       <title>[268 pts] Across the US, people are dismantling and destroying Flock surveillance cameras</title>
       <link>https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling</link>
