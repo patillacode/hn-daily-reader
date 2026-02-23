@@ -5,8 +5,48 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Feb 2026 06:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 06:59:24 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[150 pts] Attention Media ≠ Social Networks</title>
+      <link>https://susam.net/attention-media-vs-social-networks.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;150 points&lt;/strong&gt; by susam | &lt;strong&gt;59 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47110515&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47110515</guid>
+      <pubDate>Sun, 22 Feb 2026 12:36:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[125 pts] Back to FreeBSD: Part 1</title>
+      <link>https://hypha.pub/back-to-freebsd-part-1</link>
+      <description>&lt;p&gt;&lt;strong&gt;125 points&lt;/strong&gt; by enz | &lt;strong&gt;50 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47108989&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47108989</guid>
+      <pubDate>Sun, 22 Feb 2026 07:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[151 pts] Japanese Woodblock Print Search</title>
+      <link>https://ukiyo-e.org/</link>
+      <description>&lt;p&gt;&lt;strong&gt;151 points&lt;/strong&gt; by curmudgeon22 | &lt;strong&gt;24 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47107781&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47107781</guid>
+      <pubDate>Sun, 22 Feb 2026 03:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[134 pts] A Botnet Accidentally Destroyed I2P</title>
+      <link>https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/</link>
+      <description>&lt;p&gt;&lt;strong&gt;134 points&lt;/strong&gt; by Cider9986 | &lt;strong&gt;82 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47106985&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47106985</guid>
+      <pubDate>Sun, 22 Feb 2026 01:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[716 pts] How I use Claude Code: Separation of planning and execution</title>
+      <link>https://boristane.com/blog/how-i-use-claude-code/</link>
+      <description>&lt;p&gt;&lt;strong&gt;716 points&lt;/strong&gt; by vinhnx | &lt;strong&gt;454 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47106686&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47106686</guid>
+      <pubDate>Sun, 22 Feb 2026 00:29:05 +0000</pubDate>
+    </item>
     <item>
       <title>[360 pts] Why is Claude an Electron app?</title>
       <link>https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html</link>

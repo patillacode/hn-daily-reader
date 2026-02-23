@@ -3999,7 +3999,57 @@
       "created_at": 1771664076,
       "num_comments": 109,
       "hn_url": "https://news.ycombinator.com/item?id=47098828"
+    },
+    {
+      "id": "47106686",
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "url": "https://boristane.com/blog/how-i-use-claude-code/",
+      "points": 716,
+      "author": "vinhnx",
+      "created_at": 1771720145,
+      "num_comments": 454,
+      "hn_url": "https://news.ycombinator.com/item?id=47106686"
+    },
+    {
+      "id": "47107781",
+      "title": "Japanese Woodblock Print Search",
+      "url": "https://ukiyo-e.org/",
+      "points": 151,
+      "author": "curmudgeon22",
+      "created_at": 1771730316,
+      "num_comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=47107781"
+    },
+    {
+      "id": "47110515",
+      "title": "Attention Media \u2260 Social Networks",
+      "url": "https://susam.net/attention-media-vs-social-networks.html",
+      "points": 150,
+      "author": "susam",
+      "created_at": 1771763806,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=47110515"
+    },
+    {
+      "id": "47106985",
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "points": 134,
+      "author": "Cider9986",
+      "created_at": 1771722497,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=47106985"
+    },
+    {
+      "id": "47108989",
+      "title": "Back to FreeBSD: Part 1",
+      "url": "https://hypha.pub/back-to-freebsd-part-1",
+      "points": 125,
+      "author": "enz",
+      "created_at": 1771744587,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=47108989"
     }
   ],
-  "last_updated": "2026-02-22T06:41:41.039929+00:00"
+  "last_updated": "2026-02-23T06:59:24.089720+00:00"
 }
