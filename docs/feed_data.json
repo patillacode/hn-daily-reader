@@ -4049,7 +4049,207 @@
       "created_at": 1771744587,
       "num_comments": 50,
       "hn_url": "https://news.ycombinator.com/item?id=47108989"
+    },
+    {
+      "id": "47122715",
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "url": "https://spectrum.ieee.org/age-verification",
+      "points": 1372,
+      "author": "oldnetguy",
+      "created_at": 1771856559,
+      "num_comments": 1046,
+      "hn_url": "https://news.ycombinator.com/item?id=47122715"
+    },
+    {
+      "id": "47120899",
+      "title": "Ladybird adopts Rust, with help from AI",
+      "url": "https://ladybird.org/posts/adopting-rust/",
+      "points": 1139,
+      "author": "adius",
+      "created_at": 1771846162,
+      "num_comments": 623,
+      "hn_url": "https://news.ycombinator.com/item?id=47120899"
+    },
+    {
+      "id": "47127081",
+      "title": "Americans are destroying Flock surveillance cameras",
+      "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+      "points": 634,
+      "author": "mikece",
+      "created_at": 1771873474,
+      "num_comments": 423,
+      "hn_url": "https://news.ycombinator.com/item?id=47127081"
+    },
+    {
+      "id": "47119530",
+      "title": "Elsevier shuts down its finance journal citation cartel",
+      "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
+      "points": 543,
+      "author": "qsi",
+      "created_at": 1771834954,
+      "num_comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=47119530"
+    },
+    {
+      "id": "47119210",
+      "title": "Pope tells priests to use their brains, not AI, to write homilies",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+      "points": 540,
+      "author": "josephcsible",
+      "created_at": 1771832037,
+      "num_comments": 429,
+      "hn_url": "https://news.ycombinator.com/item?id=47119210"
+    },
+    {
+      "id": "47127396",
+      "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
+      "url": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+      "points": 480,
+      "author": "boplicity",
+      "created_at": 1771874610,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=47127396"
+    },
+    {
+      "id": "47121029",
+      "title": "Hetzner (European hosting provider) to increase prices by up to 38%",
+      "url": "https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/",
+      "points": 442,
+      "author": "doener",
+      "created_at": 1771847050,
+      "num_comments": 390,
+      "hn_url": "https://news.ycombinator.com/item?id=47121029"
+    },
+    {
+      "id": "47119274",
+      "title": "Magical Mushroom \u2013 Europe's first industrial-scale mycelium packaging producer",
+      "url": "https://magicalmushroom.com/index",
+      "points": 372,
+      "author": "microflash",
+      "created_at": 1771832627,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=47119274"
+    },
+    {
+      "id": "47129361",
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
+      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "points": 330,
+      "author": "varankinv",
+      "created_at": 1771883068,
+      "num_comments": 268,
+      "hn_url": "https://news.ycombinator.com/item?id=47129361"
+    },
+    {
+      "id": "47125349",
+      "title": "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
+      "url": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/",
+      "points": 317,
+      "author": "pieterr",
+      "created_at": 1771867121,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=47125349"
+    },
+    {
+      "id": "47117780",
+      "title": "Freemediaheckyeah \u2013 A collection of free stuff on the internet",
+      "url": "https://fmhy.net/",
+      "points": 260,
+      "author": "con",
+      "created_at": 1771817731,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=47117780"
+    },
+    {
+      "id": "47128960",
+      "title": "Flock cameras gifted by Horowitz Foundation, avoiding public oversight",
+      "url": "https://thenevadaindependent.com/article/vegas-police-are-big-users-of-license-plate-readers-public-has-little-input-because-its-a-gift",
+      "points": 243,
+      "author": "rurp",
+      "created_at": 1771881320,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=47128960"
+    },
+    {
+      "id": "47117459",
+      "title": "The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/",
+      "points": 242,
+      "author": "modinfo",
+      "created_at": 1771814956,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=47117459"
+    },
+    {
+      "id": "47130208",
+      "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
+      "url": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
+      "points": 240,
+      "author": "cdrnsf",
+      "created_at": 1771887308,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=47130208"
+    },
+    {
+      "id": "47123631",
+      "title": "Show HN: PgDog \u2013 Scale Postgres without changing the app",
+      "url": "https://github.com/pgdogdev/pgdog",
+      "points": 235,
+      "author": "levkk",
+      "created_at": 1771860804,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=47123631"
+    },
+    {
+      "id": "47122789",
+      "title": "The peculiar case of Japanese web design (2022)",
+      "url": "https://sabrinas.space",
+      "points": 234,
+      "author": "montenegrohugo",
+      "created_at": 1771856919,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=47122789"
+    },
+    {
+      "id": "47117087",
+      "title": "$30B for laptops yielded a generation less cognitively capable than parents",
+      "url": "https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html",
+      "points": 223,
+      "author": "walterbell",
+      "created_at": 1771811656,
+      "num_comments": 230,
+      "hn_url": "https://news.ycombinator.com/item?id=47117087"
+    },
+    {
+      "id": "47124149",
+      "title": "A simple web we own",
+      "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
+      "points": 211,
+      "author": "speckx",
+      "created_at": 1771862478,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=47124149"
+    },
+    {
+      "id": "47120188",
+      "title": "Hacker News.love \u2013 22 projects Hacker News didn't love",
+      "url": "https://hackernews.love/",
+      "points": 208,
+      "author": "ohong",
+      "created_at": 1771840617,
+      "num_comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=47120188"
+    },
+    {
+      "id": "47117886",
+      "title": "Crawling a billion web pages in just over 24 hours, in 2025",
+      "url": "https://andrewkchan.dev/posts/crawler.html",
+      "points": 174,
+      "author": "pseudolus",
+      "created_at": 1771818872,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=47117886"
     }
   ],
-  "last_updated": "2026-02-23T06:59:24.089720+00:00"
+  "last_updated": "2026-02-24T06:55:43.087145+00:00"
 }
