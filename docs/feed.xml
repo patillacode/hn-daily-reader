@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 06:55:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 06:57:41 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[209 pts] Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3</title>
+      <link>https://github.com/moonshine-ai/moonshine</link>
+      <description>&lt;p&gt;&lt;strong&gt;209 points&lt;/strong&gt; by petewarden | &lt;strong&gt;39 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47143755&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47143755</guid>
+      <pubDate>Tue, 24 Feb 2026 21:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[291 pts] Pi – A minimal terminal coding harness</title>
+      <link>https://pi.dev</link>
+      <description>&lt;p&gt;&lt;strong&gt;291 points&lt;/strong&gt; by kristianpaul | &lt;strong&gt;120 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47143754&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47143754</guid>
+      <pubDate>Tue, 24 Feb 2026 21:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[461 pts] Mac mini will be made at a new facility in Houston</title>
+      <link>https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/</link>
+      <description>&lt;p&gt;&lt;strong&gt;461 points&lt;/strong&gt; by haunter | &lt;strong&gt;446 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47143152&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47143152</guid>
+      <pubDate>Tue, 24 Feb 2026 21:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[424 pts] How we rebuilt Next.js with AI in one week</title>
+      <link>https://blog.cloudflare.com/vinext/</link>
+      <description>&lt;p&gt;&lt;strong&gt;424 points&lt;/strong&gt; by ghostwriternr | &lt;strong&gt;165 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47142156&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47142156</guid>
+      <pubDate>Tue, 24 Feb 2026 20:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[220 pts] Hacking an old Kindle to display bus arrival times</title>
+      <link>https://www.mariannefeng.com/portfolio/kindle/</link>
+      <description>&lt;p&gt;&lt;strong&gt;220 points&lt;/strong&gt; by mengchengfeng | &lt;strong&gt;49 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47141797&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47141797</guid>
+      <pubDate>Tue, 24 Feb 2026 19:43:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[217 pts] Tesla registrations crash 17% in Europe as BEV market surges 14%</title>
+      <link>https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/</link>
+      <description>&lt;p&gt;&lt;strong&gt;217 points&lt;/strong&gt; by breve | &lt;strong&gt;245 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47140932&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47140932</guid>
+      <pubDate>Tue, 24 Feb 2026 18:46:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[551 pts] OpenAI, the US government and Persona built an identity surveillance machine</title>
+      <link>https://vmfunc.re/blog/persona/</link>
+      <description>&lt;p&gt;&lt;strong&gt;551 points&lt;/strong&gt; by rzk | &lt;strong&gt;171 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47140632&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47140632</guid>
+      <pubDate>Tue, 24 Feb 2026 18:23:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[290 pts] Nearby Glasses</title>
+      <link>https://github.com/yjeanrenaud/yj_nearbyglasses</link>
+      <description>&lt;p&gt;&lt;strong&gt;290 points&lt;/strong&gt; by zingerlio | &lt;strong&gt;112 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47140042&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47140042</guid>
+      <pubDate>Tue, 24 Feb 2026 17:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[396 pts] Open Letter to Google on Mandatory Developer Registration for App Distribution</title>
+      <link>https://keepandroidopen.org/open-letter/</link>
+      <description>&lt;p&gt;&lt;strong&gt;396 points&lt;/strong&gt; by kaplun | &lt;strong&gt;320 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47139765&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47139765</guid>
+      <pubDate>Tue, 24 Feb 2026 17:21:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[810 pts] I'm helping my dog vibe code games</title>
+      <link>https://www.calebleak.com/posts/dog-game/</link>
+      <description>&lt;p&gt;&lt;strong&gt;810 points&lt;/strong&gt; by cleak | &lt;strong&gt;222 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47139675&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47139675</guid>
+      <pubDate>Tue, 24 Feb 2026 17:15:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[209 pts] Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)</title>
+      <link>https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/</link>
+      <description>&lt;p&gt;&lt;strong&gt;209 points&lt;/strong&gt; by thunderbong | &lt;strong&gt;97 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47139224&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47139224</guid>
+      <pubDate>Tue, 24 Feb 2026 16:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[337 pts] Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148</title>
+      <link>https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/</link>
+      <description>&lt;p&gt;&lt;strong&gt;337 points&lt;/strong&gt; by todsacerdoti | &lt;strong&gt;153 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47136611&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47136611</guid>
+      <pubDate>Tue, 24 Feb 2026 13:04:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[432 pts] I pitched a roller coaster to Disneyland at age 10 in 1978</title>
+      <link>https://wordglyph.xyz/one-piece-at-a-time</link>
+      <description>&lt;p&gt;&lt;strong&gt;432 points&lt;/strong&gt; by wordglyph | &lt;strong&gt;161 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47136604&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47136604</guid>
+      <pubDate>Tue, 24 Feb 2026 13:03:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1621 pts] IDF killed Gaza aid workers at point blank range in 2025 massacre: Report</title>
+      <link>https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot</link>
+      <description>&lt;p&gt;&lt;strong&gt;1621 points&lt;/strong&gt; by Qem | &lt;strong&gt;614 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47136179&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47136179</guid>
+      <pubDate>Tue, 24 Feb 2026 12:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[430 pts] Discord cuts ties with identity verification software, Persona</title>
+      <link>https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/</link>
+      <description>&lt;p&gt;&lt;strong&gt;430 points&lt;/strong&gt; by robtherobber | &lt;strong&gt;307 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47136036&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47136036</guid>
+      <pubDate>Tue, 24 Feb 2026 11:59:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[450 pts] Firefox 148 Launches with AI Kill Switch Feature and More Enhancements</title>
+      <link>https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/</link>
+      <description>&lt;p&gt;&lt;strong&gt;450 points&lt;/strong&gt; by shaunpud | &lt;strong&gt;378 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47133313&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47133313</guid>
+      <pubDate>Tue, 24 Feb 2026 05:47:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[430 pts] Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows</title>
+      <link>https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;430 points&lt;/strong&gt; by wglb | &lt;strong&gt;163 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47132388&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47132388</guid>
+      <pubDate>Tue, 24 Feb 2026 03:10:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[257 pts] Show HN: X86CSS – An x86 CPU emulator written in CSS</title>
+      <link>https://lyra.horse/x86css/</link>
+      <description>&lt;p&gt;&lt;strong&gt;257 points&lt;/strong&gt; by rebane2001 | &lt;strong&gt;90 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47132102&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47132102</guid>
+      <pubDate>Tue, 24 Feb 2026 02:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[317 pts] Show HN: Steerling-8B, a language model that can explain any token it generates</title>
+      <link>https://www.guidelabs.ai/post/steerling-8b-base-model-release/</link>
+      <description>&lt;p&gt;&lt;strong&gt;317 points&lt;/strong&gt; by adebayoj | &lt;strong&gt;87 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47131225&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47131225</guid>
+      <pubDate>Tue, 24 Feb 2026 00:38:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[212 pts] Shatner is making an album with 35 metal icons</title>
+      <link>https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album</link>
+      <description>&lt;p&gt;&lt;strong&gt;212 points&lt;/strong&gt; by mhb | &lt;strong&gt;107 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47131173&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47131173</guid>
+      <pubDate>Tue, 24 Feb 2026 00:33:06 +0000</pubDate>
+    </item>
     <item>
       <title>[240 pts] AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says</title>
       <link>https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380</link>
