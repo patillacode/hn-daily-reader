@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 06:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 06:55:50 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[177 pts] First Website (1992)</title>
+      <link>https://info.cern.ch</link>
+      <description>&lt;p&gt;&lt;strong&gt;177 points&lt;/strong&gt; by shrikaranhanda | &lt;strong&gt;36 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47159302&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47159302</guid>
+      <pubDate>Wed, 25 Feb 2026 23:02:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[181 pts] Making MCP cheaper via CLI</title>
+      <link>https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;181 points&lt;/strong&gt; by thellimist | &lt;strong&gt;82 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47157398&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47157398</guid>
+      <pubDate>Wed, 25 Feb 2026 20:29:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[421 pts] Jimi Hendrix was a systems engineer</title>
+      <link>https://spectrum.ieee.org/jimi-hendrix-systems-engineer</link>
+      <description>&lt;p&gt;&lt;strong&gt;421 points&lt;/strong&gt; by tintinnabula | &lt;strong&gt;138 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47157224&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47157224</guid>
+      <pubDate>Wed, 25 Feb 2026 20:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[315 pts] Google API keys weren't secrets, but then Gemini changed the rules</title>
+      <link>https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules</link>
+      <description>&lt;p&gt;&lt;strong&gt;315 points&lt;/strong&gt; by hiisthisthingon | &lt;strong&gt;64 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47156925&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47156925</guid>
+      <pubDate>Wed, 25 Feb 2026 19:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[205 pts] Show HN: I ported Tree-sitter to Go</title>
+      <link>https://github.com/odvcencio/gotreesitter</link>
+      <description>&lt;p&gt;&lt;strong&gt;205 points&lt;/strong&gt; by odvcencio | &lt;strong&gt;86 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47155597&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47155597</guid>
+      <pubDate>Wed, 25 Feb 2026 18:28:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[251 pts] The Om Programming Language</title>
+      <link>https://www.om-language.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;251 points&lt;/strong&gt; by tosh | &lt;strong&gt;61 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47154971&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47154971</guid>
+      <pubDate>Wed, 25 Feb 2026 17:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[250 pts] Windows 11 Notepad to support Markdown</title>
+      <link>https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</link>
+      <description>&lt;p&gt;&lt;strong&gt;250 points&lt;/strong&gt; by andreynering | &lt;strong&gt;390 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47154399&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47154399</guid>
+      <pubDate>Wed, 25 Feb 2026 17:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[448 pts] Following 35% growth, solar has passed hydro on US grid</title>
+      <link>https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/</link>
+      <description>&lt;p&gt;&lt;strong&gt;448 points&lt;/strong&gt; by rbanffy | &lt;strong&gt;396 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47154009&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47154009</guid>
+      <pubDate>Wed, 25 Feb 2026 16:44:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[338 pts] Bus stop balancing is fast, cheap, and effective</title>
+      <link>https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/</link>
+      <description>&lt;p&gt;&lt;strong&gt;338 points&lt;/strong&gt; by surprisetalk | &lt;strong&gt;492 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47153798&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47153798</guid>
+      <pubDate>Wed, 25 Feb 2026 16:31:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[472 pts] US orders diplomats to fight data sovereignty initiatives</title>
+      <link>https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/</link>
+      <description>&lt;p&gt;&lt;strong&gt;472 points&lt;/strong&gt; by colinhb | &lt;strong&gt;407 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47152252&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47152252</guid>
+      <pubDate>Wed, 25 Feb 2026 14:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[641 pts] New accounts on HN more likely to use em-dashes</title>
+      <link>https://www.marginalia.nu/weird-ai-crap/hn/</link>
+      <description>&lt;p&gt;&lt;strong&gt;641 points&lt;/strong&gt; by todsacerdoti | &lt;strong&gt;527 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47152085&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47152085</guid>
+      <pubDate>Wed, 25 Feb 2026 14:37:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[703 pts] Never buy a .online domain</title>
+      <link>https://www.0xsid.com/blog/online-tld-is-pain</link>
+      <description>&lt;p&gt;&lt;strong&gt;703 points&lt;/strong&gt; by ssiddharth | &lt;strong&gt;431 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47151233&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47151233</guid>
+      <pubDate>Wed, 25 Feb 2026 13:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[227 pts] AIs can't stop recommending nuclear strikes in war game simulations</title>
+      <link>https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/</link>
+      <description>&lt;p&gt;&lt;strong&gt;227 points&lt;/strong&gt; by ceejayoz | &lt;strong&gt;242 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47151000&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47151000</guid>
+      <pubDate>Wed, 25 Feb 2026 13:07:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[765 pts] Danish government agency to ditch Microsoft software (2025)</title>
+      <link>https://therecord.media/denmark-digital-agency-microsoft-digital-independence</link>
+      <description>&lt;p&gt;&lt;strong&gt;765 points&lt;/strong&gt; by robtherobber | &lt;strong&gt;375 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47149701&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47149701</guid>
+      <pubDate>Wed, 25 Feb 2026 10:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[203 pts] Show HN: A real-time strategy game that AI agents can play</title>
+      <link>https://llmskirmish.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;203 points&lt;/strong&gt; by __cayenne__ | &lt;strong&gt;72 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47149586&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47149586</guid>
+      <pubDate>Wed, 25 Feb 2026 10:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[228 pts] LLM=True</title>
+      <link>https://blog.codemine.be/posts/2026/20260222-be-quiet/</link>
+      <description>&lt;p&gt;&lt;strong&gt;228 points&lt;/strong&gt; by avh3 | &lt;strong&gt;140 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47149151&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47149151</guid>
+      <pubDate>Wed, 25 Feb 2026 09:05:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[518 pts] Claude Code Remote Control</title>
+      <link>https://code.claude.com/docs/en/remote-control</link>
+      <description>&lt;p&gt;&lt;strong&gt;518 points&lt;/strong&gt; by empressplay | &lt;strong&gt;301 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47148454&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47148454</guid>
+      <pubDate>Wed, 25 Feb 2026 07:22:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[619 pts] Anthropic Drops Flagship Safety Pledge</title>
+      <link>https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</link>
+      <description>&lt;p&gt;&lt;strong&gt;619 points&lt;/strong&gt; by cwwc | &lt;strong&gt;298 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47145963&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47145963</guid>
+      <pubDate>Wed, 25 Feb 2026 01:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[667 pts] Amazon accused of widespread scheme to inflate prices across the economy</title>
+      <link>https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price</link>
+      <description>&lt;p&gt;&lt;strong&gt;667 points&lt;/strong&gt; by toomuchtodo | &lt;strong&gt;267 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47145907&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47145907</guid>
+      <pubDate>Wed, 25 Feb 2026 01:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[195 pts] US Military leaders meet with Anthropic to argue against Claude safeguards</title>
+      <link>https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai</link>
+      <description>&lt;p&gt;&lt;strong&gt;195 points&lt;/strong&gt; by KnuthIsGod | &lt;strong&gt;97 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47145551&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47145551</guid>
+      <pubDate>Wed, 25 Feb 2026 00:20:50 +0000</pubDate>
+    </item>
     <item>
       <title>[209 pts] Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3</title>
       <link>https://github.com/moonshine-ai/moonshine</link>

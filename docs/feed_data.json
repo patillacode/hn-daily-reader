@@ -4449,7 +4449,207 @@
       "created_at": 1771970047,
       "num_comments": 39,
       "hn_url": "https://news.ycombinator.com/item?id=47143755"
+    },
+    {
+      "id": "47149701",
+      "title": "Danish government agency to ditch Microsoft software (2025)",
+      "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+      "points": 765,
+      "author": "robtherobber",
+      "created_at": 1772014582,
+      "num_comments": 375,
+      "hn_url": "https://news.ycombinator.com/item?id=47149701"
+    },
+    {
+      "id": "47151233",
+      "title": "Never buy a .online domain",
+      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+      "points": 703,
+      "author": "ssiddharth",
+      "created_at": 1772026277,
+      "num_comments": 431,
+      "hn_url": "https://news.ycombinator.com/item?id=47151233"
+    },
+    {
+      "id": "47145907",
+      "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+      "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+      "points": 667,
+      "author": "toomuchtodo",
+      "created_at": 1771981245,
+      "num_comments": 267,
+      "hn_url": "https://news.ycombinator.com/item?id=47145907"
+    },
+    {
+      "id": "47152085",
+      "title": "New accounts on HN more likely to use em-dashes",
+      "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
+      "points": 641,
+      "author": "todsacerdoti",
+      "created_at": 1772030241,
+      "num_comments": 527,
+      "hn_url": "https://news.ycombinator.com/item?id=47152085"
+    },
+    {
+      "id": "47145963",
+      "title": "Anthropic Drops Flagship Safety Pledge",
+      "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+      "points": 619,
+      "author": "cwwc",
+      "created_at": 1771981726,
+      "num_comments": 298,
+      "hn_url": "https://news.ycombinator.com/item?id=47145963"
+    },
+    {
+      "id": "47148454",
+      "title": "Claude Code Remote Control",
+      "url": "https://code.claude.com/docs/en/remote-control",
+      "points": 518,
+      "author": "empressplay",
+      "created_at": 1772004176,
+      "num_comments": 301,
+      "hn_url": "https://news.ycombinator.com/item?id=47148454"
+    },
+    {
+      "id": "47152252",
+      "title": "US orders diplomats to fight data sovereignty initiatives",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/",
+      "points": 472,
+      "author": "colinhb",
+      "created_at": 1772030897,
+      "num_comments": 407,
+      "hn_url": "https://news.ycombinator.com/item?id=47152252"
+    },
+    {
+      "id": "47154009",
+      "title": "Following 35% growth, solar has passed hydro on US grid",
+      "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+      "points": 448,
+      "author": "rbanffy",
+      "created_at": 1772037894,
+      "num_comments": 396,
+      "hn_url": "https://news.ycombinator.com/item?id=47154009"
+    },
+    {
+      "id": "47157224",
+      "title": "Jimi Hendrix was a systems engineer",
+      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "points": 421,
+      "author": "tintinnabula",
+      "created_at": 1772050607,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=47157224"
+    },
+    {
+      "id": "47153798",
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+      "points": 338,
+      "author": "surprisetalk",
+      "created_at": 1772037086,
+      "num_comments": 492,
+      "hn_url": "https://news.ycombinator.com/item?id=47153798"
+    },
+    {
+      "id": "47156925",
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "points": 315,
+      "author": "hiisthisthingon",
+      "created_at": 1772049254,
+      "num_comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=47156925"
+    },
+    {
+      "id": "47154971",
+      "title": "The Om Programming Language",
+      "url": "https://www.om-language.com/",
+      "points": 251,
+      "author": "tosh",
+      "created_at": 1772041701,
+      "num_comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=47154971"
+    },
+    {
+      "id": "47154399",
+      "title": "Windows 11 Notepad to support Markdown",
+      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+      "points": 250,
+      "author": "andreynering",
+      "created_at": 1772039659,
+      "num_comments": 390,
+      "hn_url": "https://news.ycombinator.com/item?id=47154399"
+    },
+    {
+      "id": "47149151",
+      "title": "LLM=True",
+      "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+      "points": 228,
+      "author": "avh3",
+      "created_at": 1772010340,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=47149151"
+    },
+    {
+      "id": "47151000",
+      "title": "AIs can't stop recommending nuclear strikes in war game simulations",
+      "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
+      "points": 227,
+      "author": "ceejayoz",
+      "created_at": 1772024856,
+      "num_comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=47151000"
+    },
+    {
+      "id": "47155597",
+      "title": "Show HN: I ported Tree-sitter to Go",
+      "url": "https://github.com/odvcencio/gotreesitter",
+      "points": 205,
+      "author": "odvcencio",
+      "created_at": 1772044117,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=47155597"
+    },
+    {
+      "id": "47149586",
+      "title": "Show HN: A real-time strategy game that AI agents can play",
+      "url": "https://llmskirmish.com/",
+      "points": 203,
+      "author": "__cayenne__",
+      "created_at": 1772013765,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=47149586"
+    },
+    {
+      "id": "47145551",
+      "title": "US Military leaders meet with Anthropic to argue against Claude safeguards",
+      "url": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
+      "points": 195,
+      "author": "KnuthIsGod",
+      "created_at": 1771978850,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=47145551"
+    },
+    {
+      "id": "47157398",
+      "title": "Making MCP cheaper via CLI",
+      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+      "points": 181,
+      "author": "thellimist",
+      "created_at": 1772051377,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=47157398"
+    },
+    {
+      "id": "47159302",
+      "title": "First Website (1992)",
+      "url": "https://info.cern.ch",
+      "points": 177,
+      "author": "shrikaranhanda",
+      "created_at": 1772060578,
+      "num_comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=47159302"
     }
   ],
-  "last_updated": "2026-02-25T06:57:41.722957+00:00"
+  "last_updated": "2026-02-26T06:55:50.697404+00:00"
 }
