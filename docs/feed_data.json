@@ -4649,7 +4649,207 @@
       "created_at": 1772060578,
       "num_comments": 36,
       "hn_url": "https://news.ycombinator.com/item?id=47159302"
+    },
+    {
+      "id": "47173121",
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "points": 1529,
+      "author": "qwertox",
+      "created_at": 1772145767,
+      "num_comments": 797,
+      "hn_url": "https://news.ycombinator.com/item?id=47173121"
+    },
+    {
+      "id": "47172119",
+      "title": "Layoffs at Block",
+      "url": "https://twitter.com/jack/status/2027129697092731343",
+      "points": 632,
+      "author": "mlex",
+      "created_at": 1772140676,
+      "num_comments": 662,
+      "hn_url": "https://news.ycombinator.com/item?id=47172119"
+    },
+    {
+      "id": "47163885",
+      "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+      "url": "https://news.ycombinator.com/item?id=47163885",
+      "points": 619,
+      "author": "miki123211",
+      "created_at": 1772098508,
+      "num_comments": 231,
+      "hn_url": "https://news.ycombinator.com/item?id=47163885"
+    },
+    {
+      "id": "47165397",
+      "title": "Anthropic ditches its core safety promise",
+      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+      "points": 548,
+      "author": "motbus3",
+      "created_at": 1772110370,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=47165397"
+    },
+    {
+      "id": "47167858",
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "points": 544,
+      "author": "davidbarker",
+      "created_at": 1772121757,
+      "num_comments": 509,
+      "hn_url": "https://news.ycombinator.com/item?id=47167858"
+    },
+    {
+      "id": "47160226",
+      "title": "Tech companies shouldn't be bullied into doing surveillance",
+      "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+      "points": 474,
+      "author": "pseudolus",
+      "created_at": 1772066252,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=47160226"
+    },
+    {
+      "id": "47161160",
+      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+      "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+      "points": 377,
+      "author": "jnord",
+      "created_at": 1772073806,
+      "num_comments": 325,
+      "hn_url": "https://news.ycombinator.com/item?id=47161160"
+    },
+    {
+      "id": "47167931",
+      "title": "Will vibe coding end like the maker movement?",
+      "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+      "points": 361,
+      "author": "itunpredictable",
+      "created_at": 1772122031,
+      "num_comments": 358,
+      "hn_url": "https://news.ycombinator.com/item?id=47167931"
+    },
+    {
+      "id": "47169757",
+      "title": "What Claude Code chooses",
+      "url": "https://amplifying.ai/research/claude-code-picks",
+      "points": 354,
+      "author": "tin7in",
+      "created_at": 1772129546,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=47169757"
+    },
+    {
+      "id": "47167763",
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "points": 340,
+      "author": "DamnInteresting",
+      "created_at": 1772121348,
+      "num_comments": 162,
+      "hn_url": "https://news.ycombinator.com/item?id=47167763"
+    },
+    {
+      "id": "47164270",
+      "title": "Show HN: Terminal Phone \u2013 E2EE Walkie Talkie from the Command Line",
+      "url": "https://gitlab.com/here_forawhile/terminalphone",
+      "points": 300,
+      "author": "smalltorch",
+      "created_at": 1772102445,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=47164270"
+    },
+    {
+      "id": "47168012",
+      "title": "Open Source Endowment \u2013 new funding source for open source maintainers",
+      "url": "https://endowment.dev/",
+      "points": 230,
+      "author": "kvinogradov",
+      "created_at": 1772122386,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=47168012"
+    },
+    {
+      "id": "47171233",
+      "title": "What does \" 2>&1 \" mean?",
+      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "points": 217,
+      "author": "alexmolas",
+      "created_at": 1772135926,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=47171233"
+    },
+    {
+      "id": "47172664",
+      "title": "Smartphone market forecast to decline this year due to memory shortage",
+      "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
+      "points": 213,
+      "author": "littlexsparkee",
+      "created_at": 1772143785,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=47172664"
+    },
+    {
+      "id": "47167171",
+      "title": "In 2025, Meta paid an effective federal tax rate of 3.5%",
+      "url": "https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i",
+      "points": 202,
+      "author": "doener",
+      "created_at": 1772118860,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=47167171"
+    },
+    {
+      "id": "47164605",
+      "title": "You Want to Visit the UK? You Better Have a Google Play or App Store Account",
+      "url": "https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/",
+      "points": 197,
+      "author": "rhazn",
+      "created_at": 1772105170,
+      "num_comments": 291,
+      "hn_url": "https://news.ycombinator.com/item?id=47164605"
+    },
+    {
+      "id": "47168726",
+      "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+      "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+      "points": 179,
+      "author": "spiffytech",
+      "created_at": 1772125265,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=47168726"
+    },
+    {
+      "id": "47160613",
+      "title": "Jane Street Hit with Terra $40B Insider Trading Suit",
+      "url": "https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/",
+      "points": 169,
+      "author": "shin_lao",
+      "created_at": 1772069149,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=47160613"
+    },
+    {
+      "id": "47166264",
+      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+      "points": 167,
+      "author": "jasonpeacock",
+      "created_at": 1772114746,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=47166264"
+    },
+    {
+      "id": "47162059",
+      "title": "I don't know how you get here from \u201cpredict the next word\u201d",
+      "url": "https://www.grumpy-economist.com/p/refine",
+      "points": 163,
+      "author": "qsi",
+      "created_at": 1772081941,
+      "num_comments": 240,
+      "hn_url": "https://news.ycombinator.com/item?id=47162059"
     }
   ],
-  "last_updated": "2026-02-26T06:55:50.697404+00:00"
+  "last_updated": "2026-02-27T06:47:43.679105+00:00"
 }
