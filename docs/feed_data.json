@@ -4849,7 +4849,207 @@
       "created_at": 1772081941,
       "num_comments": 240,
       "hn_url": "https://news.ycombinator.com/item?id=47162059"
+    },
+    {
+      "id": "47186677",
+      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+      "url": "https://twitter.com/secwar/status/2027507717469049070",
+      "points": 1234,
+      "author": "jacobedawson",
+      "created_at": 1772231478,
+      "num_comments": 990,
+      "hn_url": "https://news.ycombinator.com/item?id=47186677"
+    },
+    {
+      "id": "47181391",
+      "title": "Court finds Fourth Amendment doesn\u2019t support broad search of protesters\u2019 devices",
+      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+      "points": 555,
+      "author": "hn_acker",
+      "created_at": 1772204944,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=47181391"
+    },
+    {
+      "id": "47176257",
+      "title": "The Hunt for Dark\u00a0Breakfast",
+      "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+      "points": 525,
+      "author": "moultano",
+      "created_at": 1772164188,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=47176257"
+    },
+    {
+      "id": "47178371",
+      "title": "Get free Claude max 20x for open-source maintainers",
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "points": 518,
+      "author": "zhisme",
+      "created_at": 1772183338,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=47178371"
+    },
+    {
+      "id": "47181208",
+      "title": "A new California law says all operating systems need to have age verification",
+      "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+      "points": 510,
+      "author": "WalterSobchak",
+      "created_at": 1772204149,
+      "num_comments": 487,
+      "hn_url": "https://news.ycombinator.com/item?id=47181208"
+    },
+    {
+      "id": "47181211",
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "points": 454,
+      "author": "zlatkov",
+      "created_at": 1772204165,
+      "num_comments": 497,
+      "hn_url": "https://news.ycombinator.com/item?id=47181211"
+    },
+    {
+      "id": "47183578",
+      "title": "Dan Simmons, author of Hyperion, has died",
+      "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
+      "points": 437,
+      "author": "throw0101a",
+      "created_at": 1772216019,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=47183578"
+    },
+    {
+      "id": "47184288",
+      "title": "Leaving Google has actively improved my life",
+      "url": "https://pseudosingleton.com/leaving-google-improved-my-life/",
+      "points": 417,
+      "author": "speckx",
+      "created_at": 1772219305,
+      "num_comments": 226,
+      "hn_url": "https://news.ycombinator.com/item?id=47184288"
+    },
+    {
+      "id": "47180569",
+      "title": "A better streams API is possible for JavaScript",
+      "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+      "points": 396,
+      "author": "nnx",
+      "created_at": 1772200973,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=47180569"
+    },
+    {
+      "id": "47175931",
+      "title": "Google workers seek 'red lines' on military A.I., echoing Anthropic",
+      "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+      "points": 281,
+      "author": "mikece",
+      "created_at": 1772161689,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=47175931"
+    },
+    {
+      "id": "47177186",
+      "title": "The normalization of corruption in organizations (2003) [pdf]",
+      "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
+      "points": 268,
+      "author": "rendx",
+      "created_at": 1772173283,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=47177186"
+    },
+    {
+      "id": "47184480",
+      "title": "Rob Grant, creator of Red Dwarf, has died",
+      "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
+      "points": 263,
+      "author": "nephihaha",
+      "created_at": 1772220398,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=47184480"
+    },
+    {
+      "id": "47181380",
+      "title": "The Pentagon is making a mistake by threatening Anthropic",
+      "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
+      "points": 243,
+      "author": "speckx",
+      "created_at": 1772204909,
+      "num_comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=47181380"
+    },
+    {
+      "id": "47182483",
+      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+      "points": 241,
+      "author": "voxadam",
+      "created_at": 1772210019,
+      "num_comments": 261,
+      "hn_url": "https://news.ycombinator.com/item?id=47182483"
+    },
+    {
+      "id": "47186031",
+      "title": "President Trump bans Anthropic from use in government systems",
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban",
+      "points": 241,
+      "author": "pkress2",
+      "created_at": 1772228440,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=47186031"
+    },
+    {
+      "id": "47181841",
+      "title": "ChatGPT Health fails to recognise medical emergencies \u2013\u00a0study",
+      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+      "points": 195,
+      "author": "simonebrunozzi",
+      "created_at": 1772207073,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=47181841"
+    },
+    {
+      "id": "47181944",
+      "title": "A Chinese official\u2019s use of ChatGPT revealed an intimidation operation",
+      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+      "points": 188,
+      "author": "cwwc",
+      "created_at": 1772207547,
+      "num_comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=47181944"
+    },
+    {
+      "id": "47181801",
+      "title": "We gave terabytes of CI logs to an LLM",
+      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+      "points": 185,
+      "author": "shad42",
+      "created_at": 1772206873,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=47181801"
+    },
+    {
+      "id": "47178678",
+      "title": "Breaking Free",
+      "url": "https://www.forbrukerradet.no/breakingfree/",
+      "points": 182,
+      "author": "Aissen",
+      "created_at": 1772186202,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=47178678"
+    },
+    {
+      "id": "47176157",
+      "title": "A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives",
+      "url": "https://bookriot.com/hr7661-book-ban-legislation/",
+      "points": 179,
+      "author": "LostMyLogin",
+      "created_at": 1772163252,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=47176157"
     }
   ],
-  "last_updated": "2026-02-27T06:47:43.679105+00:00"
+  "last_updated": "2026-02-28T06:32:52.821128+00:00"
 }
