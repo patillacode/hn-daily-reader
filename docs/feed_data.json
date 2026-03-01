@@ -5049,7 +5049,207 @@
       "created_at": 1772163252,
       "num_comments": 147,
       "hn_url": "https://news.ycombinator.com/item?id=47176157"
+    },
+    {
+      "id": "47188473",
+      "title": "We Will Not Be Divided",
+      "url": "https://notdivided.org",
+      "points": 2552,
+      "author": "BloondAndDoom",
+      "created_at": 1772240093,
+      "num_comments": 807,
+      "hn_url": "https://news.ycombinator.com/item?id=47188473"
+    },
+    {
+      "id": "47193478",
+      "title": "OpenAI \u2013 How to delete your account",
+      "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+      "points": 1840,
+      "author": "carlosrg",
+      "created_at": 1772275315,
+      "num_comments": 345,
+      "hn_url": "https://news.ycombinator.com/item?id=47193478"
+    },
+    {
+      "id": "47189650",
+      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "url": "https://twitter.com/sama/status/2027578652477821175",
+      "points": 1354,
+      "author": "eoskx",
+      "created_at": 1772247542,
+      "num_comments": 625,
+      "hn_url": "https://news.ycombinator.com/item?id=47189650"
+    },
+    {
+      "id": "47188697",
+      "title": "Statement on the comments from Secretary of War Pete Hegseth",
+      "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "points": 1133,
+      "author": "surprisetalk",
+      "created_at": 1772241610,
+      "num_comments": 349,
+      "hn_url": "https://news.ycombinator.com/item?id=47188697"
+    },
+    {
+      "id": "47191232",
+      "title": "The United States and Israel have launched a major attack on Iran",
+      "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "points": 1096,
+      "author": "lavp",
+      "created_at": 1772260447,
+      "num_comments": 2371,
+      "hn_url": "https://news.ycombinator.com/item?id=47191232"
+    },
+    {
+      "id": "47190997",
+      "title": "How do I cancel my ChatGPT subscription?",
+      "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "points": 1025,
+      "author": "tobr",
+      "created_at": 1772258101,
+      "num_comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=47190997"
+    },
+    {
+      "id": "47197505",
+      "title": "The whole thing was a scam",
+      "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+      "points": 726,
+      "author": "guilamu",
+      "created_at": 1772297509,
+      "num_comments": 219,
+      "hn_url": "https://news.ycombinator.com/item?id=47197505"
+    },
+    {
+      "id": "47189535",
+      "title": "Croatia declared free of landmines after 31 years",
+      "url": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "points": 488,
+      "author": "toomuchtodo",
+      "created_at": 1772246896,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=47189535"
+    },
+    {
+      "id": "47196582",
+      "title": "Cognitive Debt: When Velocity Exceeds Comprehension",
+      "url": "https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/",
+      "points": 461,
+      "author": "pagade",
+      "created_at": 1772293150,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=47196582"
+    },
+    {
+      "id": "47197267",
+      "title": "Obsidian Sync now has a headless client",
+      "url": "https://help.obsidian.md/sync/headless",
+      "points": 444,
+      "author": "adilmoujahid",
+      "created_at": 1772296313,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=47197267"
+    },
+    {
+      "id": "47200420",
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "points": 443,
+      "author": "golfer",
+      "created_at": 1772313856,
+      "num_comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=47200420"
+    },
+    {
+      "id": "47193064",
+      "title": "MCP server that reduces Claude Code context consumption by 98%",
+      "url": "https://mksg.lu/blog/context-mode",
+      "points": 321,
+      "author": "mksglu",
+      "created_at": 1772272880,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=47193064"
+    },
+    {
+      "id": "47194611",
+      "title": "Don't trust AI agents",
+      "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+      "points": 312,
+      "author": "gronky_",
+      "created_at": 1772282372,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=47194611"
+    },
+    {
+      "id": "47199781",
+      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+      "points": 304,
+      "author": "lostmsu",
+      "created_at": 1772310000,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=47199781"
+    },
+    {
+      "id": "47194847",
+      "title": "What AI coding costs you",
+      "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
+      "points": 299,
+      "author": "tomwojcik",
+      "created_at": 1772283903,
+      "num_comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=47194847"
+    },
+    {
+      "id": "47191414",
+      "title": "U.S. and Israel Conduct Strikes on Iran",
+      "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
+      "points": 282,
+      "author": "gammarator",
+      "created_at": 1772261866,
+      "num_comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=47191414"
+    },
+    {
+      "id": "47198912",
+      "title": "Techno\u2011feudal elite are attempting to build a twenty\u2011first\u2011century fascist state",
+      "url": "https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/",
+      "points": 280,
+      "author": "measurablefunc",
+      "created_at": 1772305063,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=47198912"
+    },
+    {
+      "id": "47195317",
+      "title": "OpenAI fires an employee for prediction market insider trading",
+      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+      "points": 276,
+      "author": "bookofjoe",
+      "created_at": 1772286380,
+      "num_comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=47195317"
+    },
+    {
+      "id": "47199948",
+      "title": "Our Agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "points": 261,
+      "author": "surprisetalk",
+      "created_at": 1772310929,
+      "num_comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=47199948"
+    },
+    {
+      "id": "47189749",
+      "title": "Don't use passkeys for encrypting user data",
+      "url": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "points": 250,
+      "author": "zdw",
+      "created_at": 1772248300,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=47189749"
     }
   ],
-  "last_updated": "2026-02-28T06:32:52.821128+00:00"
+  "last_updated": "2026-03-01T06:40:36.071462+00:00"
 }
