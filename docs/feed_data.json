@@ -5249,7 +5249,207 @@
       "created_at": 1772248300,
       "num_comments": 203,
       "hn_url": "https://news.ycombinator.com/item?id=47189749"
+    },
+    {
+      "id": "47202708",
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "points": 1787,
+      "author": "tambourine_man",
+      "created_at": 1772329166,
+      "num_comments": 301,
+      "hn_url": "https://news.ycombinator.com/item?id=47202708"
+    },
+    {
+      "id": "47206009",
+      "title": "Ghostty \u2013 Terminal Emulator",
+      "url": "https://ghostty.org/docs",
+      "points": 694,
+      "author": "oli5679",
+      "created_at": 1772367183,
+      "num_comments": 302,
+      "hn_url": "https://news.ycombinator.com/item?id=47206009"
+    },
+    {
+      "id": "47204571",
+      "title": "Switch to Claude without starting over",
+      "url": "https://claude.com/import-memory",
+      "points": 547,
+      "author": "doener",
+      "created_at": 1772350612,
+      "num_comments": 252,
+      "hn_url": "https://news.ycombinator.com/item?id=47204571"
+    },
+    {
+      "id": "47205890",
+      "title": "I built a demo of what AI chat will look like when it's \u201cfree\u201d and ad-supported",
+      "url": "https://99helpers.com/tools/ad-supported-chat",
+      "points": 529,
+      "author": "nickk81",
+      "created_at": 1772365741,
+      "num_comments": 283,
+      "hn_url": "https://news.ycombinator.com/item?id=47205890"
+    },
+    {
+      "id": "47204964",
+      "title": "Decision trees \u2013 the unreasonable power of nested decision rules",
+      "url": "https://mlu-explain.github.io/decision-tree/",
+      "points": 459,
+      "author": "mschnell",
+      "created_at": 1772355352,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=47204964"
+    },
+    {
+      "id": "47206824",
+      "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+      "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+      "points": 381,
+      "author": "saikatsg",
+      "created_at": 1772374164,
+      "num_comments": 298,
+      "hn_url": "https://news.ycombinator.com/item?id=47206824"
+    },
+    {
+      "id": "47208398",
+      "title": "When does MCP make sense vs CLI?",
+      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+      "points": 353,
+      "author": "ejholmes",
+      "created_at": 1772384089,
+      "num_comments": 226,
+      "hn_url": "https://news.ycombinator.com/item?id=47208398"
+    },
+    {
+      "id": "47207404",
+      "title": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
+      "points": 276,
+      "author": "gradus_ad",
+      "created_at": 1772377795,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=47207404"
+    },
+    {
+      "id": "47211249",
+      "title": "WebMCP is available for early preview",
+      "url": "https://developer.chrome.com/blog/webmcp-epp",
+      "points": 253,
+      "author": "andsoitis",
+      "created_at": 1772403238,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=47211249"
+    },
+    {
+      "id": "47205208",
+      "title": "Microgpt explained interactively",
+      "url": "https://growingswe.com/blog/microgpt",
+      "points": 250,
+      "author": "growingswe",
+      "created_at": 1772358223,
+      "num_comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=47205208"
+    },
+    {
+      "id": "47202032",
+      "title": "Claude becomes number one app on the U.S. App Store",
+      "url": "https://apps.apple.com/us/iphone/charts",
+      "points": 246,
+      "author": "byincugnito",
+      "created_at": 1772323728,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=47202032"
+    },
+    {
+      "id": "47204559",
+      "title": "10-202: Introduction to Modern AI (CMU)",
+      "url": "https://modernaicourse.org",
+      "points": 241,
+      "author": "vismit2000",
+      "created_at": 1772350503,
+      "num_comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=47204559"
+    },
+    {
+      "id": "47205637",
+      "title": "Flightradar24 for Ships",
+      "url": "https://atlas.flexport.com/",
+      "points": 214,
+      "author": "chromy",
+      "created_at": 1772362877,
+      "num_comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=47205637"
+    },
+    {
+      "id": "47207236",
+      "title": "Why XML tags are so fundamental to Claude",
+      "url": "https://glthr.com/XML-fundamental-to-Claude",
+      "points": 190,
+      "author": "glth",
+      "created_at": 1772376742,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=47207236"
+    },
+    {
+      "id": "47209781",
+      "title": "Operational issue \u2013 Multiple services (UAE)",
+      "url": "https://health.aws.amazon.com/health/status",
+      "points": 185,
+      "author": "earthboundkid",
+      "created_at": 1772393070,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=47209781"
+    },
+    {
+      "id": "47206663",
+      "title": "AI is making junior devs useless",
+      "url": "https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/",
+      "points": 170,
+      "author": "beabetterdev",
+      "created_at": 1772372961,
+      "num_comments": 322,
+      "hn_url": "https://news.ycombinator.com/item?id=47206663"
+    },
+    {
+      "id": "47202808",
+      "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
+      "url": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
+      "points": 169,
+      "author": "pabs3",
+      "created_at": 1772330340,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=47202808"
+    },
+    {
+      "id": "47206798",
+      "title": "Ape Coding [fiction]",
+      "url": "https://rsaksida.com/blog/ape-coding/",
+      "points": 163,
+      "author": "rmsaksida",
+      "created_at": 1772374025,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=47206798"
+    },
+    {
+      "id": "47209773",
+      "title": "A new Polymarket account made over $500k betting on the U.S. strike against Iran",
+      "url": "https://twitter.com/cabsav456/status/2027937130995921119",
+      "points": 133,
+      "author": "doener",
+      "created_at": 1772392967,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=47209773"
+    },
+    {
+      "id": "47205129",
+      "title": "Why is the first C++ (m)allocation always 72 KB?",
+      "url": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
+      "points": 122,
+      "author": "joelsiks",
+      "created_at": 1772357254,
+      "num_comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=47205129"
     }
   ],
-  "last_updated": "2026-03-01T06:40:36.071462+00:00"
+  "last_updated": "2026-03-02T06:52:26.164837+00:00"
 }
