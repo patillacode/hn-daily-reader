@@ -5449,7 +5449,207 @@
       "created_at": 1772357254,
       "num_comments": 29,
       "hn_url": "https://news.ycombinator.com/item?id=47205129"
+    },
+    {
+      "id": "47214645",
+      "title": "Motorola announces a partnership with GrapheneOS",
+      "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+      "points": 2140,
+      "author": "km",
+      "created_at": 1772434087,
+      "num_comments": 775,
+      "hn_url": "https://news.ycombinator.com/item?id=47214645"
+    },
+    {
+      "id": "47216047",
+      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
+      "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+      "points": 1065,
+      "author": "robtherobber",
+      "created_at": 1772446986,
+      "num_comments": 474,
+      "hn_url": "https://news.ycombinator.com/item?id=47216047"
+    },
+    {
+      "id": "47225130",
+      "title": "Meta\u2019s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "points": 912,
+      "author": "sandbach",
+      "created_at": 1772490755,
+      "num_comments": 524,
+      "hn_url": "https://news.ycombinator.com/item?id=47225130"
+    },
+    {
+      "id": "47223620",
+      "title": "British Columbia is permanently adopting daylight time",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "points": 684,
+      "author": "ireflect",
+      "created_at": 1772483452,
+      "num_comments": 337,
+      "hn_url": "https://news.ycombinator.com/item?id=47223620"
+    },
+    {
+      "id": "47215489",
+      "title": "/e/OS is a complete, fully \u201cdeGoogled\u201d mobile ecosystem",
+      "url": "https://e.foundation/e-os/",
+      "points": 617,
+      "author": "doener",
+      "created_at": 1772442584,
+      "num_comments": 365,
+      "hn_url": "https://news.ycombinator.com/item?id=47215489"
+    },
+    {
+      "id": "47214864",
+      "title": "How to talk to anyone and why you should",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+      "points": 579,
+      "author": "Looky1173",
+      "created_at": 1772436612,
+      "num_comments": 516,
+      "hn_url": "https://news.ycombinator.com/item?id=47214864"
+    },
+    {
+      "id": "47212355",
+      "title": "If AI writes code, should the session be part of the commit?",
+      "url": "https://github.com/mandel-macaque/memento",
+      "points": 471,
+      "author": "mandel_x",
+      "created_at": 1772411272,
+      "num_comments": 378,
+      "hn_url": "https://news.ycombinator.com/item?id=47212355"
+    },
+    {
+      "id": "47213764",
+      "title": "Everett shuts down Flock camera network after judge rules footage public record",
+      "url": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
+      "points": 461,
+      "author": "aranaur",
+      "created_at": 1772424360,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=47213764"
+    },
+    {
+      "id": "47216037",
+      "title": "Jolla phone \u2013 a full-stack European alternative",
+      "url": "https://commerce.jolla.com/products/jolla-phone-sept-26",
+      "points": 445,
+      "author": "spinningslate",
+      "created_at": 1772446884,
+      "num_comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=47216037"
+    },
+    {
+      "id": "47218175",
+      "title": "New iPad Air, powered by M4",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "points": 365,
+      "author": "Garbage",
+      "created_at": 1772460683,
+      "num_comments": 578,
+      "hn_url": "https://news.ycombinator.com/item?id=47218175"
+    },
+    {
+      "id": "47218288",
+      "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+      "url": "https://github.com/anthropics/claude-code/issues/22543",
+      "points": 359,
+      "author": "mystcb",
+      "created_at": 1772461279,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=47218288"
+    },
+    {
+      "id": "47215565",
+      "title": "U.S. science agency moves to restrict foreign scientists from its labs",
+      "url": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
+      "points": 350,
+      "author": "JeanKage",
+      "created_at": 1772443206,
+      "num_comments": 325,
+      "hn_url": "https://news.ycombinator.com/item?id=47215565"
+    },
+    {
+      "id": "47224295",
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "url": "https://www.ntik.me/posts/voice-agent",
+      "points": 318,
+      "author": "nicktikhonov",
+      "created_at": 1772486620,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=47224295"
+    },
+    {
+      "id": "47224118",
+      "title": "Welcome (back) to Macintosh",
+      "url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+      "points": 294,
+      "author": "Udo_Schmitz",
+      "created_at": 1772485787,
+      "num_comments": 210,
+      "hn_url": "https://news.ycombinator.com/item?id=47224118"
+    },
+    {
+      "id": "47218743",
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "points": 287,
+      "author": "gmays",
+      "created_at": 1772463298,
+      "num_comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=47218743"
+    },
+    {
+      "id": "47217812",
+      "title": "OpenClaw surpasses React to become the most-starred software project on GitHub",
+      "url": "https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software",
+      "points": 269,
+      "author": "whit537",
+      "created_at": 1772458682,
+      "num_comments": 308,
+      "hn_url": "https://news.ycombinator.com/item?id=47217812"
+    },
+    {
+      "id": "47218084",
+      "title": "iPhone 17e",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
+      "points": 250,
+      "author": "meetpateltech",
+      "created_at": 1772460180,
+      "num_comments": 344,
+      "hn_url": "https://news.ycombinator.com/item?id=47218084"
+    },
+    {
+      "id": "47217491",
+      "title": "Microslop Manifesto",
+      "url": "http://microslop.com/",
+      "points": 213,
+      "author": "gostsamo",
+      "created_at": 1772456737,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=47217491"
+    },
+    {
+      "id": "47219668",
+      "title": "Ask HN: Who is hiring? (March 2026)",
+      "url": "https://news.ycombinator.com/item?id=47219668",
+      "points": 197,
+      "author": "whoishiring",
+      "created_at": 1772467227,
+      "num_comments": 235,
+      "hn_url": "https://news.ycombinator.com/item?id=47219668"
+    },
+    {
+      "id": "47212576",
+      "title": "Show HN: Timber \u2013 Ollama for classical ML models, 336x faster than Python",
+      "url": "https://github.com/kossisoroyce/timber",
+      "points": 187,
+      "author": "kossisoroyce",
+      "created_at": 1772413060,
+      "num_comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=47212576"
     }
   ],
-  "last_updated": "2026-03-02T06:52:26.164837+00:00"
+  "last_updated": "2026-03-03T06:44:49.557510+00:00"
 }
