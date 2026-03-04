@@ -5649,7 +5649,207 @@
       "created_at": 1772413060,
       "num_comments": 32,
       "hn_url": "https://news.ycombinator.com/item?id=47212576"
+    },
+    {
+      "id": "47230704",
+      "title": "The Xkcd thing, now interactive",
+      "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+      "points": 1214,
+      "author": "memalign",
+      "created_at": 1772535412,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=47230704"
+    },
+    {
+      "id": "47232768",
+      "title": "I'm reluctant to verify my identity or age for any online services",
+      "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
+      "points": 915,
+      "author": "speckx",
+      "created_at": 1772547745,
+      "num_comments": 557,
+      "hn_url": "https://news.ycombinator.com/item?id=47232768"
+    },
+    {
+      "id": "47232453",
+      "title": "MacBook Pro with M5 Pro and M5 Max",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+      "points": 742,
+      "author": "scrlk",
+      "created_at": 1772546526,
+      "num_comments": 757,
+      "hn_url": "https://news.ycombinator.com/item?id=47232453"
+    },
+    {
+      "id": "47230710",
+      "title": "Claude's Cycles [pdf]",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "points": 585,
+      "author": "fs123",
+      "created_at": 1772535462,
+      "num_comments": 235,
+      "hn_url": "https://news.ycombinator.com/item?id=47230710"
+    },
+    {
+      "id": "47226608",
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "points": 578,
+      "author": "danso",
+      "created_at": 1772500350,
+      "num_comments": 359,
+      "hn_url": "https://news.ycombinator.com/item?id=47226608"
+    },
+    {
+      "id": "47232158",
+      "title": "I'm losing the SEO battle for my own open source project",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
+      "points": 466,
+      "author": "devinitely",
+      "created_at": 1772545178,
+      "num_comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=47232158"
+    },
+    {
+      "id": "47233110",
+      "title": "Physics Girl: Super-Kamiokande \u2013 Imaging the sun by detecting neutrinos [video]",
+      "url": "https://www.youtube.com/watch?v=B3m3AMRlYfc",
+      "points": 465,
+      "author": "pcdavid",
+      "created_at": 1772548950,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=47233110"
+    },
+    {
+      "id": "47232502",
+      "title": "MacBook Air with M5",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "points": 388,
+      "author": "Garbage",
+      "created_at": 1772546696,
+      "num_comments": 440,
+      "hn_url": "https://news.ycombinator.com/item?id=47232502"
+    },
+    {
+      "id": "47240694",
+      "title": "Lenovo\u2019s new ThinkPads score 10/10 for repairability",
+      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+      "points": 354,
+      "author": "wrxd",
+      "created_at": 1772580845,
+      "num_comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=47240694"
+    },
+    {
+      "id": "47231261",
+      "title": "India's top court angry after junior judge cites fake AI-generated orders",
+      "url": "https://www.bbc.com/news/articles/c178zzw780xo",
+      "points": 346,
+      "author": "tchalla",
+      "created_at": 1772540020,
+      "num_comments": 180,
+      "hn_url": "https://news.ycombinator.com/item?id=47231261"
+    },
+    {
+      "id": "47232727",
+      "title": "Don't become an engineering manager",
+      "url": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
+      "points": 344,
+      "author": "flail",
+      "created_at": 1772547554,
+      "num_comments": 247,
+      "hn_url": "https://news.ycombinator.com/item?id=47232727"
+    },
+    {
+      "id": "47236169",
+      "title": "GPT\u20115.3 Instant",
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "points": 327,
+      "author": "meetpateltech",
+      "created_at": 1772560653,
+      "num_comments": 262,
+      "hn_url": "https://news.ycombinator.com/item?id=47236169"
+    },
+    {
+      "id": "47237080",
+      "title": "Iran War Cost Tracker",
+      "url": "https://iran-cost-ticker.com",
+      "points": 291,
+      "author": "TSiege",
+      "created_at": 1772564517,
+      "num_comments": 378,
+      "hn_url": "https://news.ycombinator.com/item?id=47237080"
+    },
+    {
+      "id": "47231242",
+      "title": "Mullvad VPN: Banned TV Ad in the Streets of London [video]",
+      "url": "https://www.youtube.com/watch?v=rwhznrpgl7k",
+      "points": 285,
+      "author": "vanyauhalin",
+      "created_at": 1772539799,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=47231242"
+    },
+    {
+      "id": "47236958",
+      "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
+      "points": 274,
+      "author": "vanburen",
+      "created_at": 1772564046,
+      "num_comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=47236958"
+    },
+    {
+      "id": "47229344",
+      "title": "Arm's Cortex X925: Reaching Desktop Performance",
+      "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
+      "points": 265,
+      "author": "ingve",
+      "created_at": 1772523287,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=47229344"
+    },
+    {
+      "id": "47239943",
+      "title": "Don't make me talk to your chatbot",
+      "url": "https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/",
+      "points": 233,
+      "author": "pkilgore",
+      "created_at": 1772576646,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=47239943"
+    },
+    {
+      "id": "47232421",
+      "title": "Apple Studio Display and Studio Display XDR",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/",
+      "points": 221,
+      "author": "victorbjorklund",
+      "created_at": 1772546411,
+      "num_comments": 272,
+      "hn_url": "https://news.ycombinator.com/item?id=47232421"
+    },
+    {
+      "id": "47237692",
+      "title": "Possible US Government iPhone-Hacking Toolkit in foreign spy and criminal hands",
+      "url": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
+      "points": 216,
+      "author": "alwillis",
+      "created_at": 1772566477,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=47237692"
+    },
+    {
+      "id": "47232224",
+      "title": "Most-read tech publications have lost over half their Google traffic since 2024",
+      "url": "https://growtika.com/blog/tech-media-collapse",
+      "points": 211,
+      "author": "Growtika",
+      "created_at": 1772545533,
+      "num_comments": 162,
+      "hn_url": "https://news.ycombinator.com/item?id=47232224"
     }
   ],
-  "last_updated": "2026-03-03T06:44:49.557510+00:00"
+  "last_updated": "2026-03-04T06:41:06.310499+00:00"
 }
