@@ -5849,7 +5849,207 @@
       "created_at": 1772545533,
       "num_comments": 162,
       "hn_url": "https://news.ycombinator.com/item?id=47232224"
+    },
+    {
+      "id": "47247645",
+      "title": "MacBook Neo",
+      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "points": 1706,
+      "author": "dm",
+      "created_at": 1772633801,
+      "num_comments": 2003,
+      "hn_url": "https://news.ycombinator.com/item?id=47247645"
+    },
+    {
+      "id": "47241551",
+      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+      "points": 1223,
+      "author": "pabs3",
+      "created_at": 1772585911,
+      "num_comments": 514,
+      "hn_url": "https://news.ycombinator.com/item?id=47241551"
+    },
+    {
+      "id": "47246110",
+      "title": "Nobody gets promoted for simplicity",
+      "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "points": 839,
+      "author": "aamederen",
+      "created_at": 1772624612,
+      "num_comments": 474,
+      "hn_url": "https://news.ycombinator.com/item?id=47246110"
+    },
+    {
+      "id": "47249343",
+      "title": "Something is afoot in the land of Qwen",
+      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+      "points": 624,
+      "author": "simonw",
+      "created_at": 1772639734,
+      "num_comments": 278,
+      "hn_url": "https://news.ycombinator.com/item?id=47249343"
+    },
+    {
+      "id": "47252049",
+      "title": "An interactive map of Flock Cams",
+      "url": "https://deflock.org/map#map=5/37.125286/-96.284180",
+      "points": 563,
+      "author": "anjel",
+      "created_at": 1772650245,
+      "num_comments": 204,
+      "hn_url": "https://news.ycombinator.com/item?id=47252049"
+    },
+    {
+      "id": "47243272",
+      "title": "Agentic Engineering Patterns",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+      "points": 507,
+      "author": "r4um",
+      "created_at": 1772600437,
+      "num_comments": 286,
+      "hn_url": "https://news.ycombinator.com/item?id=47243272"
+    },
+    {
+      "id": "47253177",
+      "title": "Building a new Flash",
+      "url": "https://bill.newgrounds.com/news/post/1607118",
+      "points": 484,
+      "author": "TechPlasma",
+      "created_at": 1772655363,
+      "num_comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=47253177"
+    },
+    {
+      "id": "47255662",
+      "title": "Dario Amodei calls OpenAI\u2019s messaging around military deal \u2018straight up lies\u2019",
+      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "points": 461,
+      "author": "SilverElfin",
+      "created_at": 1772668270,
+      "num_comments": 250,
+      "hn_url": "https://news.ycombinator.com/item?id=47255662"
+    },
+    {
+      "id": "47241817",
+      "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+      "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+      "points": 408,
+      "author": "1659447091",
+      "created_at": 1772587865,
+      "num_comments": 407,
+      "hn_url": "https://news.ycombinator.com/item?id=47241817"
+    },
+    {
+      "id": "47248341",
+      "title": "Government grant-funded research should not be published in for-profit journals",
+      "url": "https://www.experimental-history.com/p/the-one-science-reform-we-can-all",
+      "points": 357,
+      "author": "sito42",
+      "created_at": 1772636028,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=47248341"
+    },
+    {
+      "id": "47246296",
+      "title": "Qwen3.5 Fine-Tuning Guide",
+      "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+      "points": 315,
+      "author": "bilsbie",
+      "created_at": 1772625871,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=47246296"
+    },
+    {
+      "id": "47244291",
+      "title": "RFC 9849. TLS Encrypted Client Hello",
+      "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
+      "points": 292,
+      "author": "P_qRs",
+      "created_at": 1772609124,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=47244291"
+    },
+    {
+      "id": "47251480",
+      "title": "Making Firefox's right-click not suck with about:config",
+      "url": "https://joshua.hu/firefox-making-right-click-not-suck",
+      "points": 286,
+      "author": "mmsc",
+      "created_at": 1772647959,
+      "num_comments": 198,
+      "hn_url": "https://news.ycombinator.com/item?id=47251480"
+    },
+    {
+      "id": "47245211",
+      "title": "Bet on German Train Delays",
+      "url": "https://bahn.bet",
+      "points": 282,
+      "author": "indiantinker",
+      "created_at": 1772617340,
+      "num_comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=47245211"
+    },
+    {
+      "id": "47248319",
+      "title": "\u201cIt turns out\u201d (2010)",
+      "url": "https://jsomers.net/blog/it-turns-out",
+      "points": 270,
+      "author": "Munksgaard",
+      "created_at": 1772635966,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=47248319"
+    },
+    {
+      "id": "47243069",
+      "title": "A CPU that runs entirely on GPU",
+      "url": "https://github.com/robertcprice/nCPU",
+      "points": 246,
+      "author": "cypres",
+      "created_at": 1772598632,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=47243069"
+    },
+    {
+      "id": "47245491",
+      "title": "Moss is a pixel canvas where every brush is a tiny program",
+      "url": "https://www.moss.town/",
+      "points": 226,
+      "author": "smusamashah",
+      "created_at": 1772619673,
+      "num_comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=47245491"
+    },
+    {
+      "id": "47242765",
+      "title": "Nobody gets promoted for simplicity",
+      "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "points": 225,
+      "author": "SerCe",
+      "created_at": 1772595618,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=47242765"
+    },
+    {
+      "id": "47247033",
+      "title": "Glaze by Raycast",
+      "url": "https://www.glazeapp.com/",
+      "points": 212,
+      "author": "romac",
+      "created_at": 1772630491,
+      "num_comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=47247033"
+    },
+    {
+      "id": "47252726",
+      "title": "Google ends its 30 percent app store fee and welcomes third-party app stores",
+      "url": "https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html",
+      "points": 208,
+      "author": "_____k",
+      "created_at": 1772653222,
+      "num_comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=47252726"
     }
   ],
-  "last_updated": "2026-03-04T06:41:06.310499+00:00"
+  "last_updated": "2026-03-05T06:45:31.134037+00:00"
 }
