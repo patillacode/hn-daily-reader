@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 06:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 06:41:50 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[311 pts] Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester</title>
+      <link>https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/</link>
+      <description>&lt;p&gt;&lt;strong&gt;311 points&lt;/strong&gt; by sedatk | &lt;strong&gt;150 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47267628&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47267628</guid>
+      <pubDate>Thu, 05 Mar 2026 21:35:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[397 pts] Pentagon formally labels Anthropic supply-chain risk</title>
+      <link>https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523</link>
+      <description>&lt;p&gt;&lt;strong&gt;397 points&lt;/strong&gt; by klausa | &lt;strong&gt;256 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47266084&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47266084</guid>
+      <pubDate>Thu, 05 Mar 2026 19:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[759 pts] GPT-5.4</title>
+      <link>https://openai.com/index/introducing-gpt-5-4/</link>
+      <description>&lt;p&gt;&lt;strong&gt;759 points&lt;/strong&gt; by mudkipdev | &lt;strong&gt;631 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47265045&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47265045</guid>
+      <pubDate>Thu, 05 Mar 2026 18:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[309 pts] The Brand Age</title>
+      <link>https://paulgraham.com/brandage.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;309 points&lt;/strong&gt; by bigwheels | &lt;strong&gt;248 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47264756&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47264756</guid>
+      <pubDate>Thu, 05 Mar 2026 17:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[283 pts] The government uses targeted advertising to track your location</title>
+      <link>https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp</link>
+      <description>&lt;p&gt;&lt;strong&gt;283 points&lt;/strong&gt; by hn_acker | &lt;strong&gt;70 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47264341&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47264341</guid>
+      <pubDate>Thu, 05 Mar 2026 17:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[375 pts] A GitHub Issue Title Compromised 4k Developer Machines</title>
+      <link>https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another</link>
+      <description>&lt;p&gt;&lt;strong&gt;375 points&lt;/strong&gt; by edf13 | &lt;strong&gt;94 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47263595&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47263595</guid>
+      <pubDate>Thu, 05 Mar 2026 16:22:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[938 pts] Wikipedia was in read-only mode following mass admin account compromise</title>
+      <link>https://www.wikimediastatus.net</link>
+      <description>&lt;p&gt;&lt;strong&gt;938 points&lt;/strong&gt; by greyface- | &lt;strong&gt;323 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47263323&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47263323</guid>
+      <pubDate>Thu, 05 Mar 2026 16:04:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[267 pts] Show HN: Jido 2.0, Elixir Agent Framework</title>
+      <link>https://jido.run/blog/jido-2-0-is-here</link>
+      <description>&lt;p&gt;&lt;strong&gt;267 points&lt;/strong&gt; by mikehostetler | &lt;strong&gt;57 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47263036&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47263036</guid>
+      <pubDate>Thu, 05 Mar 2026 15:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[274 pts] Google Safe Browsing missed 84% of confirmed phishing sites</title>
+      <link>https://www.norn-labs.com/blog/huginn-report-feb-2026</link>
+      <description>&lt;p&gt;&lt;strong&gt;274 points&lt;/strong&gt; by jdup7 | &lt;strong&gt;86 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47262347&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47262347</guid>
+      <pubDate>Thu, 05 Mar 2026 15:03:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[895 pts] Judge orders government to begin refunding more than $130B in tariffs</title>
+      <link>https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c</link>
+      <description>&lt;p&gt;&lt;strong&gt;895 points&lt;/strong&gt; by JumpCrisscross | &lt;strong&gt;653 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47261688&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47261688</guid>
+      <pubDate>Thu, 05 Mar 2026 14:05:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[392 pts] Good software knows when to stop</title>
+      <link>https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop</link>
+      <description>&lt;p&gt;&lt;strong&gt;392 points&lt;/strong&gt; by ssaboum | &lt;strong&gt;207 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47261561&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47261561</guid>
+      <pubDate>Thu, 05 Mar 2026 13:52:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[199 pts] Noem Can't Explain Why She Hired 8-Day-Old Company for Ad Campaign</title>
+      <link>https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign</link>
+      <description>&lt;p&gt;&lt;strong&gt;199 points&lt;/strong&gt; by TrackerFF | &lt;strong&gt;52 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47259303&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47259303</guid>
+      <pubDate>Thu, 05 Mar 2026 08:55:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[486 pts] No right to relicense this project</title>
+      <link>https://github.com/chardet/chardet/issues/327</link>
+      <description>&lt;p&gt;&lt;strong&gt;486 points&lt;/strong&gt; by robin_reala | &lt;strong&gt;329 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47259177&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47259177</guid>
+      <pubDate>Thu, 05 Mar 2026 08:37:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[209 pts] Poor Man's Polaroid</title>
+      <link>https://boxart.lt/blog/poor_mans_polaroid?locale=en</link>
+      <description>&lt;p&gt;&lt;strong&gt;209 points&lt;/strong&gt; by ZacnyLos | &lt;strong&gt;50 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47258809&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47258809</guid>
+      <pubDate>Thu, 05 Mar 2026 07:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[358 pts] Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift</title>
+      <link>https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23</link>
+      <description>&lt;p&gt;&lt;strong&gt;358 points&lt;/strong&gt; by ipotapov | &lt;strong&gt;115 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47258801&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47258801</guid>
+      <pubDate>Thu, 05 Mar 2026 07:43:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[384 pts] Relicensing with AI-Assisted Rewrite</title>
+      <link>https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/</link>
+      <description>&lt;p&gt;&lt;strong&gt;384 points&lt;/strong&gt; by tuananh | &lt;strong&gt;374 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47257803&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47257803</guid>
+      <pubDate>Thu, 05 Mar 2026 05:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[219 pts] You Just Reveived</title>
+      <link>https://dylan.gr/1772520728</link>
+      <description>&lt;p&gt;&lt;strong&gt;219 points&lt;/strong&gt; by djnaraps | &lt;strong&gt;73 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47257637&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47257637</guid>
+      <pubDate>Thu, 05 Mar 2026 04:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[630 pts] The L in &quot;LLM&quot; Stands for Lying</title>
+      <link>https://acko.net/blog/the-l-in-llm-stands-for-lying/</link>
+      <description>&lt;p&gt;&lt;strong&gt;630 points&lt;/strong&gt; by LorenDB | &lt;strong&gt;433 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47257394&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47257394</guid>
+      <pubDate>Thu, 05 Mar 2026 04:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[215 pts] Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic</title>
+      <link>https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/</link>
+      <description>&lt;p&gt;&lt;strong&gt;215 points&lt;/strong&gt; by jnord | &lt;strong&gt;105 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47256781&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47256781</guid>
+      <pubDate>Thu, 05 Mar 2026 02:33:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[908 pts] Google Workspace CLI</title>
+      <link>https://github.com/googleworkspace/cli</link>
+      <description>&lt;p&gt;&lt;strong&gt;908 points&lt;/strong&gt; by gonzalovargas | &lt;strong&gt;284 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47255881&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47255881</guid>
+      <pubDate>Thu, 05 Mar 2026 00:22:09 +0000</pubDate>
+    </item>
     <item>
       <title>[461 pts] Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’</title>
       <link>https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/</link>

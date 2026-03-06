@@ -6049,7 +6049,207 @@
       "created_at": 1772653222,
       "num_comments": 74,
       "hn_url": "https://news.ycombinator.com/item?id=47252726"
+    },
+    {
+      "id": "47263323",
+      "title": "Wikipedia was in read-only mode following mass admin account compromise",
+      "url": "https://www.wikimediastatus.net",
+      "points": 938,
+      "author": "greyface-",
+      "created_at": 1772726694,
+      "num_comments": 323,
+      "hn_url": "https://news.ycombinator.com/item?id=47263323"
+    },
+    {
+      "id": "47255881",
+      "title": "Google Workspace CLI",
+      "url": "https://github.com/googleworkspace/cli",
+      "points": 908,
+      "author": "gonzalovargas",
+      "created_at": 1772670129,
+      "num_comments": 284,
+      "hn_url": "https://news.ycombinator.com/item?id=47255881"
+    },
+    {
+      "id": "47261688",
+      "title": "Judge orders government to begin refunding more than $130B in tariffs",
+      "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+      "points": 895,
+      "author": "JumpCrisscross",
+      "created_at": 1772719546,
+      "num_comments": 653,
+      "hn_url": "https://news.ycombinator.com/item?id=47261688"
+    },
+    {
+      "id": "47265045",
+      "title": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "points": 759,
+      "author": "mudkipdev",
+      "created_at": 1772734090,
+      "num_comments": 631,
+      "hn_url": "https://news.ycombinator.com/item?id=47265045"
+    },
+    {
+      "id": "47257394",
+      "title": "The L in \"LLM\" Stands for Lying",
+      "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+      "points": 630,
+      "author": "LorenDB",
+      "created_at": 1772683352,
+      "num_comments": 433,
+      "hn_url": "https://news.ycombinator.com/item?id=47257394"
+    },
+    {
+      "id": "47259177",
+      "title": "No right to relicense this project",
+      "url": "https://github.com/chardet/chardet/issues/327",
+      "points": 486,
+      "author": "robin_reala",
+      "created_at": 1772699871,
+      "num_comments": 329,
+      "hn_url": "https://news.ycombinator.com/item?id=47259177"
+    },
+    {
+      "id": "47266084",
+      "title": "Pentagon formally labels Anthropic supply-chain risk",
+      "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+      "points": 397,
+      "author": "klausa",
+      "created_at": 1772738675,
+      "num_comments": 256,
+      "hn_url": "https://news.ycombinator.com/item?id=47266084"
+    },
+    {
+      "id": "47261561",
+      "title": "Good software knows when to stop",
+      "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+      "points": 392,
+      "author": "ssaboum",
+      "created_at": 1772718763,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=47261561"
+    },
+    {
+      "id": "47257803",
+      "title": "Relicensing with AI-Assisted Rewrite",
+      "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+      "points": 384,
+      "author": "tuananh",
+      "created_at": 1772687253,
+      "num_comments": 374,
+      "hn_url": "https://news.ycombinator.com/item?id=47257803"
+    },
+    {
+      "id": "47263595",
+      "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+      "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+      "points": 375,
+      "author": "edf13",
+      "created_at": 1772727721,
+      "num_comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=47263595"
+    },
+    {
+      "id": "47258801",
+      "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+      "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+      "points": 358,
+      "author": "ipotapov",
+      "created_at": 1772696621,
+      "num_comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=47258801"
+    },
+    {
+      "id": "47267628",
+      "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+      "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+      "points": 311,
+      "author": "sedatk",
+      "created_at": 1772746540,
+      "num_comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=47267628"
+    },
+    {
+      "id": "47264756",
+      "title": "The Brand Age",
+      "url": "https://paulgraham.com/brandage.html",
+      "points": 309,
+      "author": "bigwheels",
+      "created_at": 1772732650,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=47264756"
+    },
+    {
+      "id": "47264341",
+      "title": "The government uses targeted advertising to track your location",
+      "url": "https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp",
+      "points": 283,
+      "author": "hn_acker",
+      "created_at": 1772730982,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=47264341"
+    },
+    {
+      "id": "47262347",
+      "title": "Google Safe Browsing missed 84% of confirmed phishing sites",
+      "url": "https://www.norn-labs.com/blog/huginn-report-feb-2026",
+      "points": 274,
+      "author": "jdup7",
+      "created_at": 1772723002,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=47262347"
+    },
+    {
+      "id": "47263036",
+      "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+      "url": "https://jido.run/blog/jido-2-0-is-here",
+      "points": 267,
+      "author": "mikehostetler",
+      "created_at": 1772725732,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=47263036"
+    },
+    {
+      "id": "47257637",
+      "title": "You Just Reveived",
+      "url": "https://dylan.gr/1772520728",
+      "points": 219,
+      "author": "djnaraps",
+      "created_at": 1772685463,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=47257637"
+    },
+    {
+      "id": "47256781",
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+      "points": 215,
+      "author": "jnord",
+      "created_at": 1772678038,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=47256781"
+    },
+    {
+      "id": "47258809",
+      "title": "Poor Man's Polaroid",
+      "url": "https://boxart.lt/blog/poor_mans_polaroid?locale=en",
+      "points": 209,
+      "author": "ZacnyLos",
+      "created_at": 1772696673,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=47258809"
+    },
+    {
+      "id": "47259303",
+      "title": "Noem Can't Explain Why She Hired 8-Day-Old Company for Ad Campaign",
+      "url": "https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign",
+      "points": 199,
+      "author": "TrackerFF",
+      "created_at": 1772700906,
+      "num_comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=47259303"
     }
   ],
-  "last_updated": "2026-03-05T06:45:31.134037+00:00"
+  "last_updated": "2026-03-06T06:41:50.019856+00:00"
 }
