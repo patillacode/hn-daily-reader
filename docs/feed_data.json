@@ -7049,7 +7049,207 @@
       "created_at": 1773077667,
       "num_comments": 19,
       "hn_url": "https://news.ycombinator.com/item?id=47312329"
+    },
+    {
+      "id": "47324054",
+      "title": "Tony Hoare has died",
+      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "points": 1684,
+      "author": "speckx",
+      "created_at": 1773154216,
+      "num_comments": 215,
+      "hn_url": "https://news.ycombinator.com/item?id=47324054"
+    },
+    {
+      "id": "47322635",
+      "title": "Online age-verification tools for child safety are surveilling adults",
+      "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+      "points": 599,
+      "author": "bilsbie",
+      "created_at": 1773147342,
+      "num_comments": 316,
+      "hn_url": "https://news.ycombinator.com/item?id=47322635"
+    },
+    {
+      "id": "47323017",
+      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+      "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+      "points": 530,
+      "author": "ndr42",
+      "created_at": 1773149477,
+      "num_comments": 424,
+      "hn_url": "https://news.ycombinator.com/item?id=47323017"
+    },
+    {
+      "id": "47323900",
+      "title": "Meta acquires Moltbook",
+      "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+      "points": 468,
+      "author": "mmayberry",
+      "created_at": 1773153486,
+      "num_comments": 310,
+      "hn_url": "https://news.ycombinator.com/item?id=47323900"
+    },
+    {
+      "id": "47321233",
+      "title": "I put my whole life into a single database",
+      "url": "https://howisfelix.today/",
+      "points": 440,
+      "author": "lukakopajtic",
+      "created_at": 1773137268,
+      "num_comments": 208,
+      "hn_url": "https://news.ycombinator.com/item?id=47321233"
+    },
+    {
+      "id": "47320600",
+      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+      "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "points": 419,
+      "author": "helloplanets",
+      "created_at": 1773132413,
+      "num_comments": 352,
+      "hn_url": "https://news.ycombinator.com/item?id=47320600"
+    },
+    {
+      "id": "47321533",
+      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+      "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+      "points": 409,
+      "author": "ottomengis",
+      "created_at": 1773139830,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=47321533"
+    },
+    {
+      "id": "47320661",
+      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+      "points": 383,
+      "author": "pjmlp",
+      "created_at": 1773132893,
+      "num_comments": 391,
+      "hn_url": "https://news.ycombinator.com/item?id=47320661"
+    },
+    {
+      "id": "47322887",
+      "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
+      "url": "https://dnhkng.github.io/posts/rys/",
+      "points": 376,
+      "author": "dnhkng",
+      "created_at": 1773148735,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=47322887"
+    },
+    {
+      "id": "47317616",
+      "title": "Two Years of Emacs Solo",
+      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "points": 335,
+      "author": "celadevra_",
+      "created_at": 1773101804,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=47317616"
+    },
+    {
+      "id": "47324087",
+      "title": "Debian decides not to decide on AI-generated contributions",
+      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+      "points": 312,
+      "author": "jwilk",
+      "created_at": 1773154393,
+      "num_comments": 238,
+      "hn_url": "https://news.ycombinator.com/item?id=47324087"
+    },
+    {
+      "id": "47327559",
+      "title": "Agents that run while I sleep",
+      "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+      "points": 295,
+      "author": "aray07",
+      "created_at": 1773169786,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=47327559"
+    },
+    {
+      "id": "47324211",
+      "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
+      "url": "https://twitter.com/lukolejnik/status/2031257644724342957",
+      "points": 285,
+      "author": "lwhsiao",
+      "created_at": 1773154895,
+      "num_comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=47324211"
+    },
+    {
+      "id": "47329605",
+      "title": "U+237C \u237c Is Azimuth",
+      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+      "points": 248,
+      "author": "cokernel_hacker",
+      "created_at": 1773182025,
+      "num_comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=47329605"
+    },
+    {
+      "id": "47322815",
+      "title": "Intel Demos Chip to Compute with Encrypted Data",
+      "url": "https://spectrum.ieee.org/fhe-intel",
+      "points": 238,
+      "author": "sohkamyung",
+      "created_at": 1773148248,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=47322815"
+    },
+    {
+      "id": "47329557",
+      "title": "Cloudflare crawl endpoint",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+      "points": 233,
+      "author": "jeffpalmer",
+      "created_at": 1773181635,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=47329557"
+    },
+    {
+      "id": "47326101",
+      "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
+      "url": "https://github.com/RunanywhereAI/rcli",
+      "points": 203,
+      "author": "sanchitmonga22",
+      "created_at": 1773162892,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=47326101"
+    },
+    {
+      "id": "47328214",
+      "title": "RISC-V Is Sloooow",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+      "points": 202,
+      "author": "todsacerdoti",
+      "created_at": 1773173514,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=47328214"
+    },
+    {
+      "id": "47323105",
+      "title": "Rebasing in Magit",
+      "url": "https://entropicthoughts.com/rebasing-in-magit",
+      "points": 200,
+      "author": "ibobev",
+      "created_at": 1773149919,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=47323105"
+    },
+    {
+      "id": "47329608",
+      "title": "Universal vaccine against respiratory infections and allergens",
+      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+      "points": 197,
+      "author": "phony-account",
+      "created_at": 1773182028,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=47329608"
     }
   ],
-  "last_updated": "2026-03-10T06:42:29.921169+00:00"
+  "last_updated": "2026-03-11T06:46:28.172358+00:00"
 }
