@@ -7249,7 +7249,207 @@
       "created_at": 1773182028,
       "num_comments": 69,
       "hn_url": "https://news.ycombinator.com/item?id=47329608"
+    },
+    {
+      "id": "47340079",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "points": 3258,
+      "author": "usefulposter",
+      "created_at": 1773257369,
+      "num_comments": 1234,
+      "hn_url": "https://news.ycombinator.com/item?id=47340079"
+    },
+    {
+      "id": "47332074",
+      "title": "Create value for others and don\u2019t worry about the returns",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "points": 665,
+      "author": "ppew",
+      "created_at": 1773207949,
+      "num_comments": 433,
+      "hn_url": "https://news.ycombinator.com/item?id=47332074"
+    },
+    {
+      "id": "47336989",
+      "title": "Temporal: The 9-year journey to fix time in JavaScript",
+      "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+      "points": 618,
+      "author": "robpalmer",
+      "created_at": 1773243350,
+      "num_comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=47336989"
+    },
+    {
+      "id": "47335572",
+      "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
+      "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
+      "points": 588,
+      "author": "raldi",
+      "created_at": 1773237121,
+      "num_comments": 258,
+      "hn_url": "https://news.ycombinator.com/item?id=47335572"
+    },
+    {
+      "id": "47331811",
+      "title": "Making WebAssembly a first-class language on the Web",
+      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+      "points": 499,
+      "author": "mikece",
+      "created_at": 1773204286,
+      "num_comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=47331811"
+    },
+    {
+      "id": "47334293",
+      "title": "The MacBook Neo",
+      "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+      "points": 484,
+      "author": "etothet",
+      "created_at": 1773229044,
+      "num_comments": 798,
+      "hn_url": "https://news.ycombinator.com/item?id=47334293"
+    },
+    {
+      "id": "47333627",
+      "title": "How we hacked McKinsey's AI platform",
+      "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+      "points": 425,
+      "author": "mycroft_4221",
+      "created_at": 1773223143,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=47333627"
+    },
+    {
+      "id": "47330836",
+      "title": "Type resolution redesign, with language changes to taste",
+      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+      "points": 396,
+      "author": "Retro_Dev",
+      "created_at": 1773192287,
+      "num_comments": 229,
+      "hn_url": "https://news.ycombinator.com/item?id=47330836"
+    },
+    {
+      "id": "47335237",
+      "title": "Lego's 0.002mm specification and its implications for manufacturing (2025)",
+      "url": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
+      "points": 363,
+      "author": "scrlk",
+      "created_at": 1773235359,
+      "num_comments": 305,
+      "hn_url": "https://news.ycombinator.com/item?id=47335237"
+    },
+    {
+      "id": "47340935",
+      "title": "The dead Internet is not a theory anymore",
+      "url": "https://www.adriankrebs.ch/blog/dead-internet/",
+      "points": 349,
+      "author": "hubraumhugo",
+      "created_at": 1773260422,
+      "num_comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=47340935"
+    },
+    {
+      "id": "47334694",
+      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+      "url": "https://github.com/microsoft/BitNet",
+      "points": 327,
+      "author": "redm",
+      "created_at": 1773232035,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=47334694"
+    },
+    {
+      "id": "47335349",
+      "title": "Entities enabling scientific fraud at scale (2025)",
+      "url": "https://doi.org/10.1073/pnas.2420092122",
+      "points": 283,
+      "author": "peyton",
+      "created_at": 1773235932,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=47335349"
+    },
+    {
+      "id": "47336476",
+      "title": "Google closes deal to acquire Wiz",
+      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+      "points": 270,
+      "author": "aldarisbm",
+      "created_at": 1773241100,
+      "num_comments": 166,
+      "hn_url": "https://news.ycombinator.com/item?id=47336476"
+    },
+    {
+      "id": "47339164",
+      "title": "I was interviewed by an AI bot for a job",
+      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+      "points": 246,
+      "author": "speckx",
+      "created_at": 1773253050,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=47339164"
+    },
+    {
+      "id": "47341845",
+      "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
+      "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
+      "points": 239,
+      "author": "divbzero",
+      "created_at": 1773263166,
+      "num_comments": 244,
+      "hn_url": "https://news.ycombinator.com/item?id=47341845"
+    },
+    {
+      "id": "47331034",
+      "title": "Writing my own text editor, and daily-driving it",
+      "url": "https://blog.jsbarretto.com/post/text-editor",
+      "points": 220,
+      "author": "todsacerdoti",
+      "created_at": 1773194662,
+      "num_comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=47331034"
+    },
+    {
+      "id": "47337607",
+      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+      "url": "https://sitespy.app",
+      "points": 216,
+      "author": "vkuprin",
+      "created_at": 1773246066,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=47337607"
+    },
+    {
+      "id": "47341645",
+      "title": "Many SWE-bench-Passing PRs would not be merged",
+      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+      "points": 207,
+      "author": "mustaphah",
+      "created_at": 1773262612,
+      "num_comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=47341645"
+    },
+    {
+      "id": "47336111",
+      "title": "Faster asin() was hiding in plain sight",
+      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+      "points": 189,
+      "author": "def-pri-pub",
+      "created_at": 1773239753,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=47336111"
+    },
+    {
+      "id": "47343156",
+      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+      "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
+      "points": 183,
+      "author": "jp0d",
+      "created_at": 1773268182,
+      "num_comments": 237,
+      "hn_url": "https://news.ycombinator.com/item?id=47343156"
     }
   ],
-  "last_updated": "2026-03-11T06:46:28.172358+00:00"
+  "last_updated": "2026-03-12T06:49:34.754124+00:00"
 }
