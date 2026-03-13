@@ -7449,7 +7449,207 @@
       "created_at": 1773268182,
       "num_comments": 237,
       "hn_url": "https://news.ycombinator.com/item?id=47343156"
+    },
+    {
+      "id": "47350424",
+      "title": "Malus \u2013 Clean Room as a Service",
+      "url": "https://malus.sh",
+      "points": 1169,
+      "author": "microflash",
+      "created_at": 1773322924,
+      "num_comments": 428,
+      "hn_url": "https://news.ycombinator.com/item?id=47350424"
+    },
+    {
+      "id": "47357042",
+      "title": "Shall I implement it? No",
+      "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+      "points": 1133,
+      "author": "breton",
+      "created_at": 1773349270,
+      "num_comments": 431,
+      "hn_url": "https://news.ycombinator.com/item?id=47357042"
+    },
+    {
+      "id": "47356968",
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+      "points": 541,
+      "author": "rectang",
+      "created_at": 1773348951,
+      "num_comments": 281,
+      "hn_url": "https://news.ycombinator.com/item?id=47356968"
+    },
+    {
+      "id": "47344548",
+      "title": "Show HN: s@: decentralized social networking over static sites",
+      "url": "http://satproto.org/",
+      "points": 402,
+      "author": "remywang",
+      "created_at": 1773274939,
+      "num_comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=47344548"
+    },
+    {
+      "id": "47352215",
+      "title": "Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war",
+      "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
+      "points": 389,
+      "author": "speckx",
+      "created_at": 1773329437,
+      "num_comments": 325,
+      "hn_url": "https://news.ycombinator.com/item?id=47352215"
+    },
+    {
+      "id": "47351371",
+      "title": "ATMs didn\u2019t kill bank teller jobs, but the iPhone did",
+      "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+      "points": 387,
+      "author": "colinprince",
+      "created_at": 1773326937,
+      "num_comments": 416,
+      "hn_url": "https://news.ycombinator.com/item?id=47351371"
+    },
+    {
+      "id": "47347064",
+      "title": "Returning to Rails in 2026",
+      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "points": 357,
+      "author": "stanislavb",
+      "created_at": 1773295606,
+      "num_comments": 224,
+      "hn_url": "https://news.ycombinator.com/item?id=47347064"
+    },
+    {
+      "id": "47349277",
+      "title": "Big data on the cheapest MacBook",
+      "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+      "points": 340,
+      "author": "bcye",
+      "created_at": 1773315674,
+      "num_comments": 273,
+      "hn_url": "https://news.ycombinator.com/item?id=47349277"
+    },
+    {
+      "id": "47349806",
+      "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
+      "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
+      "points": 332,
+      "author": "JumpCrisscross",
+      "created_at": 1773319485,
+      "num_comments": 396,
+      "hn_url": "https://news.ycombinator.com/item?id=47349806"
+    },
+    {
+      "id": "47348304",
+      "title": "Dolphin Progress Release 2603",
+      "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+      "points": 321,
+      "author": "BitPirate",
+      "created_at": 1773307381,
+      "num_comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=47348304"
+    },
+    {
+      "id": "47354098",
+      "title": "Bubble Sorted Amen Break",
+      "url": "https://parametricavocado.itch.io/amen-sorting",
+      "points": 306,
+      "author": "eieio",
+      "created_at": 1773335636,
+      "num_comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=47354098"
+    },
+    {
+      "id": "47350931",
+      "title": "Kotlin creator's new language: talk to LLMs in specs, not English",
+      "url": "https://codespeak.dev/",
+      "points": 288,
+      "author": "souvlakee",
+      "created_at": 1773325363,
+      "num_comments": 246,
+      "hn_url": "https://news.ycombinator.com/item?id=47350931"
+    },
+    {
+      "id": "47353533",
+      "title": "Reversing memory loss via gut-brain communication",
+      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+      "points": 283,
+      "author": "mustaphah",
+      "created_at": 1773333531,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=47353533"
+    },
+    {
+      "id": "47352459",
+      "title": "The Met releases high-def 3D scans of 140 famous art objects",
+      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+      "points": 261,
+      "author": "coloneltcb",
+      "created_at": 1773330219,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=47352459"
+    },
+    {
+      "id": "47352297",
+      "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
+      "url": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
+      "points": 259,
+      "author": "amarcheschi",
+      "created_at": 1773329681,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=47352297"
+    },
+    {
+      "id": "47346091",
+      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "points": 246,
+      "author": "2bluesc",
+      "created_at": 1773286168,
+      "num_comments": 262,
+      "hn_url": "https://news.ycombinator.com/item?id=47346091"
+    },
+    {
+      "id": "47345393",
+      "title": "DHS Contracts Explorer \u2013 Hacked data from the Office of Industry Partnership",
+      "url": "https://micahflee.github.io/ice-contracts/",
+      "points": 236,
+      "author": "peq42",
+      "created_at": 1773280981,
+      "num_comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=47345393"
+    },
+    {
+      "id": "47347945",
+      "title": "3D-Knitting: The Ultimate Guide",
+      "url": "https://www.oliver-charles.com/pages/3d-knitting",
+      "points": 225,
+      "author": "ChadNauseam",
+      "created_at": 1773304036,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=47347945"
+    },
+    {
+      "id": "47348440",
+      "title": "1B identity records exposed in ID verification data leak",
+      "url": "https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html",
+      "points": 215,
+      "author": "robtherobber",
+      "created_at": 1773308760,
+      "num_comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=47348440"
+    },
+    {
+      "id": "47349798",
+      "title": "US banks' exposure to private credit hits $300B (2025)",
+      "url": "https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/",
+      "points": 214,
+      "author": "JumpCrisscross",
+      "created_at": 1773319406,
+      "num_comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=47349798"
     }
   ],
-  "last_updated": "2026-03-12T06:49:34.754124+00:00"
+  "last_updated": "2026-03-13T06:46:48.083635+00:00"
 }
