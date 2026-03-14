@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 06:46:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 06:40:06 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[262 pts] Mouser: An open source alternative to Logi-Plus mouse software</title>
+      <link>https://github.com/TomBadash/MouseControl</link>
+      <description>&lt;p&gt;&lt;strong&gt;262 points&lt;/strong&gt; by avionics-guy | &lt;strong&gt;77 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47368033&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47368033</guid>
+      <pubDate>Fri, 13 Mar 2026 18:42:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[258 pts] Hammerspoon</title>
+      <link>https://github.com/Hammerspoon/hammerspoon</link>
+      <description>&lt;p&gt;&lt;strong&gt;258 points&lt;/strong&gt; by tosh | &lt;strong&gt;94 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47367932&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47367932</guid>
+      <pubDate>Fri, 13 Mar 2026 18:34:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[290 pts] Your phone is an entire computer</title>
+      <link>https://medhir.com/blog/your-phone-is-an-entire-computer</link>
+      <description>&lt;p&gt;&lt;strong&gt;290 points&lt;/strong&gt; by medhir | &lt;strong&gt;261 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47367568&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47367568</guid>
+      <pubDate>Fri, 13 Mar 2026 18:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[285 pts] John Carmack about open source and anti-AI activists</title>
+      <link>https://twitter.com/id_aa_carmack/status/2032460578669691171</link>
+      <description>&lt;p&gt;&lt;strong&gt;285 points&lt;/strong&gt; by tzury | &lt;strong&gt;387 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47367463&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47367463</guid>
+      <pubDate>Fri, 13 Mar 2026 17:51:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[543 pts] 1M context is now generally available for Opus 4.6 and Sonnet 4.6</title>
+      <link>https://claude.com/blog/1m-context-ga</link>
+      <description>&lt;p&gt;&lt;strong&gt;543 points&lt;/strong&gt; by meetpateltech | &lt;strong&gt;222 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47367129&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47367129</guid>
+      <pubDate>Fri, 13 Mar 2026 17:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[391 pts] Elon Musk pushes out more xAI founders as AI coding effort falters</title>
+      <link>https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5</link>
+      <description>&lt;p&gt;&lt;strong&gt;391 points&lt;/strong&gt; by merksittich | &lt;strong&gt;602 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47366666&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47366666</guid>
+      <pubDate>Fri, 13 Mar 2026 16:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[435 pts] The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing</title>
+      <link>https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/</link>
+      <description>&lt;p&gt;&lt;strong&gt;435 points&lt;/strong&gt; by cf100clunk | &lt;strong&gt;127 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47366374&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47366374</guid>
+      <pubDate>Fri, 13 Mar 2026 16:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[199 pts] Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</title>
+      <link>https://github.com/upper-up/meta-lobbying-and-other-findings</link>
+      <description>&lt;p&gt;&lt;strong&gt;199 points&lt;/strong&gt; by SilverElfin | &lt;strong&gt;3 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47365597&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47365597</guid>
+      <pubDate>Fri, 13 Mar 2026 15:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[238 pts] Parallels confirms MacBook Neo can run Windows in a virtual machine</title>
+      <link>https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;238 points&lt;/strong&gt; by tosh | &lt;strong&gt;325 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47364729&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47364729</guid>
+      <pubDate>Fri, 13 Mar 2026 14:11:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[196 pts] Nanny state discovers Linux, demands it check kids' IDs before booting</title>
+      <link>https://www.theregister.com/2026/03/13/opinion_os_verification/</link>
+      <description>&lt;p&gt;&lt;strong&gt;196 points&lt;/strong&gt; by jjgreen | &lt;strong&gt;214 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47363990&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47363990</guid>
+      <pubDate>Fri, 13 Mar 2026 13:10:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[377 pts] E2E encrypted messaging on Instagram will no longer be supported after 8 May</title>
+      <link>https://help.instagram.com/491565145294150</link>
+      <description>&lt;p&gt;&lt;strong&gt;377 points&lt;/strong&gt; by mindracer | &lt;strong&gt;189 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47363922&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47363922</guid>
+      <pubDate>Fri, 13 Mar 2026 13:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1127 pts] Can I run AI locally?</title>
+      <link>https://www.canirun.ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1127 points&lt;/strong&gt; by ricardbejarano | &lt;strong&gt;278 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47363754&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47363754</guid>
+      <pubDate>Fri, 13 Mar 2026 12:46:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[505 pts] Qatar helium shutdown puts chip supply chain on a two-week clock</title>
+      <link>https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock</link>
+      <description>&lt;p&gt;&lt;strong&gt;505 points&lt;/strong&gt; by johnbarron | &lt;strong&gt;454 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47363584&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47363584</guid>
+      <pubDate>Fri, 13 Mar 2026 12:31:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[579 pts] TUI Studio – visual terminal UI design tool</title>
+      <link>https://tui.studio/</link>
+      <description>&lt;p&gt;&lt;strong&gt;579 points&lt;/strong&gt; by mipselaer | &lt;strong&gt;277 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47362613&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47362613</guid>
+      <pubDate>Fri, 13 Mar 2026 10:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1207 pts] Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</title>
+      <link>https://github.com/upper-up/meta-lobbying-and-other-findings</link>
+      <description>&lt;p&gt;&lt;strong&gt;1207 points&lt;/strong&gt; by shaicoleman | &lt;strong&gt;509 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47362528&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47362528</guid>
+      <pubDate>Fri, 13 Mar 2026 10:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[213 pts] Source code of Swedish e-government services has been leaked</title>
+      <link>https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/</link>
+      <description>&lt;p&gt;&lt;strong&gt;213 points&lt;/strong&gt; by tavro | &lt;strong&gt;209 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47362350&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47362350</guid>
+      <pubDate>Fri, 13 Mar 2026 09:45:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[318 pts] Bucketsquatting is finally dead</title>
+      <link>https://onecloudplease.com/blog/bucketsquatting-is-finally-dead</link>
+      <description>&lt;p&gt;&lt;strong&gt;318 points&lt;/strong&gt; by boyter | &lt;strong&gt;162 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47361913&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47361913</guid>
+      <pubDate>Fri, 13 Mar 2026 08:31:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[273 pts] Lost Doctor Who episodes found</title>
+      <link>https://www.bbc.co.uk/news/articles/c4g7kwq1k11o</link>
+      <description>&lt;p&gt;&lt;strong&gt;273 points&lt;/strong&gt; by edent | &lt;strong&gt;89 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47360978&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47360978</guid>
+      <pubDate>Fri, 13 Mar 2026 05:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[522 pts] Vite 8.0 Is Out</title>
+      <link>https://vite.dev/blog/announcing-vite8</link>
+      <description>&lt;p&gt;&lt;strong&gt;522 points&lt;/strong&gt; by kothariji | &lt;strong&gt;184 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47360730&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47360730</guid>
+      <pubDate>Fri, 13 Mar 2026 04:36:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[948 pts] “This is not the computer for you”</title>
+      <link>https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/</link>
+      <description>&lt;p&gt;&lt;strong&gt;948 points&lt;/strong&gt; by MBCook | &lt;strong&gt;366 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47359744&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47359744</guid>
+      <pubDate>Fri, 13 Mar 2026 01:45:49 +0000</pubDate>
+    </item>
     <item>
       <title>[1133 pts] Shall I implement it? No</title>
       <link>https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0</link>
