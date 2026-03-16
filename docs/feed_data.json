@@ -8049,7 +8049,207 @@
       "created_at": 1773523422,
       "num_comments": 56,
       "hn_url": "https://news.ycombinator.com/item?id=47381340"
+    },
+    {
+      "id": "47392084",
+      "title": "Canada's bill C-22 mandates mass metadata surveillance",
+      "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+      "points": 601,
+      "author": "opengrass",
+      "created_at": 1773609736,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=47392084"
+    },
+    {
+      "id": "47390945",
+      "title": "The 49MB web page",
+      "url": "https://thatshubham.com/blog/news-audit",
+      "points": 452,
+      "author": "kermatt",
+      "created_at": 1773602718,
+      "num_comments": 213,
+      "hn_url": "https://news.ycombinator.com/item?id=47390945"
+    },
+    {
+      "id": "47390817",
+      "title": "Chrome DevTools MCP (2025)",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "points": 439,
+      "author": "xnx",
+      "created_at": 1773601973,
+      "num_comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=47390817"
+    },
+    {
+      "id": "47385935",
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "points": 391,
+      "author": "ZacnyLos",
+      "created_at": 1773569747,
+      "num_comments": 350,
+      "hn_url": "https://news.ycombinator.com/item?id=47385935"
+    },
+    {
+      "id": "47385272",
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+      "points": 357,
+      "author": "ingve",
+      "created_at": 1773561895,
+      "num_comments": 291,
+      "hn_url": "https://news.ycombinator.com/item?id=47385272"
+    },
+    {
+      "id": "47388676",
+      "title": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "points": 355,
+      "author": "tzury",
+      "created_at": 1773590469,
+      "num_comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=47388676"
+    },
+    {
+      "id": "47386116",
+      "title": "A Visual Introduction to Machine Learning (2015)",
+      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "points": 348,
+      "author": "vismit2000",
+      "created_at": 1773571655,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=47386116"
+    },
+    {
+      "id": "47382791",
+      "title": "How kernel anti-cheats work",
+      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+      "points": 343,
+      "author": "davikr",
+      "created_at": 1773533710,
+      "num_comments": 300,
+      "hn_url": "https://news.ycombinator.com/item?id=47382791"
+    },
+    {
+      "id": "47384352",
+      "title": "Rack-mount hydroponics",
+      "url": "https://sa.lj.am/rack-mount-hydroponics/",
+      "points": 337,
+      "author": "cdrnsf",
+      "created_at": 1773548623,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=47384352"
+    },
+    {
+      "id": "47388646",
+      "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+      "url": "https://news.ycombinator.com/item?id=47388646",
+      "points": 294,
+      "author": "svara",
+      "created_at": 1773590303,
+      "num_comments": 478,
+      "hn_url": "https://news.ycombinator.com/item?id=47388646"
+    },
+    {
+      "id": "47392550",
+      "title": "Nasdaq's Shame",
+      "url": "https://keubiko.substack.com/p/nasdaqs-shame",
+      "points": 283,
+      "author": "imichael",
+      "created_at": 1773612969,
+      "num_comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=47392550"
+    },
+    {
+      "id": "47390233",
+      "title": "Office.eu launches as Europe's sovereign office platform",
+      "url": "https://office.eu/media/pressrelease-20260304",
+      "points": 273,
+      "author": "campuscodi",
+      "created_at": 1773598956,
+      "num_comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=47390233"
+    },
+    {
+      "id": "47388137",
+      "title": "Separating the Wayland compositor and window manager",
+      "url": "https://isaacfreund.com/blog/river-window-management/",
+      "points": 269,
+      "author": "dpassens",
+      "created_at": 1773587364,
+      "num_comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=47388137"
+    },
+    {
+      "id": "47387047",
+      "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
+      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+      "points": 248,
+      "author": "robinhouston",
+      "created_at": 1773580082,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=47387047"
+    },
+    {
+      "id": "47389570",
+      "title": "Stop Sloppypasta",
+      "url": "https://stopsloppypasta.ai/",
+      "points": 244,
+      "author": "namnnumbr",
+      "created_at": 1773595500,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=47389570"
+    },
+    {
+      "id": "47386636",
+      "title": "The 100 hour gap between a vibecoded prototype and a working product",
+      "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
+      "points": 234,
+      "author": "kiwieater",
+      "created_at": 1773576570,
+      "num_comments": 312,
+      "hn_url": "https://news.ycombinator.com/item?id=47386636"
+    },
+    {
+      "id": "47386908",
+      "title": "Harold and George Destroy the World",
+      "url": "https://tomclancy.info/harold-and-george.html",
+      "points": 227,
+      "author": "tclancy",
+      "created_at": 1773578897,
+      "num_comments": 295,
+      "hn_url": "https://news.ycombinator.com/item?id=47386908"
+    },
+    {
+      "id": "47384032",
+      "title": "A most elegant TCP hole punching algorithm",
+      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
+      "points": 211,
+      "author": "Uptrenda",
+      "created_at": 1773545357,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=47384032"
+    },
+    {
+      "id": "47390021",
+      "title": "Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/",
+      "points": 207,
+      "author": "Amorymeltzer",
+      "created_at": 1773597874,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=47390021"
+    },
+    {
+      "id": "47386813",
+      "title": "I'm 60 years old. Claude Code killed a passion",
+      "url": "https://news.ycombinator.com/item?id=47386813",
+      "points": 199,
+      "author": "fred1268",
+      "created_at": 1773578122,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=47386813"
     }
   ],
-  "last_updated": "2026-03-15T06:51:39.768204+00:00"
+  "last_updated": "2026-03-16T07:11:04.584477+00:00"
 }
