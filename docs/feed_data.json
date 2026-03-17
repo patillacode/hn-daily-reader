@@ -8249,7 +8249,207 @@
       "created_at": 1773578122,
       "num_comments": 159,
       "hn_url": "https://news.ycombinator.com/item?id=47386813"
+    },
+    {
+      "id": "47397822",
+      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+      "points": 1438,
+      "author": "defly",
+      "created_at": 1773662406,
+      "num_comments": 924,
+      "hn_url": "https://news.ycombinator.com/item?id=47397822"
+    },
+    {
+      "id": "47402950",
+      "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
+      "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
+      "points": 1046,
+      "author": "tartoran",
+      "created_at": 1773686294,
+      "num_comments": 297,
+      "hn_url": "https://news.ycombinator.com/item?id=47402950"
+    },
+    {
+      "id": "47397593",
+      "title": "Corruption erodes social trust more in democracies than in autocracies",
+      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+      "points": 693,
+      "author": "PaulHoule",
+      "created_at": 1773660331,
+      "num_comments": 363,
+      "hn_url": "https://news.ycombinator.com/item?id=47397593"
+    },
+    {
+      "id": "47397797",
+      "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
+      "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
+      "points": 619,
+      "author": "vrganj",
+      "created_at": 1773662253,
+      "num_comments": 255,
+      "hn_url": "https://news.ycombinator.com/item?id=47397797"
+    },
+    {
+      "id": "47394022",
+      "title": "How I write software with LLMs",
+      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+      "points": 491,
+      "author": "indigodaddy",
+      "created_at": 1773624249,
+      "num_comments": 471,
+      "hn_url": "https://news.ycombinator.com/item?id=47394022"
+    },
+    {
+      "id": "47400060",
+      "title": "US Job Market Visualizer",
+      "url": "https://karpathy.ai/jobs/",
+      "points": 454,
+      "author": "andygcook",
+      "created_at": 1773673830,
+      "num_comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=47400060"
+    },
+    {
+      "id": "47404796",
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "url": "https://mistral.ai/news/leanstral",
+      "points": 427,
+      "author": "Poudlardo",
+      "created_at": 1773694780,
+      "num_comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=47404796"
+    },
+    {
+      "id": "47402640",
+      "title": "Meta\u2019s renewed commitment to jemalloc",
+      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+      "points": 404,
+      "author": "hahahacorn",
+      "created_at": 1773684752,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=47402640"
+    },
+    {
+      "id": "47397574",
+      "title": "Why I love FreeBSD",
+      "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+      "points": 402,
+      "author": "enz",
+      "created_at": 1773660194,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=47397574"
+    },
+    {
+      "id": "47401879",
+      "title": "The \u201csmall web\u201d is bigger than you might think",
+      "url": "https://kevinboone.me/small_web_is_big.html",
+      "points": 377,
+      "author": "speckx",
+      "created_at": 1773681477,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=47401879"
+    },
+    {
+      "id": "47398534",
+      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
+      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+      "points": 358,
+      "author": "Vaslo",
+      "created_at": 1773666598,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=47398534"
+    },
+    {
+      "id": "47401809",
+      "title": "The American Healthcare Conundrum",
+      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
+      "points": 314,
+      "author": "rexroad",
+      "created_at": 1773681207,
+      "num_comments": 269,
+      "hn_url": "https://news.ycombinator.com/item?id=47401809"
+    },
+    {
+      "id": "47397920",
+      "title": "Obsession with growth is destroying nature, 150 countries warn",
+      "url": "https://www.politico.eu/article/obsession-with-growth-destroying-nature-150-countries-warn/",
+      "points": 271,
+      "author": "speckx",
+      "created_at": 1773663239,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=47397920"
+    },
+    {
+      "id": "47398681",
+      "title": "AirPods Max 2",
+      "url": "https://www.apple.com/airpods-max/",
+      "points": 262,
+      "author": "ssijak",
+      "created_at": 1773667323,
+      "num_comments": 444,
+      "hn_url": "https://news.ycombinator.com/item?id=47398681"
+    },
+    {
+      "id": "47396264",
+      "title": "Starlink Mini as a failover",
+      "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+      "points": 240,
+      "author": "jkpe",
+      "created_at": 1773648449,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=47396264"
+    },
+    {
+      "id": "47400868",
+      "title": "Show HN: Claude Code skills that build complete Godot games",
+      "url": "https://github.com/htdt/godogen",
+      "points": 231,
+      "author": "htdt",
+      "created_at": 1773677249,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=47400868"
+    },
+    {
+      "id": "47398479",
+      "title": "'Pok\u00e9mon Go' players unknowingly trained delivery robots with 30B images",
+      "url": "https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/",
+      "points": 191,
+      "author": "wslh",
+      "created_at": 1773666333,
+      "num_comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=47398479"
+    },
+    {
+      "id": "47397857",
+      "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
+      "url": "https://github.com/emin-ozata/lazycut",
+      "points": 187,
+      "author": "masterpos",
+      "created_at": 1773662708,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=47397857"
+    },
+    {
+      "id": "47397190",
+      "title": "Ask HN: What is it like being in a CS major program these days?",
+      "url": "https://news.ycombinator.com/item?id=47397190",
+      "points": 176,
+      "author": "tathagatadg",
+      "created_at": 1773656642,
+      "num_comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=47397190"
+    },
+    {
+      "id": "47393619",
+      "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
+      "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+      "points": 164,
+      "author": "anjel",
+      "created_at": 1773620568,
+      "num_comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=47393619"
     }
   ],
-  "last_updated": "2026-03-16T07:11:04.584477+00:00"
+  "last_updated": "2026-03-17T06:59:07.025147+00:00"
 }

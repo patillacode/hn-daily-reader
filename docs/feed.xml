@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 07:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 06:59:07 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[427 pts] Leanstral: Open-source agent for trustworthy coding and formal proof engineering</title>
+      <link>https://mistral.ai/news/leanstral</link>
+      <description>&lt;p&gt;&lt;strong&gt;427 points&lt;/strong&gt; by Poudlardo | &lt;strong&gt;87 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47404796&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47404796</guid>
+      <pubDate>Mon, 16 Mar 2026 20:59:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1046 pts] Palestinian boy, 12, describes how Israeli forces killed his family in car</title>
+      <link>https://www.bbc.com/news/articles/c70n2x7p22do</link>
+      <description>&lt;p&gt;&lt;strong&gt;1046 points&lt;/strong&gt; by tartoran | &lt;strong&gt;297 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47402950&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47402950</guid>
+      <pubDate>Mon, 16 Mar 2026 18:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[404 pts] Meta’s renewed commitment to jemalloc</title>
+      <link>https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/</link>
+      <description>&lt;p&gt;&lt;strong&gt;404 points&lt;/strong&gt; by hahahacorn | &lt;strong&gt;176 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47402640&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47402640</guid>
+      <pubDate>Mon, 16 Mar 2026 18:12:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[377 pts] The “small web” is bigger than you might think</title>
+      <link>https://kevinboone.me/small_web_is_big.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;377 points&lt;/strong&gt; by speckx | &lt;strong&gt;160 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47401879&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47401879</guid>
+      <pubDate>Mon, 16 Mar 2026 17:17:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[314 pts] The American Healthcare Conundrum</title>
+      <link>https://github.com/rexrodeo/american-healthcare-conundrum</link>
+      <description>&lt;p&gt;&lt;strong&gt;314 points&lt;/strong&gt; by rexroad | &lt;strong&gt;269 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47401809&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47401809</guid>
+      <pubDate>Mon, 16 Mar 2026 17:13:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[231 pts] Show HN: Claude Code skills that build complete Godot games</title>
+      <link>https://github.com/htdt/godogen</link>
+      <description>&lt;p&gt;&lt;strong&gt;231 points&lt;/strong&gt; by htdt | &lt;strong&gt;137 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47400868&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47400868</guid>
+      <pubDate>Mon, 16 Mar 2026 16:07:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[454 pts] US Job Market Visualizer</title>
+      <link>https://karpathy.ai/jobs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;454 points&lt;/strong&gt; by andygcook | &lt;strong&gt;333 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47400060&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47400060</guid>
+      <pubDate>Mon, 16 Mar 2026 15:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[262 pts] AirPods Max 2</title>
+      <link>https://www.apple.com/airpods-max/</link>
+      <description>&lt;p&gt;&lt;strong&gt;262 points&lt;/strong&gt; by ssijak | &lt;strong&gt;444 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47398681&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47398681</guid>
+      <pubDate>Mon, 16 Mar 2026 13:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[358 pts] My Journey to a reliable and enjoyable locally hosted voice assistant (2025)</title>
+      <link>https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860</link>
+      <description>&lt;p&gt;&lt;strong&gt;358 points&lt;/strong&gt; by Vaslo | &lt;strong&gt;103 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47398534&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47398534</guid>
+      <pubDate>Mon, 16 Mar 2026 13:09:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[191 pts] 'Pokémon Go' players unknowingly trained delivery robots with 30B images</title>
+      <link>https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/</link>
+      <description>&lt;p&gt;&lt;strong&gt;191 points&lt;/strong&gt; by wslh | &lt;strong&gt;92 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47398479&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47398479</guid>
+      <pubDate>Mon, 16 Mar 2026 13:05:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[271 pts] Obsession with growth is destroying nature, 150 countries warn</title>
+      <link>https://www.politico.eu/article/obsession-with-growth-destroying-nature-150-countries-warn/</link>
+      <description>&lt;p&gt;&lt;strong&gt;271 points&lt;/strong&gt; by speckx | &lt;strong&gt;206 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47397920&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47397920</guid>
+      <pubDate>Mon, 16 Mar 2026 12:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[187 pts] Lazycut: A simple terminal video trimmer using FFmpeg</title>
+      <link>https://github.com/emin-ozata/lazycut</link>
+      <description>&lt;p&gt;&lt;strong&gt;187 points&lt;/strong&gt; by masterpos | &lt;strong&gt;55 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47397857&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47397857</guid>
+      <pubDate>Mon, 16 Mar 2026 12:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1438 pts] Polymarket gamblers threaten to kill me over Iran missile story</title>
+      <link>https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1438 points&lt;/strong&gt; by defly | &lt;strong&gt;924 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47397822&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47397822</guid>
+      <pubDate>Mon, 16 Mar 2026 12:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[619 pts] MoD sources warn Palantir role at heart of government is threat to UK security</title>
+      <link>https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets</link>
+      <description>&lt;p&gt;&lt;strong&gt;619 points&lt;/strong&gt; by vrganj | &lt;strong&gt;255 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47397797&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47397797</guid>
+      <pubDate>Mon, 16 Mar 2026 11:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[693 pts] Corruption erodes social trust more in democracies than in autocracies</title>
+      <link>https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full</link>
+      <description>&lt;p&gt;&lt;strong&gt;693 points&lt;/strong&gt; by PaulHoule | &lt;strong&gt;363 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47397593&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47397593</guid>
+      <pubDate>Mon, 16 Mar 2026 11:25:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[402 pts] Why I love FreeBSD</title>
+      <link>https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/</link>
+      <description>&lt;p&gt;&lt;strong&gt;402 points&lt;/strong&gt; by enz | &lt;strong&gt;196 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47397574&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47397574</guid>
+      <pubDate>Mon, 16 Mar 2026 11:23:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[176 pts] Ask HN: What is it like being in a CS major program these days?</title>
+      <link>https://news.ycombinator.com/item?id=47397190</link>
+      <description>&lt;p&gt;&lt;strong&gt;176 points&lt;/strong&gt; by tathagatadg | &lt;strong&gt;174 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47397190&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47397190</guid>
+      <pubDate>Mon, 16 Mar 2026 10:24:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[240 pts] Starlink Mini as a failover</title>
+      <link>https://www.jackpearce.co.uk/posts/starlink-failover/</link>
+      <description>&lt;p&gt;&lt;strong&gt;240 points&lt;/strong&gt; by jkpe | &lt;strong&gt;184 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47396264&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47396264</guid>
+      <pubDate>Mon, 16 Mar 2026 08:07:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[491 pts] How I write software with LLMs</title>
+      <link>https://www.stavros.io/posts/how-i-write-software-with-llms/</link>
+      <description>&lt;p&gt;&lt;strong&gt;491 points&lt;/strong&gt; by indigodaddy | &lt;strong&gt;471 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47394022&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47394022</guid>
+      <pubDate>Mon, 16 Mar 2026 01:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[164 pts] Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)</title>
+      <link>https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/</link>
+      <description>&lt;p&gt;&lt;strong&gt;164 points&lt;/strong&gt; by anjel | &lt;strong&gt;110 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47393619&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47393619</guid>
+      <pubDate>Mon, 16 Mar 2026 00:22:48 +0000</pubDate>
+    </item>
     <item>
       <title>[283 pts] Nasdaq's Shame</title>
       <link>https://keubiko.substack.com/p/nasdaqs-shame</link>
