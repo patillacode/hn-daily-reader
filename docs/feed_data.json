@@ -8449,7 +8449,207 @@
       "created_at": 1773620568,
       "num_comments": 110,
       "hn_url": "https://news.ycombinator.com/item?id=47393619"
+    },
+    {
+      "id": "47408703",
+      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+      "points": 1345,
+      "author": "smitec",
+      "created_at": 1773722382,
+      "num_comments": 325,
+      "hn_url": "https://news.ycombinator.com/item?id=47408703"
+    },
+    {
+      "id": "47410870",
+      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
+      "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
+      "points": 854,
+      "author": "doener",
+      "created_at": 1773743988,
+      "num_comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=47410870"
+    },
+    {
+      "id": "47406779",
+      "title": "US SEC preparing to scrap quarterly reporting requirement",
+      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "points": 737,
+      "author": "djoldman",
+      "created_at": 1773705755,
+      "num_comments": 444,
+      "hn_url": "https://news.ycombinator.com/item?id=47406779"
+    },
+    {
+      "id": "47410542",
+      "title": "Kagi Small Web",
+      "url": "https://kagi.com/smallweb/",
+      "points": 735,
+      "author": "trueduke",
+      "created_at": 1773741233,
+      "num_comments": 198,
+      "hn_url": "https://news.ycombinator.com/item?id=47410542"
+    },
+    {
+      "id": "47413876",
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "points": 626,
+      "author": "crtasm",
+      "created_at": 1773760589,
+      "num_comments": 220,
+      "hn_url": "https://news.ycombinator.com/item?id=47413876"
+    },
+    {
+      "id": "47416736",
+      "title": "A Decade of Slug",
+      "url": "https://terathon.com/blog/decade-slug.html",
+      "points": 538,
+      "author": "mwkaufma",
+      "created_at": 1773773990,
+      "num_comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=47416736"
+    },
+    {
+      "id": "47408205",
+      "title": "Every layer of review makes you 10x slower",
+      "url": "https://apenwarr.ca/log/20260316",
+      "points": 522,
+      "author": "greyface-",
+      "created_at": 1773717636,
+      "num_comments": 298,
+      "hn_url": "https://news.ycombinator.com/item?id=47408205"
+    },
+    {
+      "id": "47413525",
+      "title": "FFmpeg 8.1",
+      "url": "https://ffmpeg.org/index.html#pr8.1",
+      "points": 376,
+      "author": "gyan",
+      "created_at": 1773759117,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=47413525"
+    },
+    {
+      "id": "47416486",
+      "title": "Python 3.15's JIT is now back on track",
+      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "points": 342,
+      "author": "guidoiaquinti",
+      "created_at": 1773772647,
+      "num_comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=47416486"
+    },
+    {
+      "id": "47415919",
+      "title": "If you thought code writing speed was your problem you have bigger problems",
+      "url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
+      "points": 306,
+      "author": "mooreds",
+      "created_at": 1773769730,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=47415919"
+    },
+    {
+      "id": "47417804",
+      "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "points": 292,
+      "author": "stefankuehnel",
+      "created_at": 1773779019,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=47417804"
+    },
+    {
+      "id": "47418295",
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "points": 284,
+      "author": "pember",
+      "created_at": 1773781466,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=47418295"
+    },
+    {
+      "id": "47417814",
+      "title": "Meta and TikTok let harmful content rise to drove engagement, say whistleblowers",
+      "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo",
+      "points": 262,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1773779073,
+      "num_comments": 162,
+      "hn_url": "https://news.ycombinator.com/item?id=47417814"
+    },
+    {
+      "id": "47416131",
+      "title": "Illinois Introducing Operating System Account Age Bill",
+      "url": "https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511",
+      "points": 261,
+      "author": "terminalbraid",
+      "created_at": 1773770767,
+      "num_comments": 398,
+      "hn_url": "https://news.ycombinator.com/item?id=47416131"
+    },
+    {
+      "id": "47413195",
+      "title": "Node.js needs a virtual file system",
+      "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
+      "points": 249,
+      "author": "voctor",
+      "created_at": 1773757717,
+      "num_comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=47413195"
+    },
+    {
+      "id": "47414032",
+      "title": "Unsloth Studio",
+      "url": "https://unsloth.ai/docs/new/studio",
+      "points": 248,
+      "author": "brainless",
+      "created_at": 1773761192,
+      "num_comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=47414032"
+    },
+    {
+      "id": "47416548",
+      "title": "Java 26 is here",
+      "url": "https://hanno.codes/2026/03/17/java-26-is-here/",
+      "points": 225,
+      "author": "mfiguiere",
+      "created_at": 1773773049,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=47416548"
+    },
+    {
+      "id": "47415441",
+      "title": "GPT\u20115.4 Mini and Nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "points": 220,
+      "author": "meetpateltech",
+      "created_at": 1773767226,
+      "num_comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=47415441"
+    },
+    {
+      "id": "47411480",
+      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+      "points": 220,
+      "author": "bookofjoe",
+      "created_at": 1773748865,
+      "num_comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=47411480"
+    },
+    {
+      "id": "47416940",
+      "title": "Meta Horizon Worlds on Meta Quest is being discontinued",
+      "url": "https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435",
+      "points": 195,
+      "author": "par",
+      "created_at": 1773775036,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=47416940"
     }
   ],
-  "last_updated": "2026-03-17T06:59:07.025147+00:00"
+  "last_updated": "2026-03-18T06:57:29.666214+00:00"
 }
