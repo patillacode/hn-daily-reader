@@ -8649,7 +8649,207 @@
       "created_at": 1773775036,
       "num_comments": 207,
       "hn_url": "https://news.ycombinator.com/item?id=47416940"
+    },
+    {
+      "id": "47423647",
+      "title": "Rob Pike\u2019s Rules of Programming (1989)",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "points": 912,
+      "author": "vismit2000",
+      "created_at": 1773827994,
+      "num_comments": 430,
+      "hn_url": "https://news.ycombinator.com/item?id=47423647"
+    },
+    {
+      "id": "47421442",
+      "title": "Have a fucking website",
+      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "points": 876,
+      "author": "asukachikaru",
+      "created_at": 1773806022,
+      "num_comments": 493,
+      "hn_url": "https://news.ycombinator.com/item?id=47421442"
+    },
+    {
+      "id": "47422942",
+      "title": "Nightingale \u2013 open-source karaoke app that works with any song on your computer",
+      "url": "https://nightingale.cafe/",
+      "points": 540,
+      "author": "rzzzzru",
+      "created_at": 1773821184,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=47422942"
+    },
+    {
+      "id": "47426057",
+      "title": "Despite doubts, federal cyber experts approved Microsoft cloud service",
+      "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+      "points": 455,
+      "author": "hn_acker",
+      "created_at": 1773843242,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=47426057"
+    },
+    {
+      "id": "47430797",
+      "title": "FBI is buying location data to track US citizens, director confirms",
+      "url": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+      "points": 440,
+      "author": "jbegley",
+      "created_at": 1773864592,
+      "num_comments": 166,
+      "hn_url": "https://news.ycombinator.com/item?id=47430797"
+    },
+    {
+      "id": "47426932",
+      "title": "Death to Scroll Fade",
+      "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+      "points": 377,
+      "author": "PaulHoule",
+      "created_at": 1773847438,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=47426932"
+    },
+    {
+      "id": "47428541",
+      "title": "AI coding is gambling",
+      "url": "https://notes.visaint.space/ai-coding-is-gambling/",
+      "points": 324,
+      "author": "speckx",
+      "created_at": 1773854522,
+      "num_comments": 395,
+      "hn_url": "https://news.ycombinator.com/item?id=47428541"
+    },
+    {
+      "id": "47427027",
+      "title": "Nvidia NemoClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "points": 285,
+      "author": "hmokiguess",
+      "created_at": 1773847867,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=47427027"
+    },
+    {
+      "id": "47431237",
+      "title": "Warranty Void If Regenerated",
+      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "points": 281,
+      "author": "Stwerner",
+      "created_at": 1773866754,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=47431237"
+    },
+    {
+      "id": "47420432",
+      "title": "The pleasures of poor product design",
+      "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+      "points": 251,
+      "author": "NaOH",
+      "created_at": 1773795645,
+      "num_comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=47420432"
+    },
+    {
+      "id": "47422759",
+      "title": "Wander \u2013 A tiny, decentralised tool to explore the small web",
+      "url": "https://susam.net/wander/",
+      "points": 250,
+      "author": "susam",
+      "created_at": 1773819793,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=47422759"
+    },
+    {
+      "id": "47427017",
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+      "points": 243,
+      "author": "ozgune",
+      "created_at": 1773847807,
+      "num_comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=47427017"
+    },
+    {
+      "id": "47427299",
+      "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+      "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
+      "points": 231,
+      "author": "visiwig",
+      "created_at": 1773849044,
+      "num_comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=47427299"
+    },
+    {
+      "id": "47428650",
+      "title": "Show HN: Will my flight have Starlink?",
+      "url": "https://news.ycombinator.com/item?id=47428650",
+      "points": 213,
+      "author": "bblcla",
+      "created_at": 1773854961,
+      "num_comments": 274,
+      "hn_url": "https://news.ycombinator.com/item?id=47428650"
+    },
+    {
+      "id": "47423976",
+      "title": "OpenAI Has New Focus (on the IPO)",
+      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "points": 208,
+      "author": "aamederen",
+      "created_at": 1773830959,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=47423976"
+    },
+    {
+      "id": "47425297",
+      "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts",
+      "url": "https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking",
+      "points": 182,
+      "author": "bilsbie",
+      "created_at": 1773839055,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=47425297"
+    },
+    {
+      "id": "47426936",
+      "title": "Machine Payments Protocol (MPP)",
+      "url": "https://stripe.com/blog/machine-payments-protocol",
+      "points": 169,
+      "author": "bpierre",
+      "created_at": 1773847452,
+      "num_comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=47426936"
+    },
+    {
+      "id": "47421828",
+      "title": "SSH has no Host header",
+      "url": "https://blog.exe.dev/ssh-host-header",
+      "points": 161,
+      "author": "apitman",
+      "created_at": 1773811082,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=47421828"
+    },
+    {
+      "id": "47420388",
+      "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+      "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+      "points": 159,
+      "author": "y1n0",
+      "created_at": 1773795190,
+      "num_comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=47420388"
+    },
+    {
+      "id": "47427214",
+      "title": "Meta will shut down VR Horizon Worlds access June 15",
+      "url": "https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html",
+      "points": 150,
+      "author": "bookofjoe",
+      "created_at": 1773848618,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=47427214"
     }
   ],
-  "last_updated": "2026-03-18T06:57:29.666214+00:00"
+  "last_updated": "2026-03-19T06:53:20.198279+00:00"
 }
