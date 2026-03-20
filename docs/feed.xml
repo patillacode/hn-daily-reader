@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 06:53:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 06:49:40 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[226 pts] Cockpit is a web-based graphical interface for servers</title>
+      <link>https://github.com/cockpit-project/cockpit</link>
+      <description>&lt;p&gt;&lt;strong&gt;226 points&lt;/strong&gt; by modinfo | &lt;strong&gt;130 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47445599&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47445599</guid>
+      <pubDate>Thu, 19 Mar 2026 20:33:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[288 pts] Waymo Safety Impact</title>
+      <link>https://waymo.com/safety/impact/</link>
+      <description>&lt;p&gt;&lt;strong&gt;288 points&lt;/strong&gt; by xnx | &lt;strong&gt;284 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47445246&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47445246</guid>
+      <pubDate>Thu, 19 Mar 2026 20:13:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[418 pts] Anthropic takes legal action against OpenCode</title>
+      <link>https://github.com/anomalyco/opencode/pull/18186</link>
+      <description>&lt;p&gt;&lt;strong&gt;418 points&lt;/strong&gt; by _squared_ | &lt;strong&gt;335 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47444748&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47444748</guid>
+      <pubDate>Thu, 19 Mar 2026 19:37:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[303 pts] An update on Steam / GOG changes for OpenTTD</title>
+      <link>https://www.openttd.org/news/2026/03/19/steam-changes-update</link>
+      <description>&lt;p&gt;&lt;strong&gt;303 points&lt;/strong&gt; by jandeboevrie | &lt;strong&gt;205 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47442834&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47442834</guid>
+      <pubDate>Thu, 19 Mar 2026 17:27:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[683 pts] Google details new 24-hour process to sideload unverified Android apps</title>
+      <link>https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/</link>
+      <description>&lt;p&gt;&lt;strong&gt;683 points&lt;/strong&gt; by 0xedb | &lt;strong&gt;759 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47442690&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47442690</guid>
+      <pubDate>Thu, 19 Mar 2026 17:16:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[386 pts] Show HN: Three new Kitten TTS models – smallest less than 25MB</title>
+      <link>https://github.com/KittenML/KittenTTS</link>
+      <description>&lt;p&gt;&lt;strong&gt;386 points&lt;/strong&gt; by rohan_joshi | &lt;strong&gt;148 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47441546&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47441546</guid>
+      <pubDate>Thu, 19 Mar 2026 15:56:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[348 pts] macOS 26 breaks custom DNS settings including .internal</title>
+      <link>https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a</link>
+      <description>&lt;p&gt;&lt;strong&gt;348 points&lt;/strong&gt; by adamamyl | &lt;strong&gt;182 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47440759&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47440759</guid>
+      <pubDate>Thu, 19 Mar 2026 15:06:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[337 pts] 4Chan mocks £520k fine for UK online safety breaches</title>
+      <link>https://www.bbc.com/news/articles/c624330lg1ko</link>
+      <description>&lt;p&gt;&lt;strong&gt;337 points&lt;/strong&gt; by mosura | &lt;strong&gt;563 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47440430&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47440430</guid>
+      <pubDate>Thu, 19 Mar 2026 14:46:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1308 pts] Astral to Join OpenAI</title>
+      <link>https://astral.sh/blog/openai</link>
+      <description>&lt;p&gt;&lt;strong&gt;1308 points&lt;/strong&gt; by ibraheemdev | &lt;strong&gt;810 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47438723&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47438723</guid>
+      <pubDate>Thu, 19 Mar 2026 13:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[251 pts] Juggalo makeup blocks facial recognition technology (2019)</title>
+      <link>https://consequence.net/2019/07/juggalo-makeup-facial-recognition/</link>
+      <description>&lt;p&gt;&lt;strong&gt;251 points&lt;/strong&gt; by speckx | &lt;strong&gt;146 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47438675&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47438675</guid>
+      <pubDate>Thu, 19 Mar 2026 13:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[384 pts] Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos</title>
+      <link>https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;384 points&lt;/strong&gt; by pseudolus | &lt;strong&gt;3 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47438001&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47438001</guid>
+      <pubDate>Thu, 19 Mar 2026 12:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[396 pts] Denmark was reportedly preparing for full-scale war with the US over Greenland</title>
+      <link>https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f</link>
+      <description>&lt;p&gt;&lt;strong&gt;396 points&lt;/strong&gt; by mariuz | &lt;strong&gt;563 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47437782&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47437782</guid>
+      <pubDate>Thu, 19 Mar 2026 11:49:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[507 pts] “Your frustration is the product”</title>
+      <link>https://daringfireball.net/2026/03/your_frustration_is_the_product</link>
+      <description>&lt;p&gt;&lt;strong&gt;507 points&lt;/strong&gt; by llm_nerd | &lt;strong&gt;304 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47437655&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47437655</guid>
+      <pubDate>Thu, 19 Mar 2026 11:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[288 pts] Iran war energy shock sparks global push to reduce fossil fuel dependence</title>
+      <link>https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/</link>
+      <description>&lt;p&gt;&lt;strong&gt;288 points&lt;/strong&gt; by geox | &lt;strong&gt;379 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47437516&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47437516</guid>
+      <pubDate>Thu, 19 Mar 2026 11:15:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1143 pts] Afroman found not liable in defamation case</title>
+      <link>https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1143 points&lt;/strong&gt; by antonymoose | &lt;strong&gt;661 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47436950&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47436950</guid>
+      <pubDate>Thu, 19 Mar 2026 09:51:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[321 pts] Conway's Game of Life, in real life</title>
+      <link>https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life</link>
+      <description>&lt;p&gt;&lt;strong&gt;321 points&lt;/strong&gt; by surprisetalk | &lt;strong&gt;83 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47434732&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47434732</guid>
+      <pubDate>Thu, 19 Mar 2026 03:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[246 pts] Mozilla to launch free built-in VPN in upcoming Firefox 149</title>
+      <link>https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/</link>
+      <description>&lt;p&gt;&lt;strong&gt;246 points&lt;/strong&gt; by adrianwaj | &lt;strong&gt;151 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47434567&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47434567</guid>
+      <pubDate>Thu, 19 Mar 2026 03:31:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[604 pts] A sufficiently detailed spec is code</title>
+      <link>https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code</link>
+      <description>&lt;p&gt;&lt;strong&gt;604 points&lt;/strong&gt; by signa11 | &lt;strong&gt;323 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47434047&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47434047</guid>
+      <pubDate>Thu, 19 Mar 2026 02:23:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[291 pts] Cook: A simple CLI for orchestrating Claude Code</title>
+      <link>https://rjcorwin.github.io/cook/</link>
+      <description>&lt;p&gt;&lt;strong&gt;291 points&lt;/strong&gt; by staticvar | &lt;strong&gt;89 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47434024&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47434024</guid>
+      <pubDate>Thu, 19 Mar 2026 02:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[788 pts] Austin’s surge of new housing construction drove down rents</title>
+      <link>https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents</link>
+      <description>&lt;p&gt;&lt;strong&gt;788 points&lt;/strong&gt; by matthest | &lt;strong&gt;969 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47433058&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47433058</guid>
+      <pubDate>Thu, 19 Mar 2026 00:15:39 +0000</pubDate>
+    </item>
     <item>
       <title>[281 pts] Warranty Void If Regenerated</title>
       <link>https://nearzero.software/p/warranty-void-if-regenerated</link>

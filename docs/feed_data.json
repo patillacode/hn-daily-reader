@@ -8849,7 +8849,207 @@
       "created_at": 1773848618,
       "num_comments": 160,
       "hn_url": "https://news.ycombinator.com/item?id=47427214"
+    },
+    {
+      "id": "47438723",
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "points": 1308,
+      "author": "ibraheemdev",
+      "created_at": 1773925550,
+      "num_comments": 810,
+      "hn_url": "https://news.ycombinator.com/item?id=47438723"
+    },
+    {
+      "id": "47436950",
+      "title": "Afroman found not liable in defamation case",
+      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "points": 1143,
+      "author": "antonymoose",
+      "created_at": 1773913916,
+      "num_comments": 661,
+      "hn_url": "https://news.ycombinator.com/item?id=47436950"
+    },
+    {
+      "id": "47433058",
+      "title": "Austin\u2019s surge of new housing construction drove down rents",
+      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "points": 788,
+      "author": "matthest",
+      "created_at": 1773879339,
+      "num_comments": 969,
+      "hn_url": "https://news.ycombinator.com/item?id=47433058"
+    },
+    {
+      "id": "47442690",
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "points": 683,
+      "author": "0xedb",
+      "created_at": 1773940564,
+      "num_comments": 759,
+      "hn_url": "https://news.ycombinator.com/item?id=47442690"
+    },
+    {
+      "id": "47434047",
+      "title": "A sufficiently detailed spec is code",
+      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "points": 604,
+      "author": "signa11",
+      "created_at": 1773886997,
+      "num_comments": 323,
+      "hn_url": "https://news.ycombinator.com/item?id=47434047"
+    },
+    {
+      "id": "47437655",
+      "title": "\u201cYour frustration is the product\u201d",
+      "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
+      "points": 507,
+      "author": "llm_nerd",
+      "created_at": 1773920064,
+      "num_comments": 304,
+      "hn_url": "https://news.ycombinator.com/item?id=47437655"
+    },
+    {
+      "id": "47444748",
+      "title": "Anthropic takes legal action against OpenCode",
+      "url": "https://github.com/anomalyco/opencode/pull/18186",
+      "points": 418,
+      "author": "_squared_",
+      "created_at": 1773949046,
+      "num_comments": 335,
+      "hn_url": "https://news.ycombinator.com/item?id=47444748"
+    },
+    {
+      "id": "47437782",
+      "title": "Denmark was reportedly preparing for full-scale war with the US over Greenland",
+      "url": "https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f",
+      "points": 396,
+      "author": "mariuz",
+      "created_at": 1773920977,
+      "num_comments": 563,
+      "hn_url": "https://news.ycombinator.com/item?id=47437782"
+    },
+    {
+      "id": "47441546",
+      "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "points": 386,
+      "author": "rohan_joshi",
+      "created_at": 1773935766,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=47441546"
+    },
+    {
+      "id": "47438001",
+      "title": "Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos",
+      "url": "https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html",
+      "points": 384,
+      "author": "pseudolus",
+      "created_at": 1773922380,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=47438001"
+    },
+    {
+      "id": "47440759",
+      "title": "macOS 26 breaks custom DNS settings including .internal",
+      "url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
+      "points": 348,
+      "author": "adamamyl",
+      "created_at": 1773932818,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=47440759"
+    },
+    {
+      "id": "47440430",
+      "title": "4Chan mocks \u00a3520k fine for UK online safety breaches",
+      "url": "https://www.bbc.com/news/articles/c624330lg1ko",
+      "points": 337,
+      "author": "mosura",
+      "created_at": 1773931585,
+      "num_comments": 563,
+      "hn_url": "https://news.ycombinator.com/item?id=47440430"
+    },
+    {
+      "id": "47434732",
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+      "points": 321,
+      "author": "surprisetalk",
+      "created_at": 1773892503,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=47434732"
+    },
+    {
+      "id": "47442834",
+      "title": "An update on Steam / GOG changes for OpenTTD",
+      "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
+      "points": 303,
+      "author": "jandeboevrie",
+      "created_at": 1773941237,
+      "num_comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=47442834"
+    },
+    {
+      "id": "47434024",
+      "title": "Cook: A simple CLI for orchestrating Claude Code",
+      "url": "https://rjcorwin.github.io/cook/",
+      "points": 291,
+      "author": "staticvar",
+      "created_at": 1773886834,
+      "num_comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=47434024"
+    },
+    {
+      "id": "47437516",
+      "title": "Iran war energy shock sparks global push to reduce fossil fuel dependence",
+      "url": "https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/",
+      "points": 288,
+      "author": "geox",
+      "created_at": 1773918927,
+      "num_comments": 379,
+      "hn_url": "https://news.ycombinator.com/item?id=47437516"
+    },
+    {
+      "id": "47445246",
+      "title": "Waymo Safety Impact",
+      "url": "https://waymo.com/safety/impact/",
+      "points": 288,
+      "author": "xnx",
+      "created_at": 1773951215,
+      "num_comments": 284,
+      "hn_url": "https://news.ycombinator.com/item?id=47445246"
+    },
+    {
+      "id": "47438675",
+      "title": "Juggalo makeup blocks facial recognition technology (2019)",
+      "url": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
+      "points": 251,
+      "author": "speckx",
+      "created_at": 1773925355,
+      "num_comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=47438675"
+    },
+    {
+      "id": "47434567",
+      "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
+      "url": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
+      "points": 246,
+      "author": "adrianwaj",
+      "created_at": 1773891061,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=47434567"
+    },
+    {
+      "id": "47445599",
+      "title": "Cockpit is a web-based graphical interface for servers",
+      "url": "https://github.com/cockpit-project/cockpit",
+      "points": 226,
+      "author": "modinfo",
+      "created_at": 1773952382,
+      "num_comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=47445599"
     }
   ],
-  "last_updated": "2026-03-19T06:53:20.198279+00:00"
+  "last_updated": "2026-03-20T06:49:40.097047+00:00"
 }
