@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 06:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 06:37:21 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[168 pts] Ghostling</title>
+      <link>https://github.com/ghostty-org/ghostling</link>
+      <description>&lt;p&gt;&lt;strong&gt;168 points&lt;/strong&gt; by bjornroberg | &lt;strong&gt;28 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47461378&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47461378</guid>
+      <pubDate>Fri, 20 Mar 2026 22:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[160 pts] We rewrote our Rust WASM parser in TypeScript and it got faster</title>
+      <link>https://www.openui.com/blog/rust-wasm-parser</link>
+      <description>&lt;p&gt;&lt;strong&gt;160 points&lt;/strong&gt; by zahlekhan | &lt;strong&gt;91 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47461094&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47461094</guid>
+      <pubDate>Fri, 20 Mar 2026 21:48:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[639 pts] OpenCode – Open source AI coding agent</title>
+      <link>https://opencode.ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;639 points&lt;/strong&gt; by rbanffy | &lt;strong&gt;277 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47460525&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47460525</guid>
+      <pubDate>Fri, 20 Mar 2026 21:03:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[208 pts] A Japanese glossary of chopsticks faux pas</title>
+      <link>https://www.nippon.com/en/japan-data/h01362/</link>
+      <description>&lt;p&gt;&lt;strong&gt;208 points&lt;/strong&gt; by cainxinth | &lt;strong&gt;151 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47460452&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47460452</guid>
+      <pubDate>Fri, 20 Mar 2026 20:54:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[486 pts] Our commitment to Windows quality</title>
+      <link>https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/</link>
+      <description>&lt;p&gt;&lt;strong&gt;486 points&lt;/strong&gt; by hadrien01 | &lt;strong&gt;873 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47459296&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47459296</guid>
+      <pubDate>Fri, 20 Mar 2026 19:16:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[171 pts] BYD is seeing a flood of new EV buyers</title>
+      <link>https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/</link>
+      <description>&lt;p&gt;&lt;strong&gt;171 points&lt;/strong&gt; by ironyman | &lt;strong&gt;258 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47458549&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47458549</guid>
+      <pubDate>Fri, 20 Mar 2026 18:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[257 pts] Oregon school cell phone ban: 'Engaged students, joyful teachers'</title>
+      <link>https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/</link>
+      <description>&lt;p&gt;&lt;strong&gt;257 points&lt;/strong&gt; by nxobject | &lt;strong&gt;208 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47456153&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47456153</guid>
+      <pubDate>Fri, 20 Mar 2026 15:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[340 pts] Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot</title>
+      <link>https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/</link>
+      <description>&lt;p&gt;&lt;strong&gt;340 points&lt;/strong&gt; by pera | &lt;strong&gt;146 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47455365&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47455365</guid>
+      <pubDate>Fri, 20 Mar 2026 14:48:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[708 pts] Chuck Norris has died</title>
+      <link>https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/</link>
+      <description>&lt;p&gt;&lt;strong&gt;708 points&lt;/strong&gt; by mp3il | &lt;strong&gt;426 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47454782&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47454782</guid>
+      <pubDate>Fri, 20 Mar 2026 14:09:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[194 pts] Java is fast, code might not be</title>
+      <link>https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/</link>
+      <description>&lt;p&gt;&lt;strong&gt;194 points&lt;/strong&gt; by siegers | &lt;strong&gt;200 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47454384&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47454384</guid>
+      <pubDate>Fri, 20 Mar 2026 13:43:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[837 pts] I'm OK being left behind, thanks</title>
+      <link>https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</link>
+      <description>&lt;p&gt;&lt;strong&gt;837 points&lt;/strong&gt; by coinfused | &lt;strong&gt;698 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47454341&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47454341</guid>
+      <pubDate>Fri, 20 Mar 2026 13:38:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[318 pts] HP trialed mandatory 15-minute support call wait times (2025)</title>
+      <link>https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/</link>
+      <description>&lt;p&gt;&lt;strong&gt;318 points&lt;/strong&gt; by felineflock | &lt;strong&gt;207 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47454164&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47454164</guid>
+      <pubDate>Fri, 20 Mar 2026 13:23:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[533 pts] France's aircraft carrier located in real time by Le Monde through fitness app</title>
+      <link>https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;533 points&lt;/strong&gt; by MrDresden | &lt;strong&gt;425 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47453942&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47453942</guid>
+      <pubDate>Fri, 20 Mar 2026 13:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[181 pts] Entso-E final report on Iberian 2025 blackout</title>
+      <link>https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/</link>
+      <description>&lt;p&gt;&lt;strong&gt;181 points&lt;/strong&gt; by Rygian | &lt;strong&gt;87 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47452955&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47452955</guid>
+      <pubDate>Fri, 20 Mar 2026 11:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[262 pts] Cursor Composer 2 is just Kimi K2.5 with RL</title>
+      <link>https://twitter.com/fynnso/status/2034706304875602030</link>
+      <description>&lt;p&gt;&lt;strong&gt;262 points&lt;/strong&gt; by mirzap | &lt;strong&gt;148 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47452404&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47452404</guid>
+      <pubDate>Fri, 20 Mar 2026 09:41:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[745 pts] ArXiv declares independence from Cornell</title>
+      <link>https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell</link>
+      <description>&lt;p&gt;&lt;strong&gt;745 points&lt;/strong&gt; by bookstore-romeo | &lt;strong&gt;263 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47450478&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47450478</guid>
+      <pubDate>Fri, 20 Mar 2026 04:24:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[285 pts] Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found</title>
+      <link>https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found</link>
+      <description>&lt;p&gt;&lt;strong&gt;285 points&lt;/strong&gt; by nyxgeek | &lt;strong&gt;98 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47448994&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47448994</guid>
+      <pubDate>Fri, 20 Mar 2026 01:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[271 pts] Drugwars for the TI-82/83/83 Calculators (2011)</title>
+      <link>https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404</link>
+      <description>&lt;p&gt;&lt;strong&gt;271 points&lt;/strong&gt; by robotnikman | &lt;strong&gt;76 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47448566&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47448566</guid>
+      <pubDate>Fri, 20 Mar 2026 00:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[391 pts] Push events into a running session with channels</title>
+      <link>https://code.claude.com/docs/en/channels</link>
+      <description>&lt;p&gt;&lt;strong&gt;391 points&lt;/strong&gt; by jasonjmcghee | &lt;strong&gt;243 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47448524&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47448524</guid>
+      <pubDate>Fri, 20 Mar 2026 00:22:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[313 pts] Wayland set the Linux Desktop back by 10 years?</title>
+      <link>https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years</link>
+      <description>&lt;p&gt;&lt;strong&gt;313 points&lt;/strong&gt; by omarroth | &lt;strong&gt;444 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47448328&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47448328</guid>
+      <pubDate>Fri, 20 Mar 2026 00:01:40 +0000</pubDate>
+    </item>
     <item>
       <title>[226 pts] Cockpit is a web-based graphical interface for servers</title>
       <link>https://github.com/cockpit-project/cockpit</link>
