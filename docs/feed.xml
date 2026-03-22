@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2026 06:37:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 06:44:52 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[140 pts] Floci – A free, open-source local AWS emulator</title>
+      <link>https://github.com/hectorvent/floci</link>
+      <description>&lt;p&gt;&lt;strong&gt;140 points&lt;/strong&gt; by shaicoleman | &lt;strong&gt;31 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47471801&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47471801</guid>
+      <pubDate>Sat, 21 Mar 2026 21:49:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[211 pts] Professional video editing, right in the browser with WebGPU and WASM</title>
+      <link>https://tooscut.app/</link>
+      <description>&lt;p&gt;&lt;strong&gt;211 points&lt;/strong&gt; by mohebifar | &lt;strong&gt;59 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47471601&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47471601</guid>
+      <pubDate>Sat, 21 Mar 2026 21:27:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[614 pts] Do Not Turn Child Protection into Internet Access Control</title>
+      <link>https://news.dyne.org/child-protection-is-not-access-control/</link>
+      <description>&lt;p&gt;&lt;strong&gt;614 points&lt;/strong&gt; by smartmic | &lt;strong&gt;324 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47470991&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47470991</guid>
+      <pubDate>Sat, 21 Mar 2026 20:32:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[426 pts] Tinybox – Offline AI device 120B parameters</title>
+      <link>https://tinygrad.org/#tinybox</link>
+      <description>&lt;p&gt;&lt;strong&gt;426 points&lt;/strong&gt; by albelfio | &lt;strong&gt;257 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47470773&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47470773</guid>
+      <pubDate>Sat, 21 Mar 2026 20:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[193 pts] Study finds no evidence cannabis helps anxiety, depression, or PTSD</title>
+      <link>https://www.sciencedaily.com/releases/2026/03/260319044656.htm</link>
+      <description>&lt;p&gt;&lt;strong&gt;193 points&lt;/strong&gt; by nothrowaways | &lt;strong&gt;185 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47470750&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47470750</guid>
+      <pubDate>Sat, 21 Mar 2026 20:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[108 pts] Show HN: Termcraft – terminal-first 2D sandbox survival in Rust</title>
+      <link>https://github.com/pagel-s/termcraft</link>
+      <description>&lt;p&gt;&lt;strong&gt;108 points&lt;/strong&gt; by sebosch | &lt;strong&gt;18 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47469949&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47469949</guid>
+      <pubDate>Sat, 21 Mar 2026 18:42:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[180 pts] Passengers who refuse to use headphones can now be kicked off United flights</title>
+      <link>https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries</link>
+      <description>&lt;p&gt;&lt;strong&gt;180 points&lt;/strong&gt; by edward | &lt;strong&gt;223 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47469417&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47469417</guid>
+      <pubDate>Sat, 21 Mar 2026 17:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[168 pts] Hide macOS Tahoe's Menu Icons</title>
+      <link>https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/</link>
+      <description>&lt;p&gt;&lt;strong&gt;168 points&lt;/strong&gt; by soheilpro | &lt;strong&gt;58 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47469331&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47469331</guid>
+      <pubDate>Sat, 21 Mar 2026 17:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[119 pts] Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646</link>
+      <description>&lt;p&gt;&lt;strong&gt;119 points&lt;/strong&gt; by Anon84 | &lt;strong&gt;68 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47467913&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47467913</guid>
+      <pubDate>Sat, 21 Mar 2026 15:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[265 pts] 404 Deno CEO not found</title>
+      <link>https://dbushell.com/2026/03/20/denos-decline-and-layoffs/</link>
+      <description>&lt;p&gt;&lt;strong&gt;265 points&lt;/strong&gt; by WhyNotHugo | &lt;strong&gt;184 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47467746&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47467746</guid>
+      <pubDate>Sat, 21 Mar 2026 15:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[149 pts] Iran launched unsuccessful attack on UK's Diego Garcia</title>
+      <link>https://www.bbc.com/news/articles/c5yljdgwppzo</link>
+      <description>&lt;p&gt;&lt;strong&gt;149 points&lt;/strong&gt; by alephnerd | &lt;strong&gt;483 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47467609&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47467609</guid>
+      <pubDate>Sat, 21 Mar 2026 14:54:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[209 pts] Grafeo – A fast, lean, embeddable graph database built in Rust</title>
+      <link>https://grafeo.dev/</link>
+      <description>&lt;p&gt;&lt;strong&gt;209 points&lt;/strong&gt; by 0x1997 | &lt;strong&gt;68 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47467567&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47467567</guid>
+      <pubDate>Sat, 21 Mar 2026 14:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[611 pts] Some things just take time</title>
+      <link>https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</link>
+      <description>&lt;p&gt;&lt;strong&gt;611 points&lt;/strong&gt; by vaylian | &lt;strong&gt;193 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47467537&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47467537</guid>
+      <pubDate>Sat, 21 Mar 2026 14:46:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[112 pts] A pig's brain has been frozen with its cellular activity locked in place</title>
+      <link>https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/</link>
+      <description>&lt;p&gt;&lt;strong&gt;112 points&lt;/strong&gt; by Brajeshwar | &lt;strong&gt;159 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47467300&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47467300</guid>
+      <pubDate>Sat, 21 Mar 2026 14:22:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[179 pts] Western carmakers' retreat from electric risks dooming them to irrelevance</title>
+      <link>https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china</link>
+      <description>&lt;p&gt;&lt;strong&gt;179 points&lt;/strong&gt; by n1b0m | &lt;strong&gt;294 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47467034&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47467034</guid>
+      <pubDate>Sat, 21 Mar 2026 13:52:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[235 pts] Mayor of Paris removed parking spaces, reduced the number of cars</title>
+      <link>https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor</link>
+      <description>&lt;p&gt;&lt;strong&gt;235 points&lt;/strong&gt; by heresie-dabord | &lt;strong&gt;347 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47466697&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47466697</guid>
+      <pubDate>Sat, 21 Mar 2026 13:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[130 pts] How BYD got EV chargers to work almost as fast as gas pumps</title>
+      <link>https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/</link>
+      <description>&lt;p&gt;&lt;strong&gt;130 points&lt;/strong&gt; by Brajeshwar | &lt;strong&gt;192 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47466294&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47466294</guid>
+      <pubDate>Sat, 21 Mar 2026 12:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[511 pts] Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record</title>
+      <link>https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record</link>
+      <description>&lt;p&gt;&lt;strong&gt;511 points&lt;/strong&gt; by pabs3 | &lt;strong&gt;140 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47464818&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47464818</guid>
+      <pubDate>Sat, 21 Mar 2026 07:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[353 pts] Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords</title>
+      <link>https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/</link>
+      <description>&lt;p&gt;&lt;strong&gt;353 points&lt;/strong&gt; by akersten | &lt;strong&gt;345 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47464134&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47464134</guid>
+      <pubDate>Sat, 21 Mar 2026 05:06:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[222 pts] FFmpeg 101 (2024)</title>
+      <link>https://blogs.igalia.com/llepage/ffmpeg-101/</link>
+      <description>&lt;p&gt;&lt;strong&gt;222 points&lt;/strong&gt; by vinhnx | &lt;strong&gt;8 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47463547&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47463547</guid>
+      <pubDate>Sat, 21 Mar 2026 02:47:13 +0000</pubDate>
+    </item>
     <item>
       <title>[168 pts] Ghostling</title>
       <link>https://github.com/ghostty-org/ghostling</link>
