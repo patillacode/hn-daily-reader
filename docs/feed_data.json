@@ -9649,7 +9649,207 @@
       "created_at": 1774141330,
       "num_comments": 100,
       "hn_url": "https://news.ycombinator.com/item?id=47473279"
+    },
+    {
+      "id": "47487436",
+      "title": "Migrating to the EU",
+      "url": "https://rz01.org/eu-migration/",
+      "points": 856,
+      "author": "exitnode",
+      "created_at": 1774261052,
+      "num_comments": 657,
+      "hn_url": "https://news.ycombinator.com/item?id=47487436"
+    },
+    {
+      "id": "47490070",
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "url": "https://twitter.com/anemll/status/2035901335984611412",
+      "points": 565,
+      "author": "anemll",
+      "created_at": 1774276210,
+      "num_comments": 261,
+      "hn_url": "https://news.ycombinator.com/item?id=47490070"
+    },
+    {
+      "id": "47487584",
+      "title": "GitHub appears to be struggling with measly three nines availability",
+      "url": "https://www.theregister.com/2026/02/10/github_outages/",
+      "points": 447,
+      "author": "richtr",
+      "created_at": 1774262379,
+      "num_comments": 232,
+      "hn_url": "https://news.ycombinator.com/item?id=47487584"
+    },
+    {
+      "id": "47486726",
+      "title": "POSSE \u2013 Publish on your Own Site, Syndicate Elsewhere",
+      "url": "https://indieweb.org/POSSE",
+      "points": 397,
+      "author": "tosh",
+      "created_at": 1774254567,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=47486726"
+    },
+    {
+      "id": "47492599",
+      "title": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
+      "url": "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html",
+      "points": 394,
+      "author": "lode",
+      "created_at": 1774287338,
+      "num_comments": 312,
+      "hn_url": "https://news.ycombinator.com/item?id=47492599"
+    },
+    {
+      "id": "47486386",
+      "title": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
+      "url": "https://www.bbc.com/news/articles/cy01g522ww4o",
+      "points": 391,
+      "author": "mememememememo",
+      "created_at": 1774250659,
+      "num_comments": 599,
+      "hn_url": "https://news.ycombinator.com/item?id=47486386"
+    },
+    {
+      "id": "47488015",
+      "title": "Student beauty and grades under in-person and remote teaching",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
+      "points": 352,
+      "author": "jdthedisciple",
+      "created_at": 1774265479,
+      "num_comments": 491,
+      "hn_url": "https://news.ycombinator.com/item?id=47488015"
+    },
+    {
+      "id": "47493460",
+      "title": "Autoresearch on an old research idea",
+      "url": "https://ykumar.me/blog/eclip-autoresearch/",
+      "points": 336,
+      "author": "ykumards",
+      "created_at": 1774291258,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=47493460"
+    },
+    {
+      "id": "47484519",
+      "title": "\u201cCollaboration\u201d is bullshit",
+      "url": "https://www.joanwestenberg.com/collaboration-is-bullshit/",
+      "points": 329,
+      "author": "mitchbob",
+      "created_at": 1774230225,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=47484519"
+    },
+    {
+      "id": "47495527",
+      "title": "Claude Code Cheat Sheet",
+      "url": "https://cc.storyfox.cz",
+      "points": 305,
+      "author": "phasE89",
+      "created_at": 1774302260,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=47495527"
+    },
+    {
+      "id": "47495344",
+      "title": "FCC updates covered list to include foreign-made consumer routers",
+      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "points": 286,
+      "author": "moonka",
+      "created_at": 1774301282,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=47495344"
+    },
+    {
+      "id": "47487536",
+      "title": "I built an AI receptionist for a mechanic shop",
+      "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+      "points": 257,
+      "author": "mooreds",
+      "created_at": 1774261953,
+      "num_comments": 273,
+      "hn_url": "https://news.ycombinator.com/item?id=47487536"
+    },
+    {
+      "id": "47496221",
+      "title": "Windows 3.1 tiled background .bmp archive",
+      "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
+      "points": 226,
+      "author": "justsomehnguy",
+      "created_at": 1774306355,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=47496221"
+    },
+    {
+      "id": "47490365",
+      "title": "If DSPy is so great, why isn't anyone using it?",
+      "url": "https://skylarbpayne.com/posts/dspy-engineering-patterns/",
+      "points": 210,
+      "author": "sbpayne",
+      "created_at": 1774277572,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=47490365"
+    },
+    {
+      "id": "47493657",
+      "title": "Local Stack Archived their GitHub repo and requires an account to run",
+      "url": "https://github.com/localstack/localstack",
+      "points": 185,
+      "author": "ecshafer",
+      "created_at": 1774292228,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=47493657"
+    },
+    {
+      "id": "47491496",
+      "title": "Is it a pint?",
+      "url": "https://isitapint.com/",
+      "points": 178,
+      "author": "cainxinth",
+      "created_at": 1774282420,
+      "num_comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=47491496"
+    },
+    {
+      "id": "47494629",
+      "title": "Bets on US-Iran ceasefire show signs of insider knowledge, say experts",
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket",
+      "points": 174,
+      "author": "trocado",
+      "created_at": 1774297510,
+      "num_comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=47494629"
+    },
+    {
+      "id": "47494890",
+      "title": "How I'm Productive with Claude Code",
+      "url": "https://neilkakkar.com/productive-with-claude-code.html",
+      "points": 173,
+      "author": "neilkakkar",
+      "created_at": 1774298950,
+      "num_comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=47494890"
+    },
+    {
+      "id": "47484208",
+      "title": "Department of State advises Americans worldwide to exercise increased caution",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html",
+      "points": 170,
+      "author": "supernova215",
+      "created_at": 1774227776,
+      "num_comments": 250,
+      "hn_url": "https://news.ycombinator.com/item?id=47484208"
+    },
+    {
+      "id": "47490648",
+      "title": "An incoherent Rust",
+      "url": "https://www.boxyuwu.blog/posts/an-incoherent-rust/",
+      "points": 169,
+      "author": "emschwartz",
+      "created_at": 1774278802,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=47490648"
     }
   ],
-  "last_updated": "2026-03-23T07:04:42.383886+00:00"
+  "last_updated": "2026-03-24T06:59:05.903599+00:00"
 }

@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 07:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 06:59:05 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[226 pts] Windows 3.1 tiled background .bmp archive</title>
+      <link>https://github.com/andreasjansson/win-3.1-backgrounds</link>
+      <description>&lt;p&gt;&lt;strong&gt;226 points&lt;/strong&gt; by justsomehnguy | &lt;strong&gt;62 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47496221&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47496221</guid>
+      <pubDate>Mon, 23 Mar 2026 22:52:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[305 pts] Claude Code Cheat Sheet</title>
+      <link>https://cc.storyfox.cz</link>
+      <description>&lt;p&gt;&lt;strong&gt;305 points&lt;/strong&gt; by phasE89 | &lt;strong&gt;98 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47495527&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47495527</guid>
+      <pubDate>Mon, 23 Mar 2026 21:44:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[286 pts] FCC updates covered list to include foreign-made consumer routers</title>
+      <link>https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers</link>
+      <description>&lt;p&gt;&lt;strong&gt;286 points&lt;/strong&gt; by moonka | &lt;strong&gt;190 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47495344&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47495344</guid>
+      <pubDate>Mon, 23 Mar 2026 21:28:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[173 pts] How I'm Productive with Claude Code</title>
+      <link>https://neilkakkar.com/productive-with-claude-code.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;173 points&lt;/strong&gt; by neilkakkar | &lt;strong&gt;103 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47494890&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47494890</guid>
+      <pubDate>Mon, 23 Mar 2026 20:49:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[174 pts] Bets on US-Iran ceasefire show signs of insider knowledge, say experts</title>
+      <link>https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket</link>
+      <description>&lt;p&gt;&lt;strong&gt;174 points&lt;/strong&gt; by trocado | &lt;strong&gt;165 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47494629&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47494629</guid>
+      <pubDate>Mon, 23 Mar 2026 20:25:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[185 pts] Local Stack Archived their GitHub repo and requires an account to run</title>
+      <link>https://github.com/localstack/localstack</link>
+      <description>&lt;p&gt;&lt;strong&gt;185 points&lt;/strong&gt; by ecshafer | &lt;strong&gt;105 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47493657&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47493657</guid>
+      <pubDate>Mon, 23 Mar 2026 18:57:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[336 pts] Autoresearch on an old research idea</title>
+      <link>https://ykumar.me/blog/eclip-autoresearch/</link>
+      <description>&lt;p&gt;&lt;strong&gt;336 points&lt;/strong&gt; by ykumards | &lt;strong&gt;72 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47493460&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47493460</guid>
+      <pubDate>Mon, 23 Mar 2026 18:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[394 pts] US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects</title>
+      <link>https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;394 points&lt;/strong&gt; by lode | &lt;strong&gt;312 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47492599&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47492599</guid>
+      <pubDate>Mon, 23 Mar 2026 17:35:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[178 pts] Is it a pint?</title>
+      <link>https://isitapint.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;178 points&lt;/strong&gt; by cainxinth | &lt;strong&gt;153 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47491496&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47491496</guid>
+      <pubDate>Mon, 23 Mar 2026 16:13:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[169 pts] An incoherent Rust</title>
+      <link>https://www.boxyuwu.blog/posts/an-incoherent-rust/</link>
+      <description>&lt;p&gt;&lt;strong&gt;169 points&lt;/strong&gt; by emschwartz | &lt;strong&gt;77 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47490648&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47490648</guid>
+      <pubDate>Mon, 23 Mar 2026 15:13:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[210 pts] If DSPy is so great, why isn't anyone using it?</title>
+      <link>https://skylarbpayne.com/posts/dspy-engineering-patterns/</link>
+      <description>&lt;p&gt;&lt;strong&gt;210 points&lt;/strong&gt; by sbpayne | &lt;strong&gt;118 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47490365&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47490365</guid>
+      <pubDate>Mon, 23 Mar 2026 14:52:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[565 pts] iPhone 17 Pro Demonstrated Running a 400B LLM</title>
+      <link>https://twitter.com/anemll/status/2035901335984611412</link>
+      <description>&lt;p&gt;&lt;strong&gt;565 points&lt;/strong&gt; by anemll | &lt;strong&gt;261 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47490070&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47490070</guid>
+      <pubDate>Mon, 23 Mar 2026 14:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[352 pts] Student beauty and grades under in-person and remote teaching</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016517652200283X</link>
+      <description>&lt;p&gt;&lt;strong&gt;352 points&lt;/strong&gt; by jdthedisciple | &lt;strong&gt;491 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47488015&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47488015</guid>
+      <pubDate>Mon, 23 Mar 2026 11:31:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[447 pts] GitHub appears to be struggling with measly three nines availability</title>
+      <link>https://www.theregister.com/2026/02/10/github_outages/</link>
+      <description>&lt;p&gt;&lt;strong&gt;447 points&lt;/strong&gt; by richtr | &lt;strong&gt;232 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47487584&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47487584</guid>
+      <pubDate>Mon, 23 Mar 2026 10:39:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[257 pts] I built an AI receptionist for a mechanic shop</title>
+      <link>https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/</link>
+      <description>&lt;p&gt;&lt;strong&gt;257 points&lt;/strong&gt; by mooreds | &lt;strong&gt;273 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47487536&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47487536</guid>
+      <pubDate>Mon, 23 Mar 2026 10:32:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[856 pts] Migrating to the EU</title>
+      <link>https://rz01.org/eu-migration/</link>
+      <description>&lt;p&gt;&lt;strong&gt;856 points&lt;/strong&gt; by exitnode | &lt;strong&gt;657 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47487436&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47487436</guid>
+      <pubDate>Mon, 23 Mar 2026 10:17:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[397 pts] POSSE – Publish on your Own Site, Syndicate Elsewhere</title>
+      <link>https://indieweb.org/POSSE</link>
+      <description>&lt;p&gt;&lt;strong&gt;397 points&lt;/strong&gt; by tosh | &lt;strong&gt;81 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47486726&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47486726</guid>
+      <pubDate>Mon, 23 Mar 2026 08:29:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[391 pts] Two pilots dead after plane and ground vehicle collide at LaGuardia</title>
+      <link>https://www.bbc.com/news/articles/cy01g522ww4o</link>
+      <description>&lt;p&gt;&lt;strong&gt;391 points&lt;/strong&gt; by mememememememo | &lt;strong&gt;599 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47486386&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47486386</guid>
+      <pubDate>Mon, 23 Mar 2026 07:24:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[329 pts] “Collaboration” is bullshit</title>
+      <link>https://www.joanwestenberg.com/collaboration-is-bullshit/</link>
+      <description>&lt;p&gt;&lt;strong&gt;329 points&lt;/strong&gt; by mitchbob | &lt;strong&gt;173 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47484519&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47484519</guid>
+      <pubDate>Mon, 23 Mar 2026 01:43:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[170 pts] Department of State advises Americans worldwide to exercise increased caution</title>
+      <link>https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;170 points&lt;/strong&gt; by supernova215 | &lt;strong&gt;250 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47484208&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47484208</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:56 +0000</pubDate>
+    </item>
     <item>
       <title>[341 pts] GrapheneOS will remain usable by anyone without requiring personal information</title>
       <link>https://grapheneos.social/@GrapheneOS/116261301913660830</link>
