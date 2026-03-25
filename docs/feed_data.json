@@ -9849,7 +9849,207 @@
       "created_at": 1774278802,
       "num_comments": 77,
       "hn_url": "https://news.ycombinator.com/item?id=47490648"
+    },
+    {
+      "id": "47500335",
+      "title": "Microsoft's \"fix\" for Windows 11",
+      "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+      "points": 959,
+      "author": "h0ek",
+      "created_at": 1774344989,
+      "num_comments": 698,
+      "hn_url": "https://news.ycombinator.com/item?id=47500335"
+    },
+    {
+      "id": "47507150",
+      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+      "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+      "points": 827,
+      "author": "felineflock",
+      "created_at": 1774377292,
+      "num_comments": 282,
+      "hn_url": "https://news.ycombinator.com/item?id=47507150"
+    },
+    {
+      "id": "47501729",
+      "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package \u2013 credential stealer",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "points": 723,
+      "author": "theanonymousone",
+      "created_at": 1774355780,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=47501729"
+    },
+    {
+      "id": "47508745",
+      "title": "Is anybody else bored of talking about AI?",
+      "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+      "points": 622,
+      "author": "jakelsaunders94",
+      "created_at": 1774384268,
+      "num_comments": 417,
+      "hn_url": "https://news.ycombinator.com/item?id=47508745"
+    },
+    {
+      "id": "47508246",
+      "title": "Goodbye to Sora",
+      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "points": 611,
+      "author": "mikeocool",
+      "created_at": 1774382465,
+      "num_comments": 439,
+      "hn_url": "https://news.ycombinator.com/item?id=47508246"
+    },
+    {
+      "id": "47501426",
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "points": 604,
+      "author": "dot_treo",
+      "created_at": 1774353989,
+      "num_comments": 406,
+      "hn_url": "https://news.ycombinator.com/item?id=47501426"
+    },
+    {
+      "id": "47504112",
+      "title": "Apple Business",
+      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+      "points": 593,
+      "author": "soheilpro",
+      "created_at": 1774366181,
+      "num_comments": 345,
+      "hn_url": "https://news.ycombinator.com/item?id=47504112"
+    },
+    {
+      "id": "47504060",
+      "title": "Mystery jump in oil trading ahead of Trump post draws scrutiny",
+      "url": "https://www.bbc.com/news/articles/cg547ljepvzo",
+      "points": 476,
+      "author": "psim1",
+      "created_at": 1774365952,
+      "num_comments": 310,
+      "hn_url": "https://news.ycombinator.com/item?id=47504060"
+    },
+    {
+      "id": "47497757",
+      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "points": 440,
+      "author": "in-silico",
+      "created_at": 1774317189,
+      "num_comments": 643,
+      "hn_url": "https://news.ycombinator.com/item?id=47497757"
+    },
+    {
+      "id": "47503006",
+      "title": "So where are all the AI apps?",
+      "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+      "points": 389,
+      "author": "tanelpoder",
+      "created_at": 1774361999,
+      "num_comments": 363,
+      "hn_url": "https://news.ycombinator.com/item?id=47503006"
+    },
+    {
+      "id": "47503965",
+      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+      "points": 357,
+      "author": "m_fayer",
+      "created_at": 1774365559,
+      "num_comments": 283,
+      "hn_url": "https://news.ycombinator.com/item?id=47503965"
+    },
+    {
+      "id": "47508608",
+      "title": "GitHub is once again down",
+      "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+      "points": 354,
+      "author": "MattIPv4",
+      "created_at": 1774383814,
+      "num_comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=47508608"
+    },
+    {
+      "id": "47499245",
+      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+      "url": "https://burntsushi.net/ripgrep/",
+      "points": 351,
+      "author": "jxmorris12",
+      "created_at": 1774333899,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=47499245"
+    },
+    {
+      "id": "47506713",
+      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+      "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+      "points": 328,
+      "author": "Heff",
+      "created_at": 1774375428,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=47506713"
+    },
+    {
+      "id": "47506251",
+      "title": "Arm AGI CPU",
+      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+      "points": 320,
+      "author": "RealityVoid",
+      "created_at": 1774373442,
+      "num_comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=47506251"
+    },
+    {
+      "id": "47503810",
+      "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
+      "url": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
+      "points": 313,
+      "author": "doughnutstracks",
+      "created_at": 1774364970,
+      "num_comments": 480,
+      "hn_url": "https://news.ycombinator.com/item?id=47503810"
+    },
+    {
+      "id": "47501950",
+      "title": "Missile defense is NP-complete",
+      "url": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
+      "points": 312,
+      "author": "O3marchnative",
+      "created_at": 1774357238,
+      "num_comments": 312,
+      "hn_url": "https://news.ycombinator.com/item?id=47501950"
+    },
+    {
+      "id": "47503617",
+      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+      "url": "https://github.com/ssrajadh/sentrysearch",
+      "points": 300,
+      "author": "sohamrj",
+      "created_at": 1774364307,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=47503617"
+    },
+    {
+      "id": "47498924",
+      "title": "Log File Viewer for the Terminal",
+      "url": "https://lnav.org/",
+      "points": 296,
+      "author": "wiradikusuma",
+      "created_at": 1774330373,
+      "num_comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=47498924"
+    },
+    {
+      "id": "47505144",
+      "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
+      "url": "https://www.emailmd.dev/",
+      "points": 261,
+      "author": "dancablam",
+      "created_at": 1774369560,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=47505144"
     }
   ],
-  "last_updated": "2026-03-24T06:59:05.903599+00:00"
+  "last_updated": "2026-03-25T06:57:38.614554+00:00"
 }
