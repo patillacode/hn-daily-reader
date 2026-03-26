@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 06:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:02:22 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[537 pts] Running Tesla Model 3's computer on my desk using parts from crashed cars</title>
+      <link>https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/</link>
+      <description>&lt;p&gt;&lt;strong&gt;537 points&lt;/strong&gt; by driesdep | &lt;strong&gt;158 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47523330&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47523330</guid>
+      <pubDate>Wed, 25 Mar 2026 21:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[950 pts] The EU still wants to scan  your private messages and photos</title>
+      <link>https://fightchatcontrol.eu/?foo=bar</link>
+      <description>&lt;p&gt;&lt;strong&gt;950 points&lt;/strong&gt; by MrBruh | &lt;strong&gt;257 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47522709&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47522709</guid>
+      <pubDate>Wed, 25 Mar 2026 20:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[360 pts] Apple randomly closes bug reports unless you &quot;verify&quot; the bug remains unfixed</title>
+      <link>https://lapcatsoftware.com/articles/2026/3/11.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;360 points&lt;/strong&gt; by zdw | &lt;strong&gt;200 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47521876&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47521876</guid>
+      <pubDate>Wed, 25 Mar 2026 19:14:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[285 pts] Updates to GitHub Copilot interaction data usage policy</title>
+      <link>https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/</link>
+      <description>&lt;p&gt;&lt;strong&gt;285 points&lt;/strong&gt; by prefork | &lt;strong&gt;131 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47521799&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47521799</guid>
+      <pubDate>Wed, 25 Mar 2026 19:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[245 pts] 90% of Claude-linked output going to GitHub repos w &lt;2 stars</title>
+      <link>https://www.claudescode.dev/?window=since_launch</link>
+      <description>&lt;p&gt;&lt;strong&gt;245 points&lt;/strong&gt; by louiereederson | &lt;strong&gt;148 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47521157&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47521157</guid>
+      <pubDate>Wed, 25 Mar 2026 18:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[352 pts] ARC-AGI-3</title>
+      <link>https://arcprize.org/arc-agi/3</link>
+      <description>&lt;p&gt;&lt;strong&gt;352 points&lt;/strong&gt; by lairv | &lt;strong&gt;225 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47521150&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47521150</guid>
+      <pubDate>Wed, 25 Mar 2026 18:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[441 pts] Meta and YouTube found negligent in landmark social media addiction case</title>
+      <link>https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;441 points&lt;/strong&gt; by mrjaeger | &lt;strong&gt;212 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47520505&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47520505</guid>
+      <pubDate>Wed, 25 Mar 2026 17:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[276 pts] Jury says Meta knowingly harmed children for profit, awarding landmark verdict</title>
+      <link>https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict</link>
+      <description>&lt;p&gt;&lt;strong&gt;276 points&lt;/strong&gt; by 1vuio0pswjnm7 | &lt;strong&gt;2 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47519625&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47519625</guid>
+      <pubDate>Wed, 25 Mar 2026 16:31:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[567 pts] Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote</title>
+      <link>https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a</link>
+      <description>&lt;p&gt;&lt;strong&gt;567 points&lt;/strong&gt; by cramsession | &lt;strong&gt;243 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47519519&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47519519</guid>
+      <pubDate>Wed, 25 Mar 2026 16:24:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[328 pts] Supreme Court Sides with Cox in Copyright Fight over Pirated Music</title>
+      <link>https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;328 points&lt;/strong&gt; by oj2828 | &lt;strong&gt;257 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47518281&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47518281</guid>
+      <pubDate>Wed, 25 Mar 2026 15:02:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[382 pts] Antimatter has been transported for the first time</title>
+      <link>https://www.nature.com/articles/d41586-026-00950-w</link>
+      <description>&lt;p&gt;&lt;strong&gt;382 points&lt;/strong&gt; by leephillips | &lt;strong&gt;173 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47518171&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47518171</guid>
+      <pubDate>Wed, 25 Mar 2026 14:56:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[446 pts] Apple Just Lost Me</title>
+      <link>https://andregarzia.com/2026/03/apple-just-lost-me.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;446 points&lt;/strong&gt; by syx | &lt;strong&gt;428 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47517701&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47517701</guid>
+      <pubDate>Wed, 25 Mar 2026 14:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[784 pts] Thoughts on slowing the fuck down</title>
+      <link>https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/</link>
+      <description>&lt;p&gt;&lt;strong&gt;784 points&lt;/strong&gt; by jdkoeck | &lt;strong&gt;371 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47517539&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47517539</guid>
+      <pubDate>Wed, 25 Mar 2026 14:07:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[349 pts] Ensu – Ente’s Local LLM app</title>
+      <link>https://ente.com/blog/ensu/</link>
+      <description>&lt;p&gt;&lt;strong&gt;349 points&lt;/strong&gt; by matthiaswh | &lt;strong&gt;159 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47516650&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47516650</guid>
+      <pubDate>Wed, 25 Mar 2026 12:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[421 pts] Meta told to pay $375M for misleading users over child safety</title>
+      <link>https://www.bbc.com/news/articles/cql75dn07n2o</link>
+      <description>&lt;p&gt;&lt;strong&gt;421 points&lt;/strong&gt; by testrun | &lt;strong&gt;2 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47514916&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47514916</guid>
+      <pubDate>Wed, 25 Mar 2026 08:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[513 pts] TurboQuant: Redefining AI efficiency with extreme compression</title>
+      <link>https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/</link>
+      <description>&lt;p&gt;&lt;strong&gt;513 points&lt;/strong&gt; by ray__ | &lt;strong&gt;143 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47513475&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47513475</guid>
+      <pubDate>Wed, 25 Mar 2026 05:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[512 pts] Miscellanea: The War in Iran</title>
+      <link>https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/</link>
+      <description>&lt;p&gt;&lt;strong&gt;512 points&lt;/strong&gt; by decimalenough | &lt;strong&gt;718 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47513229&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47513229</guid>
+      <pubDate>Wed, 25 Mar 2026 04:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[349 pts] VitruvianOS – Desktop Linux Inspired by the BeOS</title>
+      <link>https://v-os.dev</link>
+      <description>&lt;p&gt;&lt;strong&gt;349 points&lt;/strong&gt; by felixding | &lt;strong&gt;212 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47512816&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47512816</guid>
+      <pubDate>Wed, 25 Mar 2026 03:17:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[312 pts] Data centers are transitioning from AC to DC</title>
+      <link>https://spectrum.ieee.org/data-center-dc</link>
+      <description>&lt;p&gt;&lt;strong&gt;312 points&lt;/strong&gt; by jnord | &lt;strong&gt;382 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47511703&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47511703</guid>
+      <pubDate>Wed, 25 Mar 2026 00:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[545 pts] Flighty Airports</title>
+      <link>https://flighty.com/airports</link>
+      <description>&lt;p&gt;&lt;strong&gt;545 points&lt;/strong&gt; by skogstokig | &lt;strong&gt;179 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47511589&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47511589</guid>
+      <pubDate>Wed, 25 Mar 2026 00:29:45 +0000</pubDate>
+    </item>
     <item>
       <title>[622 pts] Is anybody else bored of talking about AI?</title>
       <link>https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/</link>

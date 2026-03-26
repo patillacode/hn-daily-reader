@@ -10049,7 +10049,207 @@
       "created_at": 1774369560,
       "num_comments": 60,
       "hn_url": "https://news.ycombinator.com/item?id=47505144"
+    },
+    {
+      "id": "47522709",
+      "title": "The EU still wants to scan  your private messages and photos",
+      "url": "https://fightchatcontrol.eu/?foo=bar",
+      "points": 950,
+      "author": "MrBruh",
+      "created_at": 1774470423,
+      "num_comments": 257,
+      "hn_url": "https://news.ycombinator.com/item?id=47522709"
+    },
+    {
+      "id": "47517539",
+      "title": "Thoughts on slowing the fuck down",
+      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "points": 784,
+      "author": "jdkoeck",
+      "created_at": 1774447634,
+      "num_comments": 371,
+      "hn_url": "https://news.ycombinator.com/item?id=47517539"
+    },
+    {
+      "id": "47519519",
+      "title": "Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote",
+      "url": "https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a",
+      "points": 567,
+      "author": "cramsession",
+      "created_at": 1774455855,
+      "num_comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=47519519"
+    },
+    {
+      "id": "47511589",
+      "title": "Flighty Airports",
+      "url": "https://flighty.com/airports",
+      "points": 545,
+      "author": "skogstokig",
+      "created_at": 1774398585,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=47511589"
+    },
+    {
+      "id": "47523330",
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "points": 537,
+      "author": "driesdep",
+      "created_at": 1774473117,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=47523330"
+    },
+    {
+      "id": "47513475",
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "points": 513,
+      "author": "ray__",
+      "created_at": 1774414854,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=47513475"
+    },
+    {
+      "id": "47513229",
+      "title": "Miscellanea: The War in Iran",
+      "url": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
+      "points": 512,
+      "author": "decimalenough",
+      "created_at": 1774412834,
+      "num_comments": 718,
+      "hn_url": "https://news.ycombinator.com/item?id=47513229"
+    },
+    {
+      "id": "47517701",
+      "title": "Apple Just Lost Me",
+      "url": "https://andregarzia.com/2026/03/apple-just-lost-me.html",
+      "points": 446,
+      "author": "syx",
+      "created_at": 1774448424,
+      "num_comments": 428,
+      "hn_url": "https://news.ycombinator.com/item?id=47517701"
+    },
+    {
+      "id": "47520505",
+      "title": "Meta and YouTube found negligent in landmark social media addiction case",
+      "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+      "points": 441,
+      "author": "mrjaeger",
+      "created_at": 1774459773,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=47520505"
+    },
+    {
+      "id": "47514916",
+      "title": "Meta told to pay $375M for misleading users over child safety",
+      "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
+      "points": 421,
+      "author": "testrun",
+      "created_at": 1774428770,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=47514916"
+    },
+    {
+      "id": "47518171",
+      "title": "Antimatter has been transported for the first time",
+      "url": "https://www.nature.com/articles/d41586-026-00950-w",
+      "points": 382,
+      "author": "leephillips",
+      "created_at": 1774450588,
+      "num_comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=47518171"
+    },
+    {
+      "id": "47521876",
+      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+      "points": 360,
+      "author": "zdw",
+      "created_at": 1774466082,
+      "num_comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=47521876"
+    },
+    {
+      "id": "47521150",
+      "title": "ARC-AGI-3",
+      "url": "https://arcprize.org/arc-agi/3",
+      "points": 352,
+      "author": "lairv",
+      "created_at": 1774462563,
+      "num_comments": 225,
+      "hn_url": "https://news.ycombinator.com/item?id=47521150"
+    },
+    {
+      "id": "47512816",
+      "title": "VitruvianOS \u2013 Desktop Linux Inspired by the BeOS",
+      "url": "https://v-os.dev",
+      "points": 349,
+      "author": "felixding",
+      "created_at": 1774408626,
+      "num_comments": 212,
+      "hn_url": "https://news.ycombinator.com/item?id=47512816"
+    },
+    {
+      "id": "47516650",
+      "title": "Ensu \u2013 Ente\u2019s Local LLM app",
+      "url": "https://ente.com/blog/ensu/",
+      "points": 349,
+      "author": "matthiaswh",
+      "created_at": 1774442954,
+      "num_comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=47516650"
+    },
+    {
+      "id": "47518281",
+      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+      "points": 328,
+      "author": "oj2828",
+      "created_at": 1774450976,
+      "num_comments": 257,
+      "hn_url": "https://news.ycombinator.com/item?id=47518281"
+    },
+    {
+      "id": "47511703",
+      "title": "Data centers are transitioning from AC to DC",
+      "url": "https://spectrum.ieee.org/data-center-dc",
+      "points": 312,
+      "author": "jnord",
+      "created_at": 1774399495,
+      "num_comments": 382,
+      "hn_url": "https://news.ycombinator.com/item?id=47511703"
+    },
+    {
+      "id": "47521799",
+      "title": "Updates to GitHub Copilot interaction data usage policy",
+      "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+      "points": 285,
+      "author": "prefork",
+      "created_at": 1774465756,
+      "num_comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=47521799"
+    },
+    {
+      "id": "47519625",
+      "title": "Jury says Meta knowingly harmed children for profit, awarding landmark verdict",
+      "url": "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict",
+      "points": 276,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1774456275,
+      "num_comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=47519625"
+    },
+    {
+      "id": "47521157",
+      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+      "url": "https://www.claudescode.dev/?window=since_launch",
+      "points": 245,
+      "author": "louiereederson",
+      "created_at": 1774462600,
+      "num_comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=47521157"
     }
   ],
-  "last_updated": "2026-03-25T06:57:38.614554+00:00"
+  "last_updated": "2026-03-26T07:02:22.066219+00:00"
 }
