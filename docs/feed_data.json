@@ -10249,7 +10249,207 @@
       "created_at": 1774462600,
       "num_comments": 148,
       "hn_url": "https://news.ycombinator.com/item?id=47521157"
+    },
+    {
+      "id": "47534848",
+      "title": "We haven't seen the worst of what gambling and prediction markets will do",
+      "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
+      "points": 672,
+      "author": "mmcclure",
+      "created_at": 1774554485,
+      "num_comments": 476,
+      "hn_url": "https://news.ycombinator.com/item?id=47534848"
+    },
+    {
+      "id": "47529609",
+      "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
+      "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
+      "points": 591,
+      "author": "amarcheschi",
+      "created_at": 1774527876,
+      "num_comments": 276,
+      "hn_url": "https://news.ycombinator.com/item?id=47529609"
+    },
+    {
+      "id": "47530330",
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "points": 572,
+      "author": "jslakro",
+      "created_at": 1774532305,
+      "num_comments": 292,
+      "hn_url": "https://news.ycombinator.com/item?id=47530330"
+    },
+    {
+      "id": "47525243",
+      "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
+      "url": "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/",
+      "points": 568,
+      "author": "zdw",
+      "created_at": 1774484918,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=47525243"
+    },
+    {
+      "id": "47529646",
+      "title": "European Parliament decided that Chat Control 1.0 must stop",
+      "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+      "points": 552,
+      "author": "lemoncookiechip",
+      "created_at": 1774528259,
+      "num_comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=47529646"
+    },
+    {
+      "id": "47537228",
+      "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "points": 356,
+      "author": "prawn",
+      "created_at": 1774568033,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=47537228"
+    },
+    {
+      "id": "47531967",
+      "title": "My minute-by-minute response to the LiteLLM malware attack",
+      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+      "points": 346,
+      "author": "Fibonar",
+      "created_at": 1774540120,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=47531967"
+    },
+    {
+      "id": "47525378",
+      "title": "False claims in a widely-cited paper",
+      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+      "points": 330,
+      "author": "qsi",
+      "created_at": 1774485991,
+      "num_comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=47525378"
+    },
+    {
+      "id": "47527590",
+      "title": "Swift 6.3",
+      "url": "https://www.swift.org/blog/swift-6.3-released/",
+      "points": 313,
+      "author": "ingve",
+      "created_at": 1774510031,
+      "num_comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=47527590"
+    },
+    {
+      "id": "47529534",
+      "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
+      "url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
+      "points": 298,
+      "author": "1vuio0pswjnm7",
+      "created_at": 1774527333,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=47529534"
+    },
+    {
+      "id": "47535371",
+      "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+      "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+      "points": 285,
+      "author": "chrisjj",
+      "created_at": 1774557304,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=47535371"
+    },
+    {
+      "id": "47530945",
+      "title": "Olympic Committee bars transgender athletes from women\u2019s events",
+      "url": "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html?unlocked_article_code=1.WFA.U8U0.iEs61HsUkQj5",
+      "points": 280,
+      "author": "RestlessMind",
+      "created_at": 1774535554,
+      "num_comments": 662,
+      "hn_url": "https://news.ycombinator.com/item?id=47530945"
+    },
+    {
+      "id": "47535708",
+      "title": "Apple discontinues the Mac Pro",
+      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+      "points": 273,
+      "author": "bentocorp",
+      "created_at": 1774559090,
+      "num_comments": 210,
+      "hn_url": "https://news.ycombinator.com/item?id=47535708"
+    },
+    {
+      "id": "47527130",
+      "title": "Government agencies buy commercial data about Americans in bulk",
+      "url": "https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic",
+      "points": 256,
+      "author": "nuke-web3",
+      "created_at": 1774505461,
+      "num_comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=47527130"
+    },
+    {
+      "id": "47534086",
+      "title": "John Bradley, author of xv, has died",
+      "url": "https://voxday.net/2026/03/25/rip-john-bradley/",
+      "points": 252,
+      "author": "linsomniac",
+      "created_at": 1774550330,
+      "num_comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=47534086"
+    },
+    {
+      "id": "47526478",
+      "title": "Obsolete Sounds",
+      "url": "https://citiesandmemory.com/obsolete-sounds/",
+      "points": 218,
+      "author": "benbreen",
+      "created_at": 1774497267,
+      "num_comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=47526478"
+    },
+    {
+      "id": "47534629",
+      "title": "CERN to host a new phase of Open Research Europe",
+      "url": "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform",
+      "points": 215,
+      "author": "JohnHammersley",
+      "created_at": 1774553435,
+      "num_comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=47534629"
+    },
+    {
+      "id": "47528605",
+      "title": "LibreOffice and the art of overreacting",
+      "url": "https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/",
+      "points": 205,
+      "author": "bundie",
+      "created_at": 1774520018,
+      "num_comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=47528605"
+    },
+    {
+      "id": "47530264",
+      "title": "AI users whose lives were wrecked by delusion",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion",
+      "points": 199,
+      "author": "tim333",
+      "created_at": 1774531943,
+      "num_comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=47530264"
+    },
+    {
+      "id": "47536761",
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "points": 193,
+      "author": "j0rg3",
+      "created_at": 1774564885,
+      "num_comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=47536761"
     }
   ],
-  "last_updated": "2026-03-26T07:02:22.066219+00:00"
+  "last_updated": "2026-03-27T07:01:46.079682+00:00"
 }
