@@ -10449,7 +10449,207 @@
       "created_at": 1774564885,
       "num_comments": 63,
       "hn_url": "https://news.ycombinator.com/item?id=47536761"
+    },
+    {
+      "id": "47548243",
+      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+      "url": "https://news.ycombinator.com/item?id=47548243",
+      "points": 653,
+      "author": "vmg12",
+      "created_at": 1774645491,
+      "num_comments": 291,
+      "hn_url": "https://news.ycombinator.com/item?id=47548243"
+    },
+    {
+      "id": "47542695",
+      "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
+      "points": 605,
+      "author": "breve",
+      "created_at": 1774619675,
+      "num_comments": 439,
+      "hn_url": "https://news.ycombinator.com/item?id=47542695"
+    },
+    {
+      "id": "47540833",
+      "title": "Hold on to Your Hardware",
+      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+      "points": 603,
+      "author": "LucidLynx",
+      "created_at": 1774606241,
+      "num_comments": 479,
+      "hn_url": "https://news.ycombinator.com/item?id=47540833"
+    },
+    {
+      "id": "47542057",
+      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
+      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+      "points": 536,
+      "author": "robin_reala",
+      "created_at": 1774615609,
+      "num_comments": 434,
+      "hn_url": "https://news.ycombinator.com/item?id=47542057"
+    },
+    {
+      "id": "47543139",
+      "title": "Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "points": 449,
+      "author": "freedomben",
+      "created_at": 1774622145,
+      "num_comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=47543139"
+    },
+    {
+      "id": "47543943",
+      "title": "Desk for people who work at home with a cat",
+      "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
+      "points": 381,
+      "author": "zdw",
+      "created_at": 1774625480,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=47543943"
+    },
+    {
+      "id": "47539825",
+      "title": "A Faster Alternative to Jq",
+      "url": "https://micahkepe.com/blog/jsongrep/",
+      "points": 375,
+      "author": "pistolario",
+      "created_at": 1774595546,
+      "num_comments": 235,
+      "hn_url": "https://news.ycombinator.com/item?id=47539825"
+    },
+    {
+      "id": "47547009",
+      "title": "Make macOS consistently bad unironically",
+      "url": "https://lr0.org/blog/p/macos/",
+      "points": 370,
+      "author": "speckx",
+      "created_at": 1774638919,
+      "num_comments": 252,
+      "hn_url": "https://news.ycombinator.com/item?id=47547009"
+    },
+    {
+      "id": "47544980",
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "points": 354,
+      "author": "cptroot",
+      "created_at": 1774629572,
+      "num_comments": 315,
+      "hn_url": "https://news.ycombinator.com/item?id=47544980"
+    },
+    {
+      "id": "47539188",
+      "title": "Schedule tasks on the web",
+      "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+      "points": 285,
+      "author": "iBelieve",
+      "created_at": 1774586835,
+      "num_comments": 235,
+      "hn_url": "https://news.ycombinator.com/item?id=47539188"
+    },
+    {
+      "id": "47540383",
+      "title": "\u2018Energy independence feels practical\u2019: Europeans building mini solar farms",
+      "url": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho",
+      "points": 261,
+      "author": "vrganj",
+      "created_at": 1774601743,
+      "num_comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=47540383"
+    },
+    {
+      "id": "47548670",
+      "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
+      "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+      "points": 250,
+      "author": "sebastian_z",
+      "created_at": 1774647701,
+      "num_comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=47548670"
+    },
+    {
+      "id": "47543204",
+      "title": "Meow.camera",
+      "url": "https://meow.camera/#4258783365322591678",
+      "points": 235,
+      "author": "surprisetalk",
+      "created_at": 1774622462,
+      "num_comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=47543204"
+    },
+    {
+      "id": "47543167",
+      "title": "Iran-linked hackers breach FBI director's personal email",
+      "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+      "points": 211,
+      "author": "m-hodges",
+      "created_at": 1774622308,
+      "num_comments": 326,
+      "hn_url": "https://news.ycombinator.com/item?id=47543167"
+    },
+    {
+      "id": "47542644",
+      "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
+      "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
+      "points": 209,
+      "author": "8organicbits",
+      "created_at": 1774619391,
+      "num_comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=47542644"
+    },
+    {
+      "id": "47548087",
+      "title": "Slovenia becomes first EU country to introduce fuel rationing",
+      "url": "https://www.bbc.com/news/articles/c77m4zx6zvmo",
+      "points": 169,
+      "author": "measurablefunc",
+      "created_at": 1774644663,
+      "num_comments": 264,
+      "hn_url": "https://news.ycombinator.com/item?id=47548087"
+    },
+    {
+      "id": "47545032",
+      "title": "Iran-linked hackers have breached FBI director's personal emails",
+      "url": "https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel",
+      "points": 153,
+      "author": "vrganj",
+      "created_at": 1774629722,
+      "num_comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=47545032"
+    },
+    {
+      "id": "47543201",
+      "title": "Last gasps of the rent seeking class?",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html",
+      "points": 147,
+      "author": "surprisetalk",
+      "created_at": 1774622457,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=47543201"
+    },
+    {
+      "id": "47547508",
+      "title": "ISBN Visualization",
+      "url": "https://annas-archive.gd/isbn-visualization?",
+      "points": 142,
+      "author": "Cider9986",
+      "created_at": 1774641725,
+      "num_comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=47547508"
+    },
+    {
+      "id": "47542722",
+      "title": "Hong Kong police can now demand phone passwords under new security rules",
+      "url": "https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules",
+      "points": 134,
+      "author": "vidyesh",
+      "created_at": 1774619856,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=47542722"
     }
   ],
-  "last_updated": "2026-03-27T07:01:46.079682+00:00"
+  "last_updated": "2026-03-28T06:54:15.567605+00:00"
 }
