@@ -10649,7 +10649,207 @@
       "created_at": 1774619856,
       "num_comments": 154,
       "hn_url": "https://news.ycombinator.com/item?id=47542722"
+    },
+    {
+      "id": "47556729",
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "points": 890,
+      "author": "bob_theslob646",
+      "created_at": 1774719589,
+      "num_comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=47556729"
+    },
+    {
+      "id": "47553798",
+      "title": "Spanish legislation as a Git repo",
+      "url": "https://github.com/EnriqueLop/legalize-es",
+      "points": 715,
+      "author": "enriquelop",
+      "created_at": 1774699287,
+      "num_comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=47553798"
+    },
+    {
+      "id": "47554773",
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "points": 598,
+      "author": "oldfrenchfries",
+      "created_at": 1774706913,
+      "num_comments": 451,
+      "hn_url": "https://news.ycombinator.com/item?id=47554773"
+    },
+    {
+      "id": "47550282",
+      "title": "Go hard on agents, not on your filesystem",
+      "url": "https://jai.scs.stanford.edu/",
+      "points": 590,
+      "author": "mazieres",
+      "created_at": 1774658394,
+      "num_comments": 312,
+      "hn_url": "https://news.ycombinator.com/item?id=47550282"
+    },
+    {
+      "id": "47555556",
+      "title": "I decompiled the White House's new app",
+      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "points": 475,
+      "author": "amarcheschi",
+      "created_at": 1774712237,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=47555556"
+    },
+    {
+      "id": "47553484",
+      "title": "Britain today generating 90%+ of electricity from renewables",
+      "url": "https://grid.iamkate.com/",
+      "points": 388,
+      "author": "rwmj",
+      "created_at": 1774696004,
+      "num_comments": 269,
+      "hn_url": "https://news.ycombinator.com/item?id=47553484"
+    },
+    {
+      "id": "47553717",
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "points": 379,
+      "author": "msephton",
+      "created_at": 1774698568,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=47553717"
+    },
+    {
+      "id": "47552562",
+      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "points": 309,
+      "author": "TORcicada",
+      "created_at": 1774685179,
+      "num_comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=47552562"
+    },
+    {
+      "id": "47553185",
+      "title": "Cocoa-Way \u2013 Native macOS Wayland compositor for running Linux apps seamlessly",
+      "url": "https://github.com/J-x-Z/cocoa-way",
+      "points": 307,
+      "author": "OJFord",
+      "created_at": 1774692373,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=47553185"
+    },
+    {
+      "id": "47550878",
+      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+      "points": 303,
+      "author": "zdw",
+      "created_at": 1774664224,
+      "num_comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=47550878"
+    },
+    {
+      "id": "47557960",
+      "title": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "points": 273,
+      "author": "msephton",
+      "created_at": 1774730341,
+      "num_comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=47557960"
+    },
+    {
+      "id": "47558997",
+      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+      "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+      "points": 269,
+      "author": "_____k",
+      "created_at": 1774740544,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=47558997"
+    },
+    {
+      "id": "47555090",
+      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+      "points": 265,
+      "author": "Brajeshwar",
+      "created_at": 1774709365,
+      "num_comments": 210,
+      "hn_url": "https://news.ycombinator.com/item?id=47555090"
+    },
+    {
+      "id": "47557166",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "points": 189,
+      "author": "mean_mistreater",
+      "created_at": 1774723139,
+      "num_comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=47557166"
+    },
+    {
+      "id": "47556359",
+      "title": "Linux is an interpreter",
+      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "points": 188,
+      "author": "frizlab",
+      "created_at": 1774717174,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=47556359"
+    },
+    {
+      "id": "47557185",
+      "title": "The first 40 months of the AI era",
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "points": 160,
+      "author": "jpmitchell",
+      "created_at": 1774723328,
+      "num_comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=47557185"
+    },
+    {
+      "id": "47550726",
+      "title": "Fear and denial in Silicon Valley over social media addiction trial",
+      "url": "https://www.bbc.com/news/articles/c86e3eglv2go",
+      "points": 158,
+      "author": "1659447091",
+      "created_at": 1774662619,
+      "num_comments": 213,
+      "hn_url": "https://news.ycombinator.com/item?id=47550726"
+    },
+    {
+      "id": "47558372",
+      "title": "Private equity turned vulnerable elderly people into human ATMs",
+      "url": "https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms",
+      "points": 143,
+      "author": "mordechai9000",
+      "created_at": 1774734180,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=47558372"
+    },
+    {
+      "id": "47553403",
+      "title": "Treason in the Futures Markets",
+      "url": "https://paulkrugman.substack.com/p/treason-in-the-futures-markets",
+      "points": 131,
+      "author": "Gasp0de",
+      "created_at": 1774694984,
+      "num_comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=47553403"
+    },
+    {
+      "id": "47557064",
+      "title": "OpenCiv1 \u2013 open-source rewrite of Civ1",
+      "url": "https://github.com/rajko-horvat/OpenCiv1",
+      "points": 128,
+      "author": "caminanteblanco",
+      "created_at": 1774722165,
+      "num_comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=47557064"
     }
   ],
-  "last_updated": "2026-03-28T06:54:15.567605+00:00"
+  "last_updated": "2026-03-29T06:58:19.267662+00:00"
 }
