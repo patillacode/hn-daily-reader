@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 07:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:07:18 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[232 pts] Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?</title>
+      <link>https://30u30.fyi</link>
+      <description>&lt;p&gt;&lt;strong&gt;232 points&lt;/strong&gt; by not-chatgpt | &lt;strong&gt;98 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47580350&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47580350</guid>
+      <pubDate>Mon, 30 Mar 2026 22:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[221 pts] Android Developer Verification</title>
+      <link>https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;221 points&lt;/strong&gt; by ingve | &lt;strong&gt;213 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47580297&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47580297</guid>
+      <pubDate>Mon, 30 Mar 2026 22:05:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[222 pts] Learn Claude Code by doing, not reading</title>
+      <link>https://claude.nagdy.me/</link>
+      <description>&lt;p&gt;&lt;strong&gt;222 points&lt;/strong&gt; by taubek | &lt;strong&gt;100 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47579229&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47579229</guid>
+      <pubDate>Mon, 30 Mar 2026 20:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[287 pts] Turning a MacBook into a touchscreen with $1 of hardware (2018)</title>
+      <link>https://anishathalye.com/macbook-touchscreen/</link>
+      <description>&lt;p&gt;&lt;strong&gt;287 points&lt;/strong&gt; by HughParry | &lt;strong&gt;132 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47578572&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47578572</guid>
+      <pubDate>Mon, 30 Mar 2026 19:22:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[530 pts] Fedware: Government apps that spy harder than the apps they ban</title>
+      <link>https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/</link>
+      <description>&lt;p&gt;&lt;strong&gt;530 points&lt;/strong&gt; by speckx | &lt;strong&gt;169 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47577761&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47577761</guid>
+      <pubDate>Mon, 30 Mar 2026 18:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[316 pts] New Washington state law bans noncompete agreements</title>
+      <link>https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/</link>
+      <description>&lt;p&gt;&lt;strong&gt;316 points&lt;/strong&gt; by toomuchtodo | &lt;strong&gt;116 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47576861&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47576861</guid>
+      <pubDate>Mon, 30 Mar 2026 17:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[285 pts] FTC action against Match and OkCupid for deceiving users, sharing personal data</title>
+      <link>https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party</link>
+      <description>&lt;p&gt;&lt;strong&gt;285 points&lt;/strong&gt; by gnabgib | &lt;strong&gt;137 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47575616&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47575616</guid>
+      <pubDate>Mon, 30 Mar 2026 15:32:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[389 pts] CodingFont: A game to help you pick a coding font</title>
+      <link>https://www.codingfont.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;389 points&lt;/strong&gt; by nvahalik | &lt;strong&gt;194 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47575403&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47575403</guid>
+      <pubDate>Mon, 30 Mar 2026 15:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[340 pts] 1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot</title>
+      <link>https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/</link>
+      <description>&lt;p&gt;&lt;strong&gt;340 points&lt;/strong&gt; by bundie | &lt;strong&gt;10 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47575212&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47575212</guid>
+      <pubDate>Mon, 30 Mar 2026 15:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[653 pts] How to turn anything into a router</title>
+      <link>https://nbailey.ca/post/router/</link>
+      <description>&lt;p&gt;&lt;strong&gt;653 points&lt;/strong&gt; by yabones | &lt;strong&gt;228 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47574034&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47574034</guid>
+      <pubDate>Mon, 30 Mar 2026 13:28:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[313 pts] Bird brains (2023)</title>
+      <link>https://www.dhanishsemar.com/writing/bird-brains</link>
+      <description>&lt;p&gt;&lt;strong&gt;313 points&lt;/strong&gt; by DiffTheEnder | &lt;strong&gt;195 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47573887&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47573887</guid>
+      <pubDate>Mon, 30 Mar 2026 13:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[479 pts] Do your own writing</title>
+      <link>https://alexhwoods.com/dont-let-ai-write-for-you/</link>
+      <description>&lt;p&gt;&lt;strong&gt;479 points&lt;/strong&gt; by karimf | &lt;strong&gt;176 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47573519&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47573519</guid>
+      <pubDate>Mon, 30 Mar 2026 12:39:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[357 pts] How the AI Bubble Bursts</title>
+      <link>https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/</link>
+      <description>&lt;p&gt;&lt;strong&gt;357 points&lt;/strong&gt; by martinvol | &lt;strong&gt;486 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47573420&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47573420</guid>
+      <pubDate>Mon, 30 Mar 2026 12:28:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[275 pts] I use Excalidraw to manage my diagrams for my blog</title>
+      <link>https://blog.lysk.tech/excalidraw-frame-export/</link>
+      <description>&lt;p&gt;&lt;strong&gt;275 points&lt;/strong&gt; by mlysk | &lt;strong&gt;111 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47571376&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47571376</guid>
+      <pubDate>Mon, 30 Mar 2026 07:17:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[303 pts] I am definitely missing the pre-AI writing era</title>
+      <link>https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era</link>
+      <description>&lt;p&gt;&lt;strong&gt;303 points&lt;/strong&gt; by joozio | &lt;strong&gt;223 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47571279&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47571279</guid>
+      <pubDate>Mon, 30 Mar 2026 07:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[286 pts] 15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die</title>
+      <link>https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803</link>
+      <description>&lt;p&gt;&lt;strong&gt;286 points&lt;/strong&gt; by giis | &lt;strong&gt;55 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47570940&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47570940</guid>
+      <pubDate>Mon, 30 Mar 2026 06:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[348 pts] The curious case of retro demo scene graphics</title>
+      <link>https://www.datagubbe.se/aipixels/</link>
+      <description>&lt;p&gt;&lt;strong&gt;348 points&lt;/strong&gt; by zdw | &lt;strong&gt;85 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47570666&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47570666</guid>
+      <pubDate>Mon, 30 Mar 2026 05:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1497 pts] Copilot edited an ad into my PR</title>
+      <link>https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1497 points&lt;/strong&gt; by pavo-etc | &lt;strong&gt;619 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47570269&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47570269</guid>
+      <pubDate>Mon, 30 Mar 2026 04:04:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[304 pts] New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays</title>
+      <link>https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/</link>
+      <description>&lt;p&gt;&lt;strong&gt;304 points&lt;/strong&gt; by smcleod | &lt;strong&gt;160 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47569502&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47569502</guid>
+      <pubDate>Mon, 30 Mar 2026 01:43:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[397 pts] Philly courts will ban all smart eyeglasses starting next week</title>
+      <link>https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;397 points&lt;/strong&gt; by Philadelphia | &lt;strong&gt;206 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47569471&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47569471</guid>
+      <pubDate>Mon, 30 Mar 2026 01:38:17 +0000</pubDate>
+    </item>
     <item>
       <title>[156 pts] Coding Agents Could Make Free Software Matter Again</title>
       <link>https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/</link>

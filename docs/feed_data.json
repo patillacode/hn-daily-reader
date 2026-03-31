@@ -11049,7 +11049,207 @@
       "created_at": 1774791145,
       "num_comments": 129,
       "hn_url": "https://news.ycombinator.com/item?id=47563007"
+    },
+    {
+      "id": "47570269",
+      "title": "Copilot edited an ad into my PR",
+      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+      "points": 1497,
+      "author": "pavo-etc",
+      "created_at": 1774843471,
+      "num_comments": 619,
+      "hn_url": "https://news.ycombinator.com/item?id=47570269"
+    },
+    {
+      "id": "47574034",
+      "title": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
+      "points": 653,
+      "author": "yabones",
+      "created_at": 1774877334,
+      "num_comments": 228,
+      "hn_url": "https://news.ycombinator.com/item?id=47574034"
+    },
+    {
+      "id": "47577761",
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "points": 530,
+      "author": "speckx",
+      "created_at": 1774894560,
+      "num_comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=47577761"
+    },
+    {
+      "id": "47573519",
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "points": 479,
+      "author": "karimf",
+      "created_at": 1774874396,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=47573519"
+    },
+    {
+      "id": "47569471",
+      "title": "Philly courts will ban all smart eyeglasses starting next week",
+      "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+      "points": 397,
+      "author": "Philadelphia",
+      "created_at": 1774834697,
+      "num_comments": 206,
+      "hn_url": "https://news.ycombinator.com/item?id=47569471"
+    },
+    {
+      "id": "47575403",
+      "title": "CodingFont: A game to help you pick a coding font",
+      "url": "https://www.codingfont.com/",
+      "points": 389,
+      "author": "nvahalik",
+      "created_at": 1774883795,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=47575403"
+    },
+    {
+      "id": "47573420",
+      "title": "How the AI Bubble Bursts",
+      "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+      "points": 357,
+      "author": "martinvol",
+      "created_at": 1774873716,
+      "num_comments": 486,
+      "hn_url": "https://news.ycombinator.com/item?id=47573420"
+    },
+    {
+      "id": "47570666",
+      "title": "The curious case of retro demo scene graphics",
+      "url": "https://www.datagubbe.se/aipixels/",
+      "points": 348,
+      "author": "zdw",
+      "created_at": 1774848438,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=47570666"
+    },
+    {
+      "id": "47575212",
+      "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
+      "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+      "points": 340,
+      "author": "bundie",
+      "created_at": 1774882828,
+      "num_comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=47575212"
+    },
+    {
+      "id": "47576861",
+      "title": "New Washington state law bans noncompete agreements",
+      "url": "https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/",
+      "points": 316,
+      "author": "toomuchtodo",
+      "created_at": 1774890095,
+      "num_comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=47576861"
+    },
+    {
+      "id": "47573887",
+      "title": "Bird brains (2023)",
+      "url": "https://www.dhanishsemar.com/writing/bird-brains",
+      "points": 313,
+      "author": "DiffTheEnder",
+      "created_at": 1774876467,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=47573887"
+    },
+    {
+      "id": "47569502",
+      "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
+      "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
+      "points": 304,
+      "author": "smcleod",
+      "created_at": 1774835000,
+      "num_comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=47569502"
+    },
+    {
+      "id": "47571279",
+      "title": "I am definitely missing the pre-AI writing era",
+      "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+      "points": 303,
+      "author": "joozio",
+      "created_at": 1774854198,
+      "num_comments": 223,
+      "hn_url": "https://news.ycombinator.com/item?id=47571279"
+    },
+    {
+      "id": "47578572",
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "url": "https://anishathalye.com/macbook-touchscreen/",
+      "points": 287,
+      "author": "HughParry",
+      "created_at": 1774898553,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=47578572"
+    },
+    {
+      "id": "47570940",
+      "title": "15 years, one server, 8GB RAM and 500k users \u2013 how Webminal refuses to die",
+      "url": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
+      "points": 286,
+      "author": "giis",
+      "created_at": 1774850933,
+      "num_comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=47570940"
+    },
+    {
+      "id": "47575616",
+      "title": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
+      "points": 285,
+      "author": "gnabgib",
+      "created_at": 1774884757,
+      "num_comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=47575616"
+    },
+    {
+      "id": "47571376",
+      "title": "I use Excalidraw to manage my diagrams for my blog",
+      "url": "https://blog.lysk.tech/excalidraw-frame-export/",
+      "points": 275,
+      "author": "mlysk",
+      "created_at": 1774855026,
+      "num_comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=47571376"
+    },
+    {
+      "id": "47580350",
+      "title": "Show HN: 30u30.fyi \u2013 Is your startup founder on Forbes' most fraudulent list?",
+      "url": "https://30u30.fyi",
+      "points": 232,
+      "author": "not-chatgpt",
+      "created_at": 1774908622,
+      "num_comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=47580350"
+    },
+    {
+      "id": "47579229",
+      "title": "Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
+      "points": 222,
+      "author": "taubek",
+      "created_at": 1774901983,
+      "num_comments": 100,
+      "hn_url": "https://news.ycombinator.com/item?id=47579229"
+    },
+    {
+      "id": "47580297",
+      "title": "Android Developer Verification",
+      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "points": 221,
+      "author": "ingve",
+      "created_at": 1774908321,
+      "num_comments": 213,
+      "hn_url": "https://news.ycombinator.com/item?id=47580297"
     }
   ],
-  "last_updated": "2026-03-30T07:21:42.231361+00:00"
+  "last_updated": "2026-03-31T07:07:18.887888+00:00"
 }
