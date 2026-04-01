@@ -11249,7 +11249,207 @@
       "created_at": 1774908321,
       "num_comments": 213,
       "hn_url": "https://news.ycombinator.com/item?id=47580297"
+    },
+    {
+      "id": "47584540",
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "points": 1964,
+      "author": "treexs",
+      "created_at": 1774947640,
+      "num_comments": 961,
+      "hn_url": "https://news.ycombinator.com/item?id=47584540"
+    },
+    {
+      "id": "47582220",
+      "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "points": 1818,
+      "author": "mtud",
+      "created_at": 1774925657,
+      "num_comments": 735,
+      "hn_url": "https://news.ycombinator.com/item?id=47582220"
+    },
+    {
+      "id": "47586778",
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "points": 1100,
+      "author": "alex000kim",
+      "created_at": 1774962270,
+      "num_comments": 425,
+      "hn_url": "https://news.ycombinator.com/item?id=47586778"
+    },
+    {
+      "id": "47587935",
+      "title": "Oracle slashes 30k jobs",
+      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+      "points": 857,
+      "author": "pje",
+      "created_at": 1774967448,
+      "num_comments": 781,
+      "hn_url": "https://news.ycombinator.com/item?id=47587935"
+    },
+    {
+      "id": "47582043",
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "points": 830,
+      "author": "idlewords",
+      "created_at": 1774923830,
+      "num_comments": 571,
+      "hn_url": "https://news.ycombinator.com/item?id=47582043"
+    },
+    {
+      "id": "47582482",
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "points": 614,
+      "author": "redundantly",
+      "created_at": 1774928445,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=47582482"
+    },
+    {
+      "id": "47582984",
+      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+      "points": 577,
+      "author": "_____k",
+      "created_at": 1774933884,
+      "num_comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=47582984"
+    },
+    {
+      "id": "47587866",
+      "title": "Microsoft: Copilot is for entertainment purposes only",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+      "points": 506,
+      "author": "lpcvoid",
+      "created_at": 1774967137,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=47587866"
+    },
+    {
+      "id": "47591928",
+      "title": "GitHub's Historic Uptime",
+      "url": "https://damrnelson.github.io/github-historical-uptime/",
+      "points": 458,
+      "author": "todsacerdoti",
+      "created_at": 1774983689,
+      "num_comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=47591928"
+    },
+    {
+      "id": "47581701",
+      "title": "Universal Claude.md \u2013 cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "points": 454,
+      "author": "killme2008",
+      "created_at": 1774920214,
+      "num_comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=47581701"
+    },
+    {
+      "id": "47591104",
+      "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
+      "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
+      "points": 436,
+      "author": "whiteboardr",
+      "created_at": 1774979704,
+      "num_comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=47591104"
+    },
+    {
+      "id": "47592755",
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "points": 415,
+      "author": "surprisetalk",
+      "created_at": 1774987650,
+      "num_comments": 362,
+      "hn_url": "https://news.ycombinator.com/item?id=47592755"
+    },
+    {
+      "id": "47586614",
+      "title": "Open source CAD in the browser (Solvespace)",
+      "url": "https://solvespace.com/webver.pl",
+      "points": 320,
+      "author": "phkahler",
+      "created_at": 1774961423,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=47586614"
+    },
+    {
+      "id": "47586176",
+      "title": "Claude Code users hitting usage limits 'way faster than expected'",
+      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+      "points": 299,
+      "author": "samizdis",
+      "created_at": 1774959089,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=47586176"
+    },
+    {
+      "id": "47583045",
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "url": "https://github.com/google-research/timesfm",
+      "points": 299,
+      "author": "codepawl",
+      "created_at": 1774934519,
+      "num_comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=47583045"
+    },
+    {
+      "id": "47588658",
+      "title": "Tell HN: Chrome says \"suspicious download\" when trying to download yt-dlp",
+      "url": "https://news.ycombinator.com/item?id=47588658",
+      "points": 277,
+      "author": "joering2",
+      "created_at": 1774970411,
+      "num_comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=47588658"
+    },
+    {
+      "id": "47584795",
+      "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+      "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+      "points": 264,
+      "author": "KoftaBob",
+      "created_at": 1774949443,
+      "num_comments": 716,
+      "hn_url": "https://news.ycombinator.com/item?id=47584795"
+    },
+    {
+      "id": "47593556",
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "points": 261,
+      "author": "scottlawson",
+      "created_at": 1774991701,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=47593556"
+    },
+    {
+      "id": "47587953",
+      "title": "Slop is not necessarily the future",
+      "url": "https://www.greptile.com/blog/ai-slopware-future",
+      "points": 218,
+      "author": "dakshgupta",
+      "created_at": 1774967546,
+      "num_comments": 372,
+      "hn_url": "https://news.ycombinator.com/item?id=47587953"
+    },
+    {
+      "id": "47593422",
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "points": 214,
+      "author": "PrismML",
+      "created_at": 1774990878,
+      "num_comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=47593422"
     }
   ],
-  "last_updated": "2026-03-31T07:07:18.887888+00:00"
+  "last_updated": "2026-04-01T07:14:50.726600+00:00"
 }

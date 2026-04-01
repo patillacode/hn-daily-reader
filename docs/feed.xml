@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:14:50 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[261 pts] A dot a day keeps the clutter away</title>
+      <link>https://scottlawsonbc.com/post/dot-system</link>
+      <description>&lt;p&gt;&lt;strong&gt;261 points&lt;/strong&gt; by scottlawson | &lt;strong&gt;82 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47593556&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47593556</guid>
+      <pubDate>Tue, 31 Mar 2026 21:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[214 pts] Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs</title>
+      <link>https://prismml.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;214 points&lt;/strong&gt; by PrismML | &lt;strong&gt;88 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47593422&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47593422</guid>
+      <pubDate>Tue, 31 Mar 2026 21:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[415 pts] OpenAI closes funding round at an $852B valuation</title>
+      <link>https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;415 points&lt;/strong&gt; by surprisetalk | &lt;strong&gt;362 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47592755&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47592755</guid>
+      <pubDate>Tue, 31 Mar 2026 20:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[458 pts] GitHub's Historic Uptime</title>
+      <link>https://damrnelson.github.io/github-historical-uptime/</link>
+      <description>&lt;p&gt;&lt;strong&gt;458 points&lt;/strong&gt; by todsacerdoti | &lt;strong&gt;111 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47591928&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47591928</guid>
+      <pubDate>Tue, 31 Mar 2026 19:01:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[436 pts] OkCupid gave 3M dating-app photos to facial recognition firm, FTC says</title>
+      <link>https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/</link>
+      <description>&lt;p&gt;&lt;strong&gt;436 points&lt;/strong&gt; by whiteboardr | &lt;strong&gt;91 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47591104&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47591104</guid>
+      <pubDate>Tue, 31 Mar 2026 17:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[277 pts] Tell HN: Chrome says &quot;suspicious download&quot; when trying to download yt-dlp</title>
+      <link>https://news.ycombinator.com/item?id=47588658</link>
+      <description>&lt;p&gt;&lt;strong&gt;277 points&lt;/strong&gt; by joering2 | &lt;strong&gt;90 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47588658&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47588658</guid>
+      <pubDate>Tue, 31 Mar 2026 15:20:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[218 pts] Slop is not necessarily the future</title>
+      <link>https://www.greptile.com/blog/ai-slopware-future</link>
+      <description>&lt;p&gt;&lt;strong&gt;218 points&lt;/strong&gt; by dakshgupta | &lt;strong&gt;372 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47587953&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47587953</guid>
+      <pubDate>Tue, 31 Mar 2026 14:32:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[857 pts] Oracle slashes 30k jobs</title>
+      <link>https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/</link>
+      <description>&lt;p&gt;&lt;strong&gt;857 points&lt;/strong&gt; by pje | &lt;strong&gt;781 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47587935&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47587935</guid>
+      <pubDate>Tue, 31 Mar 2026 14:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[506 pts] Microsoft: Copilot is for entertainment purposes only</title>
+      <link>https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse</link>
+      <description>&lt;p&gt;&lt;strong&gt;506 points&lt;/strong&gt; by lpcvoid | &lt;strong&gt;182 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47587866&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47587866</guid>
+      <pubDate>Tue, 31 Mar 2026 14:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1100 pts] The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</title>
+      <link>https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1100 points&lt;/strong&gt; by alex000kim | &lt;strong&gt;425 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47586778&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47586778</guid>
+      <pubDate>Tue, 31 Mar 2026 13:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[320 pts] Open source CAD in the browser (Solvespace)</title>
+      <link>https://solvespace.com/webver.pl</link>
+      <description>&lt;p&gt;&lt;strong&gt;320 points&lt;/strong&gt; by phkahler | &lt;strong&gt;104 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47586614&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47586614</guid>
+      <pubDate>Tue, 31 Mar 2026 12:50:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[299 pts] Claude Code users hitting usage limits 'way faster than expected'</title>
+      <link>https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/</link>
+      <description>&lt;p&gt;&lt;strong&gt;299 points&lt;/strong&gt; by samizdis | &lt;strong&gt;184 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47586176&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47586176</guid>
+      <pubDate>Tue, 31 Mar 2026 12:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[264 pts] Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz</title>
+      <link>https://responsiblestatecraft.org/iran-strait-of-hormuz/</link>
+      <description>&lt;p&gt;&lt;strong&gt;264 points&lt;/strong&gt; by KoftaBob | &lt;strong&gt;716 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47584795&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47584795</guid>
+      <pubDate>Tue, 31 Mar 2026 09:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1964 pts] Claude Code's source code has been leaked via a map file in their NPM registry</title>
+      <link>https://twitter.com/Fried_rice/status/2038894956459290963</link>
+      <description>&lt;p&gt;&lt;strong&gt;1964 points&lt;/strong&gt; by treexs | &lt;strong&gt;961 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47584540&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47584540</guid>
+      <pubDate>Tue, 31 Mar 2026 09:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[299 pts] Google's 200M-parameter time-series foundation model with 16k context</title>
+      <link>https://github.com/google-research/timesfm</link>
+      <description>&lt;p&gt;&lt;strong&gt;299 points&lt;/strong&gt; by codepawl | &lt;strong&gt;104 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47583045&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47583045</guid>
+      <pubDate>Tue, 31 Mar 2026 05:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[577 pts] GitHub backs down, kills Copilot pull-request ads after backlash</title>
+      <link>https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</link>
+      <description>&lt;p&gt;&lt;strong&gt;577 points&lt;/strong&gt; by _____k | &lt;strong&gt;340 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47582984&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47582984</guid>
+      <pubDate>Tue, 31 Mar 2026 05:11:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[614 pts] Ollama is now powered by MLX on Apple Silicon in preview</title>
+      <link>https://ollama.com/blog/mlx</link>
+      <description>&lt;p&gt;&lt;strong&gt;614 points&lt;/strong&gt; by redundantly | &lt;strong&gt;340 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47582482&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47582482</guid>
+      <pubDate>Tue, 31 Mar 2026 03:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1818 pts] Axios compromised on NPM – Malicious versions drop remote access trojan</title>
+      <link>https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</link>
+      <description>&lt;p&gt;&lt;strong&gt;1818 points&lt;/strong&gt; by mtud | &lt;strong&gt;735 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47582220&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47582220</guid>
+      <pubDate>Tue, 31 Mar 2026 02:54:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[830 pts] Artemis II is not safe to fly</title>
+      <link>https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm</link>
+      <description>&lt;p&gt;&lt;strong&gt;830 points&lt;/strong&gt; by idlewords | &lt;strong&gt;571 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47582043&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47582043</guid>
+      <pubDate>Tue, 31 Mar 2026 02:23:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[454 pts] Universal Claude.md – cut Claude output tokens</title>
+      <link>https://github.com/drona23/claude-token-efficient</link>
+      <description>&lt;p&gt;&lt;strong&gt;454 points&lt;/strong&gt; by killme2008 | &lt;strong&gt;158 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47581701&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47581701</guid>
+      <pubDate>Tue, 31 Mar 2026 01:23:34 +0000</pubDate>
+    </item>
     <item>
       <title>[232 pts] Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?</title>
       <link>https://30u30.fyi</link>
