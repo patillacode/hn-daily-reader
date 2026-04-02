@@ -11449,7 +11449,207 @@
       "created_at": 1774990878,
       "num_comments": 88,
       "hn_url": "https://news.ycombinator.com/item?id=47593422"
+    },
+    {
+      "id": "47597085",
+      "title": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/",
+      "points": 1053,
+      "author": "autocracy101",
+      "created_at": 1775020537,
+      "num_comments": 371,
+      "hn_url": "https://news.ycombinator.com/item?id=47597085"
+    },
+    {
+      "id": "47603657",
+      "title": "Live: Artemis II Launch Day Updates",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "points": 831,
+      "author": "apitman",
+      "created_at": 1775063491,
+      "num_comments": 742,
+      "hn_url": "https://news.ycombinator.com/item?id=47603657"
+    },
+    {
+      "id": "47602832",
+      "title": "EmDash \u2013 A spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "points": 540,
+      "author": "elithrar",
+      "created_at": 1775060078,
+      "num_comments": 376,
+      "hn_url": "https://news.ycombinator.com/item?id=47602832"
+    },
+    {
+      "id": "47606840",
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "points": 431,
+      "author": "ingve",
+      "created_at": 1775079401,
+      "num_comments": 346,
+      "hn_url": "https://news.ycombinator.com/item?id=47606840"
+    },
+    {
+      "id": "47598511",
+      "title": "I quit. The clankers won",
+      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+      "points": 392,
+      "author": "domysee",
+      "created_at": 1775034034,
+      "num_comments": 454,
+      "hn_url": "https://news.ycombinator.com/item?id=47598511"
+    },
+    {
+      "id": "47597935",
+      "title": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "points": 387,
+      "author": "fnands",
+      "created_at": 1775028433,
+      "num_comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=47597935"
+    },
+    {
+      "id": "47604155",
+      "title": "SpaceX files to go public",
+      "url": "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html",
+      "points": 290,
+      "author": "nutjob2",
+      "created_at": 1775065794,
+      "num_comments": 385,
+      "hn_url": "https://news.ycombinator.com/item?id=47604155"
+    },
+    {
+      "id": "47607447",
+      "title": "Artemis II lifts off: four astronauts begin 10-day lunar mission",
+      "url": "https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates",
+      "points": 276,
+      "author": "Philpax",
+      "created_at": 1775083105,
+      "num_comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=47607447"
+    },
+    {
+      "id": "47597119",
+      "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "points": 259,
+      "author": "ishqdehlvi",
+      "created_at": 1775020908,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=47597119"
+    },
+    {
+      "id": "47595620",
+      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
+      "points": 256,
+      "author": "Jimmc414",
+      "created_at": 1775006331,
+      "num_comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=47595620"
+    },
+    {
+      "id": "47600382",
+      "title": "Is BGP safe yet?",
+      "url": "https://isbgpsafeyet.com/",
+      "points": 244,
+      "author": "janandonly",
+      "created_at": 1775049029,
+      "num_comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=47600382"
+    },
+    {
+      "id": "47595572",
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "points": 232,
+      "author": "Hooke",
+      "created_at": 1775005932,
+      "num_comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=47595572"
+    },
+    {
+      "id": "47595865",
+      "title": "We intercepted the White House app's network traffic",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "points": 231,
+      "author": "donutpepperoni",
+      "created_at": 1775008725,
+      "num_comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=47595865"
+    },
+    {
+      "id": "47601859",
+      "title": "Ask HN: Who is hiring? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47601859",
+      "points": 226,
+      "author": "whoishiring",
+      "created_at": 1775055696,
+      "num_comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=47601859"
+    },
+    {
+      "id": "47602565",
+      "title": "The OpenAI graveyard: All the deals and products that haven't happened",
+      "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+      "points": 226,
+      "author": "dherls",
+      "created_at": 1775058930,
+      "num_comments": 189,
+      "hn_url": "https://news.ycombinator.com/item?id=47602565"
+    },
+    {
+      "id": "47595971",
+      "title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
+      "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/",
+      "points": 202,
+      "author": "samlinnfer",
+      "created_at": 1775009682,
+      "num_comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=47595971"
+    },
+    {
+      "id": "47603737",
+      "title": "AI for American-produced cement and concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "points": 185,
+      "author": "latchkey",
+      "created_at": 1775063844,
+      "num_comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=47603737"
+    },
+    {
+      "id": "47602879",
+      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "points": 155,
+      "author": "skysniper",
+      "created_at": 1775060255,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=47602879"
+    },
+    {
+      "id": "47608058",
+      "title": "A new C++ back end for ocamlc",
+      "url": "https://github.com/ocaml/ocaml/pull/14701",
+      "points": 155,
+      "author": "glittershark",
+      "created_at": 1775086502,
+      "num_comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=47608058"
+    },
+    {
+      "id": "47604245",
+      "title": "Ukrainian drone holds position for 6 weeks",
+      "url": "https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/",
+      "points": 143,
+      "author": "AftHurrahWinch",
+      "created_at": 1775066260,
+      "num_comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=47604245"
     }
   ],
-  "last_updated": "2026-04-01T07:14:50.726600+00:00"
+  "last_updated": "2026-04-02T07:06:39.503790+00:00"
 }
