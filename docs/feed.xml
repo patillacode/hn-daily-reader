@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2026 07:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 07:02:23 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[422 pts] Tailscale's new macOS home</title>
+      <link>https://tailscale.com/blog/macos-notch-escape</link>
+      <description>&lt;p&gt;&lt;strong&gt;422 points&lt;/strong&gt; by tosh | &lt;strong&gt;205 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47618189&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47618189</guid>
+      <pubDate>Thu, 02 Apr 2026 18:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[374 pts] Cursor 3</title>
+      <link>https://cursor.com/blog/cursor-3</link>
+      <description>&lt;p&gt;&lt;strong&gt;374 points&lt;/strong&gt; by adamfeldman | &lt;strong&gt;303 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47618084&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47618084</guid>
+      <pubDate>Thu, 02 Apr 2026 18:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1359 pts] Google releases Gemma 4 open models</title>
+      <link>https://deepmind.google/models/gemma/gemma-4/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1359 points&lt;/strong&gt; by jeffmcjunkin | &lt;strong&gt;390 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47616361&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47616361</guid>
+      <pubDate>Thu, 02 Apr 2026 16:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[616 pts] Decisions that eroded trust in Azure – by a former Azure Core engineer</title>
+      <link>https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion</link>
+      <description>&lt;p&gt;&lt;strong&gt;616 points&lt;/strong&gt; by axelriet | &lt;strong&gt;241 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47616242&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47616242</guid>
+      <pubDate>Thu, 02 Apr 2026 16:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[265 pts] Renewables reached nearly 50% of global electricity capacity last year</title>
+      <link>https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/</link>
+      <description>&lt;p&gt;&lt;strong&gt;265 points&lt;/strong&gt; by Growtika | &lt;strong&gt;125 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47615756&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47615756</guid>
+      <pubDate>Thu, 02 Apr 2026 15:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[382 pts] Artemis computer running two instances of MS outlook; they can't figure out why</title>
+      <link>https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25</link>
+      <description>&lt;p&gt;&lt;strong&gt;382 points&lt;/strong&gt; by mooreds | &lt;strong&gt;290 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47615490&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47615490</guid>
+      <pubDate>Thu, 02 Apr 2026 15:08:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[344 pts] Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps</title>
+      <link>https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era</link>
+      <description>&lt;p&gt;&lt;strong&gt;344 points&lt;/strong&gt; by speckx | &lt;strong&gt;146 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47615449&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47615449</guid>
+      <pubDate>Thu, 02 Apr 2026 15:04:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[278 pts] Delve allegedly forked an open-source tool and sold it as its own</title>
+      <link>https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/</link>
+      <description>&lt;p&gt;&lt;strong&gt;278 points&lt;/strong&gt; by nickvec | &lt;strong&gt;142 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47615434&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47615434</guid>
+      <pubDate>Thu, 02 Apr 2026 15:03:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[495 pts] Qwen3.6-Plus: Towards real world agents</title>
+      <link>https://qwen.ai/blog?id=qwen3.6</link>
+      <description>&lt;p&gt;&lt;strong&gt;495 points&lt;/strong&gt; by pretext | &lt;strong&gt;175 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47615002&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47615002</guid>
+      <pubDate>Thu, 02 Apr 2026 14:28:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1666 pts] LinkedIn is searching your browser extensions</title>
+      <link>https://browsergate.eu/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1666 points&lt;/strong&gt; by digitalWestie | &lt;strong&gt;696 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47613981&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47613981</guid>
+      <pubDate>Thu, 02 Apr 2026 13:09:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[277 pts] Inside Nepal's Fake Rescue Racket</title>
+      <link>https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket</link>
+      <description>&lt;p&gt;&lt;strong&gt;277 points&lt;/strong&gt; by lode | &lt;strong&gt;121 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47613078&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47613078</guid>
+      <pubDate>Thu, 02 Apr 2026 11:40:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[493 pts] Lemonade by AMD: a fast and open source local LLM server using GPU and NPU</title>
+      <link>https://lemonade-server.ai</link>
+      <description>&lt;p&gt;&lt;strong&gt;493 points&lt;/strong&gt; by AbuAssar | &lt;strong&gt;107 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47612724&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47612724</guid>
+      <pubDate>Thu, 02 Apr 2026 11:04:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[808 pts] Sweden goes back to basics, swapping screens for books in the classroom</title>
+      <link>https://undark.org/2026/04/01/sweden-schools-books/</link>
+      <description>&lt;p&gt;&lt;strong&gt;808 points&lt;/strong&gt; by novaRom | &lt;strong&gt;397 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47612601&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47612601</guid>
+      <pubDate>Thu, 02 Apr 2026 10:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[421 pts] I Am Not A Number. In memory of the more than 72,000 Palestinians killed</title>
+      <link>https://bkhmsi.github.io/i-am-not-a-number/</link>
+      <description>&lt;p&gt;&lt;strong&gt;421 points&lt;/strong&gt; by bjourne | &lt;strong&gt;118 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47612053&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47612053</guid>
+      <pubDate>Thu, 02 Apr 2026 09:32:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[292 pts] Significant raise of reports</title>
+      <link>https://lwn.net/Articles/1065620/</link>
+      <description>&lt;p&gt;&lt;strong&gt;292 points&lt;/strong&gt; by stratos123 | &lt;strong&gt;149 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47611921&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47611921</guid>
+      <pubDate>Thu, 02 Apr 2026 09:14:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[266 pts] IBM Announces Strategic Collaboration with Arm</title>
+      <link>https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing</link>
+      <description>&lt;p&gt;&lt;strong&gt;266 points&lt;/strong&gt; by bonzini | &lt;strong&gt;175 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47611721&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47611721</guid>
+      <pubDate>Thu, 02 Apr 2026 08:48:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[287 pts] Subscription bombing and how to mitigate it</title>
+      <link>https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/</link>
+      <description>&lt;p&gt;&lt;strong&gt;287 points&lt;/strong&gt; by homelessdino | &lt;strong&gt;177 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47609882&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47609882</guid>
+      <pubDate>Thu, 02 Apr 2026 04:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[346 pts] Email obfuscation: What works in 2026?</title>
+      <link>https://spencermortensen.com/articles/email-obfuscation/</link>
+      <description>&lt;p&gt;&lt;strong&gt;346 points&lt;/strong&gt; by jaden | &lt;strong&gt;96 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47609694&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47609694</guid>
+      <pubDate>Thu, 02 Apr 2026 03:35:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[731 pts] Steam on Linux Use Skyrocketed Above 5% in March</title>
+      <link>https://www.phoronix.com/news/Steam-On-Linux-Tops-5p</link>
+      <description>&lt;p&gt;&lt;strong&gt;731 points&lt;/strong&gt; by hkmaxpro | &lt;strong&gt;342 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47609564&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47609564</guid>
+      <pubDate>Thu, 02 Apr 2026 03:12:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[309 pts] The Weather Channel – RetroCast</title>
+      <link>https://weather.com/retro/</link>
+      <description>&lt;p&gt;&lt;strong&gt;309 points&lt;/strong&gt; by typeofhuman | &lt;strong&gt;58 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47609090&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47609090</guid>
+      <pubDate>Thu, 02 Apr 2026 01:48:18 +0000</pubDate>
+    </item>
     <item>
       <title>[155 pts] A new C++ back end for ocamlc</title>
       <link>https://github.com/ocaml/ocaml/pull/14701</link>

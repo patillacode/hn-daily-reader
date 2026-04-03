@@ -11649,7 +11649,207 @@
       "created_at": 1775066260,
       "num_comments": 161,
       "hn_url": "https://news.ycombinator.com/item?id=47604245"
+    },
+    {
+      "id": "47613981",
+      "title": "LinkedIn is searching your browser extensions",
+      "url": "https://browsergate.eu/",
+      "points": 1666,
+      "author": "digitalWestie",
+      "created_at": 1775135349,
+      "num_comments": 696,
+      "hn_url": "https://news.ycombinator.com/item?id=47613981"
+    },
+    {
+      "id": "47616361",
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "points": 1359,
+      "author": "jeffmcjunkin",
+      "created_at": 1775146254,
+      "num_comments": 390,
+      "hn_url": "https://news.ycombinator.com/item?id=47616361"
+    },
+    {
+      "id": "47612601",
+      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+      "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+      "points": 808,
+      "author": "novaRom",
+      "created_at": 1775127000,
+      "num_comments": 397,
+      "hn_url": "https://news.ycombinator.com/item?id=47612601"
+    },
+    {
+      "id": "47609564",
+      "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+      "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+      "points": 731,
+      "author": "hkmaxpro",
+      "created_at": 1775099544,
+      "num_comments": 342,
+      "hn_url": "https://news.ycombinator.com/item?id=47609564"
+    },
+    {
+      "id": "47616242",
+      "title": "Decisions that eroded trust in Azure \u2013 by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "points": 616,
+      "author": "axelriet",
+      "created_at": 1775145627,
+      "num_comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=47616242"
+    },
+    {
+      "id": "47615002",
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "points": 495,
+      "author": "pretext",
+      "created_at": 1775140132,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=47615002"
+    },
+    {
+      "id": "47612724",
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "points": 493,
+      "author": "AbuAssar",
+      "created_at": 1775127891,
+      "num_comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=47612724"
+    },
+    {
+      "id": "47618189",
+      "title": "Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "points": 422,
+      "author": "tosh",
+      "created_at": 1775154123,
+      "num_comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=47618189"
+    },
+    {
+      "id": "47612053",
+      "title": "I Am Not A Number. In memory of the more than 72,000 Palestinians killed",
+      "url": "https://bkhmsi.github.io/i-am-not-a-number/",
+      "points": 421,
+      "author": "bjourne",
+      "created_at": 1775122333,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=47612053"
+    },
+    {
+      "id": "47615490",
+      "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
+      "url": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
+      "points": 382,
+      "author": "mooreds",
+      "created_at": 1775142525,
+      "num_comments": 290,
+      "hn_url": "https://news.ycombinator.com/item?id=47615490"
+    },
+    {
+      "id": "47618084",
+      "title": "Cursor 3",
+      "url": "https://cursor.com/blog/cursor-3",
+      "points": 374,
+      "author": "adamfeldman",
+      "created_at": 1775153621,
+      "num_comments": 303,
+      "hn_url": "https://news.ycombinator.com/item?id=47618084"
+    },
+    {
+      "id": "47609694",
+      "title": "Email obfuscation: What works in 2026?",
+      "url": "https://spencermortensen.com/articles/email-obfuscation/",
+      "points": 346,
+      "author": "jaden",
+      "created_at": 1775100933,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=47609694"
+    },
+    {
+      "id": "47615449",
+      "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
+      "url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
+      "points": 344,
+      "author": "speckx",
+      "created_at": 1775142284,
+      "num_comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=47615449"
+    },
+    {
+      "id": "47609090",
+      "title": "The Weather Channel \u2013 RetroCast",
+      "url": "https://weather.com/retro/",
+      "points": 309,
+      "author": "typeofhuman",
+      "created_at": 1775094498,
+      "num_comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=47609090"
+    },
+    {
+      "id": "47611921",
+      "title": "Significant raise of reports",
+      "url": "https://lwn.net/Articles/1065620/",
+      "points": 292,
+      "author": "stratos123",
+      "created_at": 1775121258,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=47611921"
+    },
+    {
+      "id": "47609882",
+      "title": "Subscription bombing and how to mitigate it",
+      "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
+      "points": 287,
+      "author": "homelessdino",
+      "created_at": 1775102885,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=47609882"
+    },
+    {
+      "id": "47615434",
+      "title": "Delve allegedly forked an open-source tool and sold it as its own",
+      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "points": 278,
+      "author": "nickvec",
+      "created_at": 1775142188,
+      "num_comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=47615434"
+    },
+    {
+      "id": "47613078",
+      "title": "Inside Nepal's Fake Rescue Racket",
+      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+      "points": 277,
+      "author": "lode",
+      "created_at": 1775130041,
+      "num_comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=47613078"
+    },
+    {
+      "id": "47611721",
+      "title": "IBM Announces Strategic Collaboration with Arm",
+      "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+      "points": 266,
+      "author": "bonzini",
+      "created_at": 1775119724,
+      "num_comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=47611721"
+    },
+    {
+      "id": "47615756",
+      "title": "Renewables reached nearly 50% of global electricity capacity last year",
+      "url": "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
+      "points": 265,
+      "author": "Growtika",
+      "created_at": 1775143578,
+      "num_comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=47615756"
     }
   ],
-  "last_updated": "2026-04-02T07:06:39.503790+00:00"
+  "last_updated": "2026-04-03T07:02:23.814691+00:00"
 }
