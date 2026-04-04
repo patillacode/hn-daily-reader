@@ -11849,7 +11849,207 @@
       "created_at": 1775143578,
       "num_comments": 125,
       "hn_url": "https://news.ycombinator.com/item?id=47615756"
+    },
+    {
+      "id": "47625952",
+      "title": "Show HN: I built a frontpage for personal blogs",
+      "url": "https://text.blogosphere.app/",
+      "points": 701,
+      "author": "ramkarthikk",
+      "created_at": 1775219625,
+      "num_comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=47625952"
+    },
+    {
+      "id": "47631118",
+      "title": "Artemis II crew take \u201cspectacular\u201d image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "points": 668,
+      "author": "andsoitis",
+      "created_at": 1775244902,
+      "num_comments": 245,
+      "hn_url": "https://news.ycombinator.com/item?id=47631118"
+    },
+    {
+      "id": "47624645",
+      "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+      "url": "https://apfel.franzai.com",
+      "points": 665,
+      "author": "franze",
+      "created_at": 1775207734,
+      "num_comments": 140,
+      "hn_url": "https://news.ycombinator.com/item?id=47624645"
+    },
+    {
+      "id": "47633396",
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "points": 530,
+      "author": "firloop",
+      "created_at": 1775256924,
+      "num_comments": 470,
+      "hn_url": "https://news.ycombinator.com/item?id=47633396"
+    },
+    {
+      "id": "47631732",
+      "title": "Oracle files H-1B visa petitions amid mass layoffs",
+      "url": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
+      "points": 481,
+      "author": "kklisura",
+      "created_at": 1775247683,
+      "num_comments": 264,
+      "hn_url": "https://news.ycombinator.com/item?id=47631732"
+    },
+    {
+      "id": "47628326",
+      "title": "F-15E jet shot down over Iran",
+      "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+      "points": 444,
+      "author": "tjwds",
+      "created_at": 1775232044,
+      "num_comments": 1012,
+      "hn_url": "https://news.ycombinator.com/item?id=47628326"
+    },
+    {
+      "id": "47629433",
+      "title": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "points": 391,
+      "author": "bookofjoe",
+      "created_at": 1775236940,
+      "num_comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=47629433"
+    },
+    {
+      "id": "47627056",
+      "title": "Marc Andreessen is wrong about introspection",
+      "url": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
+      "points": 379,
+      "author": "surprisetalk",
+      "created_at": 1775226552,
+      "num_comments": 447,
+      "hn_url": "https://news.ycombinator.com/item?id=47627056"
+    },
+    {
+      "id": "47624741",
+      "title": "European alternatives to Google, Apple, Dropbox and 120 US apps",
+      "url": "https://only-eu.eu/en/",
+      "points": 356,
+      "author": "madman_dev",
+      "created_at": 1775209044,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=47624741"
+    },
+    {
+      "id": "47633947",
+      "title": "The FAA\u2019s flight restriction for drones is an attempt to criminalize filming ICE",
+      "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+      "points": 343,
+      "author": "detaro",
+      "created_at": 1775260592,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=47633947"
+    },
+    {
+      "id": "47628608",
+      "title": "OpenClaw privilege escalation vulnerability",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "points": 328,
+      "author": "kykeonaut",
+      "created_at": 1775233292,
+      "num_comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=47628608"
+    },
+    {
+      "id": "47624736",
+      "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
+      "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
+      "points": 325,
+      "author": "chrisjj",
+      "created_at": 1775208993,
+      "num_comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=47624736"
+    },
+    {
+      "id": "47624731",
+      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+      "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+      "points": 302,
+      "author": "greenstevester",
+      "created_at": 1775208916,
+      "num_comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=47624731"
+    },
+    {
+      "id": "47627061",
+      "title": "Solar and batteries can power the world",
+      "url": "https://nworbmot.org/blog/solar-battery-world.html",
+      "points": 269,
+      "author": "edent",
+      "created_at": 1775226566,
+      "num_comments": 414,
+      "hn_url": "https://news.ycombinator.com/item?id=47627061"
+    },
+    {
+      "id": "47624811",
+      "title": "SSH certificates: the better SSH experience",
+      "url": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/",
+      "points": 236,
+      "author": "jandeboevrie",
+      "created_at": 1775209940,
+      "num_comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=47624811"
+    },
+    {
+      "id": "47621792",
+      "title": "Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "points": 224,
+      "author": "Kyro38",
+      "created_at": 1775174419,
+      "num_comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=47621792"
+    },
+    {
+      "id": "47625244",
+      "title": "Critics say EU risks ceding control of its tech laws under U.S. pressure",
+      "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
+      "points": 221,
+      "author": "nickslaughter02",
+      "created_at": 1775213931,
+      "num_comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=47625244"
+    },
+    {
+      "id": "47632503",
+      "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+      "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+      "points": 182,
+      "author": "upofadown",
+      "created_at": 1775251555,
+      "num_comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=47632503"
+    },
+    {
+      "id": "47624558",
+      "title": "Proton Meet isn't what they told you it was",
+      "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+      "points": 162,
+      "author": "bundie",
+      "created_at": 1775206785,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=47624558"
+    },
+    {
+      "id": "47630109",
+      "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+      "url": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
+      "points": 161,
+      "author": "MaximilianEmel",
+      "created_at": 1775240416,
+      "num_comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=47630109"
     }
   ],
-  "last_updated": "2026-04-03T07:02:23.814691+00:00"
+  "last_updated": "2026-04-04T06:55:50.050514+00:00"
 }
