@@ -12049,7 +12049,207 @@
       "created_at": 1775240416,
       "num_comments": 62,
       "hn_url": "https://news.ycombinator.com/item?id=47630109"
+    },
+    {
+      "id": "47639524",
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "points": 769,
+      "author": "macleginn",
+      "created_at": 1775314106,
+      "num_comments": 504,
+      "hn_url": "https://news.ycombinator.com/item?id=47639524"
+    },
+    {
+      "id": "47640728",
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
+      "points": 638,
+      "author": "Jaso1024",
+      "created_at": 1775321154,
+      "num_comments": 147,
+      "hn_url": "https://news.ycombinator.com/item?id=47640728"
+    },
+    {
+      "id": "47637757",
+      "title": "Embarrassingly simple self-distillation improves code generation",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "points": 585,
+      "author": "Anon84",
+      "created_at": 1775298381,
+      "num_comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=47637757"
+    },
+    {
+      "id": "47642569",
+      "title": "How many products does Microsoft have named 'Copilot'?",
+      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+      "points": 554,
+      "author": "gpi",
+      "created_at": 1775331583,
+      "num_comments": 271,
+      "hn_url": "https://news.ycombinator.com/item?id=47642569"
+    },
+    {
+      "id": "47634690",
+      "title": "Delve removed from Y Combinator",
+      "url": "https://www.ycombinator.com/companies/delve",
+      "points": 476,
+      "author": "carabiner",
+      "created_at": 1775266622,
+      "num_comments": 292,
+      "hn_url": "https://news.ycombinator.com/item?id=47634690"
+    },
+    {
+      "id": "47640380",
+      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+      "points": 415,
+      "author": "naves",
+      "created_at": 1775319370,
+      "num_comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=47640380"
+    },
+    {
+      "id": "47639976",
+      "title": "German men 18-45 need military permit for extended stays abroad",
+      "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
+      "points": 364,
+      "author": "L_226",
+      "created_at": 1775317150,
+      "num_comments": 626,
+      "hn_url": "https://news.ycombinator.com/item?id=47639976"
+    },
+    {
+      "id": "47637287",
+      "title": "Some Unusual Trees",
+      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+      "points": 271,
+      "author": "simplegeek",
+      "created_at": 1775293459,
+      "num_comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=47637287"
+    },
+    {
+      "id": "47635056",
+      "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
+      "points": 260,
+      "author": "lxm",
+      "created_at": 1775269832,
+      "num_comments": 230,
+      "hn_url": "https://news.ycombinator.com/item?id=47635056"
+    },
+    {
+      "id": "47638810",
+      "title": "Components of a Coding Agent",
+      "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "points": 213,
+      "author": "MindGods",
+      "created_at": 1775308593,
+      "num_comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=47638810"
+    },
+    {
+      "id": "47639727",
+      "title": "When legal sports betting surges, so do Americans' financial problems",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
+      "points": 186,
+      "author": "pseudolus",
+      "created_at": 1775315646,
+      "num_comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=47639727"
+    },
+    {
+      "id": "47636435",
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "points": 167,
+      "author": "dnw",
+      "created_at": 1775284225,
+      "num_comments": 166,
+      "hn_url": "https://news.ycombinator.com/item?id=47636435"
+    },
+    {
+      "id": "47641788",
+      "title": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
+      "url": "https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones",
+      "points": 159,
+      "author": "lschueller",
+      "created_at": 1775327035,
+      "num_comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=47641788"
+    },
+    {
+      "id": "47639567",
+      "title": "Show HN: TurboQuant-WASM \u2013 Google's vector quantization in the browser",
+      "url": "https://github.com/teamchong/turboquant-wasm",
+      "points": 150,
+      "author": "teamchong",
+      "created_at": 1775314396,
+      "num_comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=47639567"
+    },
+    {
+      "id": "47639779",
+      "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
+      "url": "https://sllm.cloud",
+      "points": 146,
+      "author": "jrandolf",
+      "created_at": 1775315938,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=47639779"
+    },
+    {
+      "id": "47640875",
+      "title": "LLM Wiki \u2013 example of an \"idea file\"",
+      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "points": 145,
+      "author": "tamnd",
+      "created_at": 1775321865,
+      "num_comments": 40,
+      "hn_url": "https://news.ycombinator.com/item?id=47640875"
+    },
+    {
+      "id": "47640722",
+      "title": "12k AI-generated blog posts added in a single commit",
+      "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+      "points": 144,
+      "author": "noslop",
+      "created_at": 1775321131,
+      "num_comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=47640722"
+    },
+    {
+      "id": "47640775",
+      "title": "Why the most valuable things you know are things you cannot say",
+      "url": "https://deadneurons.substack.com/p/why-the-most-valuable-things-you",
+      "points": 144,
+      "author": "nr378",
+      "created_at": 1775321380,
+      "num_comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=47640775"
+    },
+    {
+      "id": "47638075",
+      "title": "The CMS is dead, long live the CMS",
+      "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+      "points": 138,
+      "author": "taubek",
+      "created_at": 1775301870,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=47638075"
+    },
+    {
+      "id": "47639291",
+      "title": "The Indie Internet Index \u2013 submit your favorite sites",
+      "url": "https://iii.social",
+      "points": 129,
+      "author": "freshman_dev",
+      "created_at": 1775312286,
+      "num_comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=47639291"
     }
   ],
-  "last_updated": "2026-04-04T06:55:50.050514+00:00"
+  "last_updated": "2026-04-05T07:00:13.937793+00:00"
 }

@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 06:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 07:00:13 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[554 pts] How many products does Microsoft have named 'Copilot'?</title>
+      <link>https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;554 points&lt;/strong&gt; by gpi | &lt;strong&gt;271 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47642569&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47642569</guid>
+      <pubDate>Sat, 04 Apr 2026 19:39:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[159 pts] Iranian missile blitz takes down AWS data centers in Bahrain and Dubai</title>
+      <link>https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones</link>
+      <description>&lt;p&gt;&lt;strong&gt;159 points&lt;/strong&gt; by lschueller | &lt;strong&gt;141 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47641788&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47641788</guid>
+      <pubDate>Sat, 04 Apr 2026 18:23:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[145 pts] LLM Wiki – example of an &quot;idea file&quot;</title>
+      <link>https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f</link>
+      <description>&lt;p&gt;&lt;strong&gt;145 points&lt;/strong&gt; by tamnd | &lt;strong&gt;40 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47640875&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47640875</guid>
+      <pubDate>Sat, 04 Apr 2026 16:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[144 pts] Why the most valuable things you know are things you cannot say</title>
+      <link>https://deadneurons.substack.com/p/why-the-most-valuable-things-you</link>
+      <description>&lt;p&gt;&lt;strong&gt;144 points&lt;/strong&gt; by nr378 | &lt;strong&gt;48 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47640775&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47640775</guid>
+      <pubDate>Sat, 04 Apr 2026 16:49:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[638 pts] Show HN: A game where you build a GPU</title>
+      <link>https://jaso1024.com/mvidia/</link>
+      <description>&lt;p&gt;&lt;strong&gt;638 points&lt;/strong&gt; by Jaso1024 | &lt;strong&gt;147 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47640728&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47640728</guid>
+      <pubDate>Sat, 04 Apr 2026 16:45:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[144 pts] 12k AI-generated blog posts added in a single commit</title>
+      <link>https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849</link>
+      <description>&lt;p&gt;&lt;strong&gt;144 points&lt;/strong&gt; by noslop | &lt;strong&gt;144 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47640722&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47640722</guid>
+      <pubDate>Sat, 04 Apr 2026 16:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[415 pts] Apple approves driver that lets Nvidia eGPUs work with Arm Macs</title>
+      <link>https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs</link>
+      <description>&lt;p&gt;&lt;strong&gt;415 points&lt;/strong&gt; by naves | &lt;strong&gt;177 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47640380&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47640380</guid>
+      <pubDate>Sat, 04 Apr 2026 16:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[364 pts] German men 18-45 need military permit for extended stays abroad</title>
+      <link>https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677</link>
+      <description>&lt;p&gt;&lt;strong&gt;364 points&lt;/strong&gt; by L_226 | &lt;strong&gt;626 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47639976&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47639976</guid>
+      <pubDate>Sat, 04 Apr 2026 15:39:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[146 pts] Show HN: sllm – Split a GPU node with other developers, unlimited tokens</title>
+      <link>https://sllm.cloud</link>
+      <description>&lt;p&gt;&lt;strong&gt;146 points&lt;/strong&gt; by jrandolf | &lt;strong&gt;73 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47639779&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47639779</guid>
+      <pubDate>Sat, 04 Apr 2026 15:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[186 pts] When legal sports betting surges, so do Americans' financial problems</title>
+      <link>https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy</link>
+      <description>&lt;p&gt;&lt;strong&gt;186 points&lt;/strong&gt; by pseudolus | &lt;strong&gt;126 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47639727&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47639727</guid>
+      <pubDate>Sat, 04 Apr 2026 15:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[150 pts] Show HN: TurboQuant-WASM – Google's vector quantization in the browser</title>
+      <link>https://github.com/teamchong/turboquant-wasm</link>
+      <description>&lt;p&gt;&lt;strong&gt;150 points&lt;/strong&gt; by teamchong | &lt;strong&gt;6 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47639567&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47639567</guid>
+      <pubDate>Sat, 04 Apr 2026 14:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[769 pts] Author of &quot;Careless People&quot; banned from saying anything negative about Meta</title>
+      <link>https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf</link>
+      <description>&lt;p&gt;&lt;strong&gt;769 points&lt;/strong&gt; by macleginn | &lt;strong&gt;504 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47639524&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47639524</guid>
+      <pubDate>Sat, 04 Apr 2026 14:48:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[129 pts] The Indie Internet Index – submit your favorite sites</title>
+      <link>https://iii.social</link>
+      <description>&lt;p&gt;&lt;strong&gt;129 points&lt;/strong&gt; by freshman_dev | &lt;strong&gt;23 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47639291&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47639291</guid>
+      <pubDate>Sat, 04 Apr 2026 14:18:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[213 pts] Components of a Coding Agent</title>
+      <link>https://magazine.sebastianraschka.com/p/components-of-a-coding-agent</link>
+      <description>&lt;p&gt;&lt;strong&gt;213 points&lt;/strong&gt; by MindGods | &lt;strong&gt;69 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47638810&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47638810</guid>
+      <pubDate>Sat, 04 Apr 2026 13:16:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[138 pts] The CMS is dead, long live the CMS</title>
+      <link>https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms</link>
+      <description>&lt;p&gt;&lt;strong&gt;138 points&lt;/strong&gt; by taubek | &lt;strong&gt;83 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47638075&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47638075</guid>
+      <pubDate>Sat, 04 Apr 2026 11:24:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[585 pts] Embarrassingly simple self-distillation improves code generation</title>
+      <link>https://arxiv.org/abs/2604.01193</link>
+      <description>&lt;p&gt;&lt;strong&gt;585 points&lt;/strong&gt; by Anon84 | &lt;strong&gt;172 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47637757&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47637757</guid>
+      <pubDate>Sat, 04 Apr 2026 10:26:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[271 pts] Some Unusual Trees</title>
+      <link>https://thoughts.wyounas.com/p/some-unusual-trees</link>
+      <description>&lt;p&gt;&lt;strong&gt;271 points&lt;/strong&gt; by simplegeek | &lt;strong&gt;80 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47637287&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47637287</guid>
+      <pubDate>Sat, 04 Apr 2026 09:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[167 pts] Emotion concepts and their function in a large language model</title>
+      <link>https://www.anthropic.com/research/emotion-concepts-function</link>
+      <description>&lt;p&gt;&lt;strong&gt;167 points&lt;/strong&gt; by dnw | &lt;strong&gt;166 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47636435&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47636435</guid>
+      <pubDate>Sat, 04 Apr 2026 06:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[260 pts] Gold overtakes U.S. Treasuries as the largest foreign reserve asset</title>
+      <link>https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr</link>
+      <description>&lt;p&gt;&lt;strong&gt;260 points&lt;/strong&gt; by lxm | &lt;strong&gt;230 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47635056&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47635056</guid>
+      <pubDate>Sat, 04 Apr 2026 02:30:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[476 pts] Delve removed from Y Combinator</title>
+      <link>https://www.ycombinator.com/companies/delve</link>
+      <description>&lt;p&gt;&lt;strong&gt;476 points&lt;/strong&gt; by carabiner | &lt;strong&gt;292 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47634690&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47634690</guid>
+      <pubDate>Sat, 04 Apr 2026 01:37:02 +0000</pubDate>
+    </item>
     <item>
       <title>[343 pts] The FAA’s flight restriction for drones is an attempt to criminalize filming ICE</title>
       <link>https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice</link>
