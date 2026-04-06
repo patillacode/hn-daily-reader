@@ -12249,7 +12249,207 @@
       "created_at": 1775312286,
       "num_comments": 23,
       "hn_url": "https://news.ycombinator.com/item?id=47639291"
+    },
+    {
+      "id": "47647788",
+      "title": "The threat is comfortable drift toward not understanding what you're doing",
+      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "points": 858,
+      "author": "zaikunzhang",
+      "created_at": 1775383045,
+      "num_comments": 571,
+      "hn_url": "https://news.ycombinator.com/item?id=47647788"
+    },
+    {
+      "id": "47647455",
+      "title": "Caveman: Why use many token when few token do trick",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "points": 752,
+      "author": "tosh",
+      "created_at": 1775379378,
+      "num_comments": 327,
+      "hn_url": "https://news.ycombinator.com/item?id=47647455"
+    },
+    {
+      "id": "47648828",
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "points": 751,
+      "author": "brilee",
+      "created_at": 1775393027,
+      "num_comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=47648828"
+    },
+    {
+      "id": "47652561",
+      "title": "Gemma 4 on iPhone",
+      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "points": 574,
+      "author": "janandonly",
+      "created_at": 1775414753,
+      "num_comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=47652561"
+    },
+    {
+      "id": "47649721",
+      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+      "points": 465,
+      "author": "mooreds",
+      "created_at": 1775398692,
+      "num_comments": 362,
+      "hn_url": "https://news.ycombinator.com/item?id=47649721"
+    },
+    {
+      "id": "47652400",
+      "title": "Why Switzerland has 25 Gbit internet and America doesn't",
+      "url": "https://sschueller.github.io/posts/the-free-market-lie/",
+      "points": 409,
+      "author": "sschueller",
+      "created_at": 1775413787,
+      "num_comments": 305,
+      "hn_url": "https://news.ycombinator.com/item?id=47652400"
+    },
+    {
+      "id": "47644864",
+      "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+      "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+      "points": 392,
+      "author": "crcastle",
+      "created_at": 1775348035,
+      "num_comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=47644864"
+    },
+    {
+      "id": "47649117",
+      "title": "Someone at BrowserStack is leaking users' email addresses",
+      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "points": 371,
+      "author": "m_km",
+      "created_at": 1775394878,
+      "num_comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=47649117"
+    },
+    {
+      "id": "47651703",
+      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "points": 364,
+      "author": "naves",
+      "created_at": 1775410061,
+      "num_comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=47651703"
+    },
+    {
+      "id": "47649113",
+      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
+      "points": 354,
+      "author": "Growtika",
+      "created_at": 1775394876,
+      "num_comments": 231,
+      "hn_url": "https://news.ycombinator.com/item?id=47649113"
+    },
+    {
+      "id": "47648404",
+      "title": "My Google Workspace account suspension",
+      "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
+      "points": 345,
+      "author": "zenincognito",
+      "created_at": 1775389693,
+      "num_comments": 197,
+      "hn_url": "https://news.ycombinator.com/item?id=47648404"
+    },
+    {
+      "id": "47646843",
+      "title": "Lisette a little language inspired by Rust that compiles to Go",
+      "url": "https://lisette.run/",
+      "points": 258,
+      "author": "jspdown",
+      "created_at": 1775372239,
+      "num_comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=47646843"
+    },
+    {
+      "id": "47651540",
+      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "points": 248,
+      "author": "vbtechguy",
+      "created_at": 1775409231,
+      "num_comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=47651540"
+    },
+    {
+      "id": "47645432",
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "points": 222,
+      "author": "luu",
+      "created_at": 1775354069,
+      "num_comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=47645432"
+    },
+    {
+      "id": "47650726",
+      "title": "Codex pricing to align with API token usage, instead of per-message",
+      "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+      "points": 199,
+      "author": "ccmcarey",
+      "created_at": 1775404688,
+      "num_comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=47650726"
+    },
+    {
+      "id": "47649742",
+      "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+      "points": 183,
+      "author": "desideratum",
+      "created_at": 1775398877,
+      "num_comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=47649742"
+    },
+    {
+      "id": "47652324",
+      "title": "LibreOffice \u2013 Let's put an end to the speculation",
+      "url": "https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/",
+      "points": 174,
+      "author": "eisa01",
+      "created_at": 1775413394,
+      "num_comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=47652324"
+    },
+    {
+      "id": "47652322",
+      "title": "Music for Programming",
+      "url": "https://musicforprogramming.net",
+      "points": 160,
+      "author": "merusame",
+      "created_at": 1775413388,
+      "num_comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=47652322"
+    },
+    {
+      "id": "47654620",
+      "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "points": 159,
+      "author": "rbanffy",
+      "created_at": 1775428276,
+      "num_comments": 184,
+      "hn_url": "https://news.ycombinator.com/item?id=47654620"
+    },
+    {
+      "id": "47650312",
+      "title": "A tail-call interpreter in (nightly) Rust",
+      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+      "points": 153,
+      "author": "g0xA52A2A",
+      "created_at": 1775402281,
+      "num_comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=47650312"
     }
   ],
-  "last_updated": "2026-04-05T07:00:13.937793+00:00"
+  "last_updated": "2026-04-06T07:24:02.012417+00:00"
 }

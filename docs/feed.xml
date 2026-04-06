@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 07:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 07:24:02 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[159 pts] In Japan, the robot isn't coming for your job; it's filling the one nobody wants</title>
+      <link>https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/</link>
+      <description>&lt;p&gt;&lt;strong&gt;159 points&lt;/strong&gt; by rbanffy | &lt;strong&gt;184 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47654620&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47654620</guid>
+      <pubDate>Sun, 05 Apr 2026 22:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[574 pts] Gemma 4 on iPhone</title>
+      <link>https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337</link>
+      <description>&lt;p&gt;&lt;strong&gt;574 points&lt;/strong&gt; by janandonly | &lt;strong&gt;151 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47652561&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47652561</guid>
+      <pubDate>Sun, 05 Apr 2026 18:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[409 pts] Why Switzerland has 25 Gbit internet and America doesn't</title>
+      <link>https://sschueller.github.io/posts/the-free-market-lie/</link>
+      <description>&lt;p&gt;&lt;strong&gt;409 points&lt;/strong&gt; by sschueller | &lt;strong&gt;305 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47652400&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47652400</guid>
+      <pubDate>Sun, 05 Apr 2026 18:29:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[174 pts] LibreOffice – Let's put an end to the speculation</title>
+      <link>https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/</link>
+      <description>&lt;p&gt;&lt;strong&gt;174 points&lt;/strong&gt; by eisa01 | &lt;strong&gt;106 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47652324&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47652324</guid>
+      <pubDate>Sun, 05 Apr 2026 18:23:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[160 pts] Music for Programming</title>
+      <link>https://musicforprogramming.net</link>
+      <description>&lt;p&gt;&lt;strong&gt;160 points&lt;/strong&gt; by merusame | &lt;strong&gt;70 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47652322&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47652322</guid>
+      <pubDate>Sun, 05 Apr 2026 18:23:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[364 pts] Microsoft hasn't had a coherent GUI strategy since Petzold</title>
+      <link>https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/</link>
+      <description>&lt;p&gt;&lt;strong&gt;364 points&lt;/strong&gt; by naves | &lt;strong&gt;209 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47651703&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47651703</guid>
+      <pubDate>Sun, 05 Apr 2026 17:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[248 pts] Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code</title>
+      <link>https://ai.georgeliu.com/p/running-google-gemma-4-locally-with</link>
+      <description>&lt;p&gt;&lt;strong&gt;248 points&lt;/strong&gt; by vbtechguy | &lt;strong&gt;59 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47651540&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47651540</guid>
+      <pubDate>Sun, 05 Apr 2026 17:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[199 pts] Codex pricing to align with API token usage, instead of per-message</title>
+      <link>https://help.openai.com/en/articles/20001106-codex-rate-card</link>
+      <description>&lt;p&gt;&lt;strong&gt;199 points&lt;/strong&gt; by ccmcarey | &lt;strong&gt;182 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47650726&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47650726</guid>
+      <pubDate>Sun, 05 Apr 2026 15:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[153 pts] A tail-call interpreter in (nightly) Rust</title>
+      <link>https://www.mattkeeter.com/blog/2026-04-05-tailcall/</link>
+      <description>&lt;p&gt;&lt;strong&gt;153 points&lt;/strong&gt; by g0xA52A2A | &lt;strong&gt;30 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47650312&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47650312</guid>
+      <pubDate>Sun, 05 Apr 2026 15:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[183 pts] Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs</title>
+      <link>https://github.com/salmanmohammadi/nanocode/discussions/1</link>
+      <description>&lt;p&gt;&lt;strong&gt;183 points&lt;/strong&gt; by desideratum | &lt;strong&gt;24 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47649742&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47649742</guid>
+      <pubDate>Sun, 05 Apr 2026 14:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[465 pts] Artemis II crew see first glimpse of far side of Moon [video]</title>
+      <link>https://www.bbc.com/news/videos/ce3d5gkd2geo</link>
+      <description>&lt;p&gt;&lt;strong&gt;465 points&lt;/strong&gt; by mooreds | &lt;strong&gt;362 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47649721&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47649721</guid>
+      <pubDate>Sun, 05 Apr 2026 14:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[371 pts] Someone at BrowserStack is leaking users' email addresses</title>
+      <link>https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</link>
+      <description>&lt;p&gt;&lt;strong&gt;371 points&lt;/strong&gt; by m_km | &lt;strong&gt;101 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47649117&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47649117</guid>
+      <pubDate>Sun, 05 Apr 2026 13:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[354 pts] Finnish sauna heat exposure induces stronger immune cell than cytokine responses</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract</link>
+      <description>&lt;p&gt;&lt;strong&gt;354 points&lt;/strong&gt; by Growtika | &lt;strong&gt;231 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47649113&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47649113</guid>
+      <pubDate>Sun, 05 Apr 2026 13:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[751 pts] Eight years of wanting, three months of building with AI</title>
+      <link>https://lalitm.com/post/building-syntaqlite-ai/</link>
+      <description>&lt;p&gt;&lt;strong&gt;751 points&lt;/strong&gt; by brilee | &lt;strong&gt;227 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47648828&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47648828</guid>
+      <pubDate>Sun, 05 Apr 2026 12:43:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[345 pts] My Google Workspace account suspension</title>
+      <link>https://zencapital.substack.com/p/sad-story-of-my-google-workspace</link>
+      <description>&lt;p&gt;&lt;strong&gt;345 points&lt;/strong&gt; by zenincognito | &lt;strong&gt;197 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47648404&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47648404</guid>
+      <pubDate>Sun, 05 Apr 2026 11:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[858 pts] The threat is comfortable drift toward not understanding what you're doing</title>
+      <link>https://ergosphere.blog/posts/the-machines-are-fine/</link>
+      <description>&lt;p&gt;&lt;strong&gt;858 points&lt;/strong&gt; by zaikunzhang | &lt;strong&gt;571 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47647788&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47647788</guid>
+      <pubDate>Sun, 05 Apr 2026 09:57:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[752 pts] Caveman: Why use many token when few token do trick</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <description>&lt;p&gt;&lt;strong&gt;752 points&lt;/strong&gt; by tosh | &lt;strong&gt;327 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47647455&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47647455</guid>
+      <pubDate>Sun, 05 Apr 2026 08:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[258 pts] Lisette a little language inspired by Rust that compiles to Go</title>
+      <link>https://lisette.run/</link>
+      <description>&lt;p&gt;&lt;strong&gt;258 points&lt;/strong&gt; by jspdown | &lt;strong&gt;138 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47646843&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47646843</guid>
+      <pubDate>Sun, 05 Apr 2026 06:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[222 pts] Introduction to Computer Music (2009) [pdf]</title>
+      <link>https://composerprogrammer.com/introductiontocomputermusic.pdf</link>
+      <description>&lt;p&gt;&lt;strong&gt;222 points&lt;/strong&gt; by luu | &lt;strong&gt;77 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47645432&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47645432</guid>
+      <pubDate>Sun, 05 Apr 2026 01:54:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[392 pts] AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy</title>
+      <link>https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop</link>
+      <description>&lt;p&gt;&lt;strong&gt;392 points&lt;/strong&gt; by crcastle | &lt;strong&gt;142 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47644864&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47644864</guid>
+      <pubDate>Sun, 05 Apr 2026 00:13:55 +0000</pubDate>
+    </item>
     <item>
       <title>[554 pts] How many products does Microsoft have named 'Copilot'?</title>
       <link>https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html</link>
