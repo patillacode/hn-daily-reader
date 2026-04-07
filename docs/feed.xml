@@ -5,8 +5,168 @@
     <link>https://news.ycombinator.com</link>
     <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:24:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:10:01 +0000</lastBuildDate>
     <ns0:link href="https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[347 pts] Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS</title>
+      <link>https://github.com/matthartman/ghost-pepper</link>
+      <description>&lt;p&gt;&lt;strong&gt;347 points&lt;/strong&gt; by MattHart88 | &lt;strong&gt;152 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47666024&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47666024</guid>
+      <pubDate>Mon, 06 Apr 2026 19:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[528 pts] The cult of vibe coding is dogfooding run amok</title>
+      <link>https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane</link>
+      <description>&lt;p&gt;&lt;strong&gt;528 points&lt;/strong&gt; by drob518 | &lt;strong&gt;452 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47664912&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47664912</guid>
+      <pubDate>Mon, 06 Apr 2026 18:31:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[290 pts] Adobe modifies hosts file to detect whether Creative Cloud is installed</title>
+      <link>https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/</link>
+      <description>&lt;p&gt;&lt;strong&gt;290 points&lt;/strong&gt; by rglullis | &lt;strong&gt;139 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47664205&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47664205</guid>
+      <pubDate>Mon, 06 Apr 2026 17:38:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[458 pts] Battle for Wesnoth: open-source, turn-based strategy game</title>
+      <link>https://www.wesnoth.org</link>
+      <description>&lt;p&gt;&lt;strong&gt;458 points&lt;/strong&gt; by akyuu | &lt;strong&gt;127 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47664186&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47664186</guid>
+      <pubDate>Mon, 06 Apr 2026 17:37:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[257 pts] Launch HN: Freestyle – Sandboxes for Coding Agents</title>
+      <link>https://www.freestyle.sh/</link>
+      <description>&lt;p&gt;&lt;strong&gt;257 points&lt;/strong&gt; by benswerd | &lt;strong&gt;142 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47663147&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47663147</guid>
+      <pubDate>Mon, 06 Apr 2026 16:32:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[264 pts] Show HN: GovAuctions lets you browse government auctions at once</title>
+      <link>https://www.govauctions.app/</link>
+      <description>&lt;p&gt;&lt;strong&gt;264 points&lt;/strong&gt; by player_piano | &lt;strong&gt;75 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47662945&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47662945</guid>
+      <pubDate>Mon, 06 Apr 2026 16:21:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[346 pts] 81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone</title>
+      <link>https://twitter.com/Suzierizzo1/status/2040864617467924865</link>
+      <description>&lt;p&gt;&lt;strong&gt;346 points&lt;/strong&gt; by josephcsible | &lt;strong&gt;399 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47662857&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47662857</guid>
+      <pubDate>Mon, 06 Apr 2026 16:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[435 pts] A cryptography engineer's perspective on quantum computing timelines</title>
+      <link>https://words.filippo.io/crqc-timeline/</link>
+      <description>&lt;p&gt;&lt;strong&gt;435 points&lt;/strong&gt; by thadt | &lt;strong&gt;176 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47662234&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47662234</guid>
+      <pubDate>Mon, 06 Apr 2026 15:31:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[860 pts] I won't download your app. The web version is a-ok</title>
+      <link>https://www.0xsid.com/blog/wont-download-your-app</link>
+      <description>&lt;p&gt;&lt;strong&gt;860 points&lt;/strong&gt; by ssiddharth | &lt;strong&gt;503 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47661439&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47661439</guid>
+      <pubDate>Mon, 06 Apr 2026 14:31:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[291 pts] German police name alleged leaders of GandCrab and REvil ransomware groups</title>
+      <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
+      <description>&lt;p&gt;&lt;strong&gt;291 points&lt;/strong&gt; by Bender | &lt;strong&gt;140 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47660954&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47660954</guid>
+      <pubDate>Mon, 06 Apr 2026 13:52:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[983 pts] Issue: Claude Code is unusable for complex engineering tasks with Feb updates</title>
+      <link>https://github.com/anthropics/claude-code/issues/42796</link>
+      <description>&lt;p&gt;&lt;strong&gt;983 points&lt;/strong&gt; by StanAngeloff | &lt;strong&gt;550 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47660925&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47660925</guid>
+      <pubDate>Mon, 06 Apr 2026 13:50:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[386 pts] What being ripped off taught me</title>
+      <link>https://belief.horse/notes/what-being-ripped-off-taught-me/</link>
+      <description>&lt;p&gt;&lt;strong&gt;386 points&lt;/strong&gt; by doctorhandshake | &lt;strong&gt;197 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47660286&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47660286</guid>
+      <pubDate>Mon, 06 Apr 2026 12:53:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1244 pts] Sam Altman may control our future – can he be trusted?</title>
+      <link>https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted</link>
+      <description>&lt;p&gt;&lt;strong&gt;1244 points&lt;/strong&gt; by adrianhon | &lt;strong&gt;475 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47659135&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47659135</guid>
+      <pubDate>Mon, 06 Apr 2026 10:36:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[293 pts] Age verification as mass surveillance infrastructure</title>
+      <link>https://tboteproject.com/surveillancefindings/</link>
+      <description>&lt;p&gt;&lt;strong&gt;293 points&lt;/strong&gt; by rurban | &lt;strong&gt;109 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47659109&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47659109</guid>
+      <pubDate>Mon, 06 Apr 2026 10:33:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[580 pts] France pulls last gold held in US</title>
+      <link>https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/</link>
+      <description>&lt;p&gt;&lt;strong&gt;580 points&lt;/strong&gt; by teleforce | &lt;strong&gt;320 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47658146&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47658146</guid>
+      <pubDate>Mon, 06 Apr 2026 08:03:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[251 pts] An open-source 240-antenna array to bounce signals off the Moon</title>
+      <link>https://moonrf.com/</link>
+      <description>&lt;p&gt;&lt;strong&gt;251 points&lt;/strong&gt; by hillcrestenigma | &lt;strong&gt;60 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47656622&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47656622</guid>
+      <pubDate>Mon, 06 Apr 2026 03:22:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[285 pts] The 1987 game “The Last Ninja” was 40 kilobytes</title>
+      <link>https://twitter.com/exQUIZitely/status/2040777977521398151</link>
+      <description>&lt;p&gt;&lt;strong&gt;285 points&lt;/strong&gt; by keepamovin | &lt;strong&gt;177 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47656501&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47656501</guid>
+      <pubDate>Mon, 06 Apr 2026 03:03:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[438 pts] Employers use your personal data to figure out the lowest salary you'll accept</title>
+      <link>https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb</link>
+      <description>&lt;p&gt;&lt;strong&gt;438 points&lt;/strong&gt; by thisislife2 | &lt;strong&gt;278 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47655466&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47655466</guid>
+      <pubDate>Mon, 06 Apr 2026 00:29:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[863 pts] Show HN: I built a tiny LLM to demystify how language models work</title>
+      <link>https://github.com/arman-bd/guppylm</link>
+      <description>&lt;p&gt;&lt;strong&gt;863 points&lt;/strong&gt; by armanified | &lt;strong&gt;128 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47655408&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47655408</guid>
+      <pubDate>Mon, 06 Apr 2026 00:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[311 pts] Show HN: I made a YouTube search form with advanced filters</title>
+      <link>https://playlists.at/youtube/search/</link>
+      <description>&lt;p&gt;&lt;strong&gt;311 points&lt;/strong&gt; by nevernothing | &lt;strong&gt;196 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47655392&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47655392</guid>
+      <pubDate>Mon, 06 Apr 2026 00:18:26 +0000</pubDate>
+    </item>
     <item>
       <title>[159 pts] In Japan, the robot isn't coming for your job; it's filling the one nobody wants</title>
       <link>https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/</link>
