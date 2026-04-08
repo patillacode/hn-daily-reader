@@ -12649,7 +12649,207 @@
       "created_at": 1775445762,
       "num_comments": 60,
       "hn_url": "https://news.ycombinator.com/item?id=47656622"
+    },
+    {
+      "id": "47679121",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "points": 1185,
+      "author": "Ryan5453",
+      "created_at": 1775585374,
+      "num_comments": 557,
+      "hn_url": "https://news.ycombinator.com/item?id=47679121"
+    },
+    {
+      "id": "47673360",
+      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+      "points": 747,
+      "author": "sam-bee",
+      "created_at": 1775560064,
+      "num_comments": 228,
+      "hn_url": "https://news.ycombinator.com/item?id=47673360"
+    },
+    {
+      "id": "47679258",
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "points": 644,
+      "author": "be7a",
+      "created_at": 1775585916,
+      "num_comments": 459,
+      "hn_url": "https://news.ycombinator.com/item?id=47679258"
+    },
+    {
+      "id": "47676509",
+      "title": "Lunar Flyby",
+      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "points": 626,
+      "author": "kipi",
+      "created_at": 1775574198,
+      "num_comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=47676509"
+    },
+    {
+      "id": "47672818",
+      "title": "Are We Idiocracy Yet?",
+      "url": "https://idiocracy.wtf/",
+      "points": 603,
+      "author": "jdiiufccuskal",
+      "created_at": 1775555859,
+      "num_comments": 518,
+      "hn_url": "https://news.ycombinator.com/item?id=47672818"
+    },
+    {
+      "id": "47677853",
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "url": "https://z.ai/blog/glm-5.1",
+      "points": 497,
+      "author": "zixuanlimit",
+      "created_at": 1775579535,
+      "num_comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=47677853"
+    },
+    {
+      "id": "47682276",
+      "title": "US and Iran agree to provisional ceasefire",
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+      "points": 417,
+      "author": "g-b-r",
+      "created_at": 1775601662,
+      "num_comments": 1136,
+      "hn_url": "https://news.ycombinator.com/item?id=47682276"
+    },
+    {
+      "id": "47673005",
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "points": 407,
+      "author": "henrygarner",
+      "created_at": 1775557512,
+      "num_comments": 192,
+      "hn_url": "https://news.ycombinator.com/item?id=47673005"
+    },
+    {
+      "id": "47675013",
+      "title": "Dropping Cloudflare for Bunny.net",
+      "url": "https://jola.dev/posts/dropping-cloudflare",
+      "points": 382,
+      "author": "shintoist",
+      "created_at": 1775568185,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=47675013"
+    },
+    {
+      "id": "47678573",
+      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+      "points": 358,
+      "author": "speckx",
+      "created_at": 1775582623,
+      "num_comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=47678573"
+    },
+    {
+      "id": "47672295",
+      "title": "Every GPU That Mattered",
+      "url": "https://sheets.works/data-viz/every-gpu",
+      "points": 311,
+      "author": "jonbaer",
+      "created_at": 1775551097,
+      "num_comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=47672295"
+    },
+    {
+      "id": "47675625",
+      "title": "Cloudflare targets 2029 for full post-quantum security",
+      "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
+      "points": 311,
+      "author": "ilreb",
+      "created_at": 1775570854,
+      "num_comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=47675625"
+    },
+    {
+      "id": "47677142",
+      "title": "12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)",
+      "url": "https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined",
+      "points": 285,
+      "author": "pulisse",
+      "created_at": 1775576836,
+      "num_comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=47677142"
+    },
+    {
+      "id": "47679155",
+      "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+      "url": "https://red.anthropic.com/2026/mythos-preview/",
+      "points": 280,
+      "author": "sweis",
+      "created_at": 1775585491,
+      "num_comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=47679155"
+    },
+    {
+      "id": "47680404",
+      "title": "S3 Files",
+      "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+      "points": 276,
+      "author": "werner",
+      "created_at": 1775591041,
+      "num_comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=47680404"
+    },
+    {
+      "id": "47674286",
+      "title": "Trump says 'a whole civilization will die tonight' if Iran does not make a deal",
+      "url": "https://www.reuters.com/world/middle-east/trump-says-a-whole-civilization-will-die-tonight-if-iran-does-not-make-deal-2026-04-07/",
+      "points": 244,
+      "author": "jacquesm",
+      "created_at": 1775565110,
+      "num_comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=47674286"
+    },
+    {
+      "id": "47677241",
+      "title": "Taste in the age of AI and LLMs",
+      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+      "points": 237,
+      "author": "speckx",
+      "created_at": 1775577256,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=47677241"
+    },
+    {
+      "id": "47673394",
+      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+      "url": "https://locker.dev",
+      "points": 233,
+      "author": "Zm44",
+      "created_at": 1775560337,
+      "num_comments": 194,
+      "hn_url": "https://news.ycombinator.com/item?id=47673394"
+    },
+    {
+      "id": "47676521",
+      "title": "Claude Code login fails with OAuth timeout on Windows",
+      "url": "https://github.com/anthropics/claude-code/issues/44257",
+      "points": 219,
+      "author": "sh1mmer",
+      "created_at": 1775574263,
+      "num_comments": 294,
+      "hn_url": "https://news.ycombinator.com/item?id=47676521"
+    },
+    {
+      "id": "47673541",
+      "title": "AI may be making us think and write more alike",
+      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+      "points": 218,
+      "author": "giuliomagnifico",
+      "created_at": 1775561342,
+      "num_comments": 230,
+      "hn_url": "https://news.ycombinator.com/item?id=47673541"
     }
   ],
-  "last_updated": "2026-04-07T07:10:01.840206+00:00"
+  "last_updated": "2026-04-08T07:12:05.462828+00:00"
 }
