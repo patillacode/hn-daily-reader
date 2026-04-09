@@ -103,7 +103,7 @@ def generate_rss(posts, output_file):
 
     # Add atom:link for self-reference (RSS best practice)
     atom_link = ET.SubElement(channel, "{http://www.w3.org/2005/Atom}link")
-    atom_link.set("href", "https://patillacode.github.io/hn-daily-reader/feed.xml")
+    atom_link.set("href", "https://code.patilla.es/hn-daily-reader/feed.xml")
     atom_link.set("rel", "self")
     atom_link.set("type", "application/rss+xml")
 
