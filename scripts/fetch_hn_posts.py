@@ -18,7 +18,7 @@ import urllib.parse
 ALGOLIA_API_URL = "https://hn.algolia.com/api/v1/search"
 MIN_POINTS = 100  # Minimum points for a post to be included
 POSTS_PER_DAY = 5  # Maximum posts to fetch per day
-RETENTION_DAYS = 90  # Keep posts for 90 days
+RETENTION_DAYS = 30  # Keep posts for 30 days
 FEED_DATA_FILE = "docs/feed_data.json"
 RSS_FILE = "docs/feed.xml"
 
