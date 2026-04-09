@@ -17,7 +17,7 @@ import urllib.parse
 # Configuration
 ALGOLIA_API_URL = "https://hn.algolia.com/api/v1/search"
 MIN_POINTS = 100  # Minimum points for a post to be included
-POSTS_PER_DAY = 20  # Maximum posts to fetch per day
+POSTS_PER_DAY = 5  # Maximum posts to fetch per day
 RETENTION_DAYS = 90  # Keep posts for 90 days
 FEED_DATA_FILE = "docs/feed_data.json"
 RSS_FILE = "docs/feed.xml"
@@ -103,7 +103,7 @@ def generate_rss(posts, output_file):
 
     # Add atom:link for self-reference (RSS best practice)
     atom_link = ET.SubElement(channel, "{http://www.w3.org/2005/Atom}link")
-    atom_link.set("href", "https://YOUR_USERNAME.github.io/hn-daily-reader/feed.xml")
+    atom_link.set("href", "https://patillacode.github.io/hn-daily-reader/feed.xml")
     atom_link.set("rel", "self")
     atom_link.set("type", "application/rss+xml")
 
