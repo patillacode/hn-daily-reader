@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": "47687273",
+      "title": "Git commands I run before reading any code",
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "points": 2163,
+      "author": "grepsedawk",
+      "created_at": 1775638422,
+      "num_comments": 461,
+      "hn_url": "https://news.ycombinator.com/item?id=47687273"
+    },
+    {
+      "id": "47691730",
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "points": 1784,
+      "author": "blkhp19",
+      "created_at": 1775662800,
+      "num_comments": 301,
+      "hn_url": "https://news.ycombinator.com/item?id=47691730"
+    },
+    {
+      "id": "47686549",
+      "title": "Veracrypt project update",
+      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "points": 1242,
+      "author": "super256",
+      "created_at": 1775633019,
+      "num_comments": 484,
+      "hn_url": "https://news.ycombinator.com/item?id=47686549"
+    },
+    {
+      "id": "47689237",
+      "title": "US cities are axing Flock Safety surveillance technology",
+      "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+      "points": 729,
+      "author": "giuliomagnifico",
+      "created_at": 1775651174,
+      "num_comments": 411,
+      "hn_url": "https://news.ycombinator.com/item?id=47689237"
+    },
+    {
+      "id": "47688678",
+      "title": "They're made out of meat (1991)",
+      "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+      "points": 605,
+      "author": "surprisetalk",
+      "created_at": 1775647250,
+      "num_comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=47688678"
+    }
+  ],
+  "last_updated": "2026-04-09T17:07:17.996279+00:00"
+}

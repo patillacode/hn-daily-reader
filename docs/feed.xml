@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>HN Daily Top Posts</title>
+    <link>https://news.ycombinator.com</link>
+    <description>Daily curated top posts from Hacker News (auto-generated, last 90 days)</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2026 17:07:17 +0000</lastBuildDate>
+    <ns0:link href="https://code.patilla.es/hn-daily-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[1784 pts] I ported Mac OS X to the Nintendo Wii</title>
+      <link>https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html</link>
+      <description>&lt;p&gt;&lt;strong&gt;1784 points&lt;/strong&gt; by blkhp19 | &lt;strong&gt;301 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47691730&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47691730</guid>
+      <pubDate>Wed, 08 Apr 2026 15:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[729 pts] US cities are axing Flock Safety surveillance technology</title>
+      <link>https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/</link>
+      <description>&lt;p&gt;&lt;strong&gt;729 points&lt;/strong&gt; by giuliomagnifico | &lt;strong&gt;411 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47689237&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47689237</guid>
+      <pubDate>Wed, 08 Apr 2026 12:26:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[605 pts] They're made out of meat (1991)</title>
+      <link>http://www.terrybisson.com/theyre-made-out-of-meat-2/</link>
+      <description>&lt;p&gt;&lt;strong&gt;605 points&lt;/strong&gt; by surprisetalk | &lt;strong&gt;164 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47688678&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47688678</guid>
+      <pubDate>Wed, 08 Apr 2026 11:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[2163 pts] Git commands I run before reading any code</title>
+      <link>https://piechowski.io/post/git-commands-before-reading-code/</link>
+      <description>&lt;p&gt;&lt;strong&gt;2163 points&lt;/strong&gt; by grepsedawk | &lt;strong&gt;461 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47687273&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47687273</guid>
+      <pubDate>Wed, 08 Apr 2026 08:53:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[1242 pts] Veracrypt project update</title>
+      <link>https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/</link>
+      <description>&lt;p&gt;&lt;strong&gt;1242 points&lt;/strong&gt; by super256 | &lt;strong&gt;484 comments&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=47686549&quot;&gt;View on Hacker News&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47686549</guid>
+      <pubDate>Wed, 08 Apr 2026 07:23:39 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
